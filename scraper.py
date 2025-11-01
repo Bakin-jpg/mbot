@@ -140,35 +140,43 @@ async def scrape_kickass_anime():
                         # Tunggu elemen episode list muncul
                         await watch_page.wait_for_selector(".episode-item", timeout=30000)
                         
+                        # Dapatkan jumlah episode terlebih dahulu
                         episode_items = await watch_page.query_selector_all(".episode-item")
                         print(f"Menemukan {len(episode_items)} episode")
                         
                         # Process only first 5 episodes for testing
-                        for ep_index, ep_item in enumerate(episode_items[:5]):
+                        for ep_index in range(min(5, len(episode_items))):
                             try:
+                                # Dapatkan ulang elemen episode setiap iterasi
+                                episode_items = await watch_page.query_selector_all(".episode-item")
+                                if ep_index >= len(episode_items):
+                                    break
+                                    
+                                ep_item = episode_items[ep_index]
+                                
                                 # Nomor episode
                                 ep_badge = await ep_item.query_selector(".episode-badge .v-chip__content")
                                 ep_number = await ep_badge.inner_text() if ep_badge else f"EP {ep_index + 1}"
                                 
                                 print(f"  - Mengklik episode {ep_number}...")
                                 
+                                # URL episode sebelum klik
+                                ep_link = await ep_item.query_selector(".v-card--link")
+                                ep_url = await ep_link.get_attribute("href") if ep_link else None
+                                
                                 # Klik episode untuk memuat iframe
                                 await ep_item.click()
-                                await watch_page.wait_for_timeout(3000)  # Tunggu loading
+                                await watch_page.wait_for_timeout(5000)  # Tunggu loading lebih lama
                                 
-                                # Tunggu iframe player muncul
+                                # Tunggu iframe player muncul atau berubah
                                 try:
-                                    await watch_page.wait_for_selector("iframe.player", timeout=10000)
+                                    await watch_page.wait_for_selector("iframe.player", timeout=15000)
                                 except:
                                     print(f"    Iframe tidak muncul untuk {ep_number}")
                                 
                                 # Scrape iframe setelah klik
                                 ep_iframe_element = await watch_page.query_selector("iframe.player")
                                 ep_iframe = await ep_iframe_element.get_attribute("src") if ep_iframe_element else "Iframe tidak tersedia"
-                                
-                                # URL episode dari elemen yang diklik
-                                ep_link = await ep_item.query_selector(".v-card--link")
-                                ep_url = await ep_link.get_attribute("href") if ep_link else None
                                 
                                 episodes_data.append({
                                     "episode_number": ep_number,
@@ -179,7 +187,7 @@ async def scrape_kickass_anime():
                                 print(f"    Iframe: {ep_iframe}")
                                 
                             except Exception as ep_e:
-                                print(f"Gagal memproses episode {ep_index}: {ep_e}")
+                                print(f"Gagal memproses episode {ep_index}: {type(ep_e).__name__}: {ep_e}")
                                 continue
                                 
                     except Exception as e:
@@ -216,9 +224,9 @@ async def scrape_kickass_anime():
             print(f"HASIL SCRAPING SELESAI. Total {len(scraped_data)} data berhasil diambil.")
             print("="*50)
                 
-            with open('anime_data.json', 'w', encoding='utf-8') as f:
+            with open('anime_data_with_all_iframes.json', 'w', encoding='utf-8') as f:
                 json.dump(scraped_data, f, ensure_ascii=False, indent=4)
-            print("\nData berhasil disimpan ke anime_data.json")
+            print("\nData berhasil disimpan ke anime_data_with_all_iframes.json")
 
         except Exception as e:
             print(f"Terjadi kesalahan fatal: {type(e).__name__}: {e}")
