@@ -435,9 +435,9 @@ async def scrape_kickass_anime():
             print(f"HASIL SCRAPING SELESAI. Total {len(scraped_data)} data berhasil diambil.")
             print("="*50)
                 
-            with open('anime_data_with_all_iframes.json', 'w', encoding='utf-8') as f:
+            with open('anime_data.json', 'w', encoding='utf-8') as f:
                 json.dump(scraped_data, f, ensure_ascii=False, indent=4)
-            print("\nData berhasil disimpan ke anime_data_with_all_iframes.json")
+            print("\nData berhasil disimpan ke anime_data.json")
 
         except Exception as e:
             print(f"Terjadi kesalahan fatal: {type(e).__name__}: {e}")
