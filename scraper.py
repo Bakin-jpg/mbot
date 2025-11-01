@@ -37,7 +37,7 @@ async def scrape_kickass_anime():
 
             scraped_data = []
 
-            for index, item in enumerate(anime_items[:3]):  # Batasi untuk testing
+            for index, item in enumerate(anime_items[:36]):  # Batasi untuk testing
                 print(f"\n--- Memproses Item #{index + 1} ---")
                 detail_page = None
                 watch_page = None
