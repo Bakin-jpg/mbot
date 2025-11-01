@@ -6,7 +6,7 @@ import re
 
 async def scrape_kickass_anime():
     """
-    Scrape data anime lengkap dari kickass-anime.ru, termasuk iframe dan episode.
+    Scrape data anime lengkap dari kickass-anime.ru, termasuk iframe setiap episode.
     """
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -110,7 +110,7 @@ async def scrape_kickass_anime():
                     await watch_page.goto(watch_url, timeout=90000)
                     await watch_page.wait_for_selector(".player-container", timeout=30000)
                     
-                    # Scrape iframe player
+                    # Scrape iframe player untuk episode saat ini
                     iframe_element = await watch_page.query_selector("iframe.player")
                     iframe_src = await iframe_element.get_attribute("src") if iframe_element else "Iframe tidak ditemukan"
                     print(f"URL Iframe: {iframe_src}")
@@ -134,7 +134,7 @@ async def scrape_kickass_anime():
                     except Exception as e:
                         print(f"Gagal scrape info episode: {e}")
 
-                    # Scrape daftar episode
+                    # Scrape daftar episode dengan iframe masing-masing
                     episodes_data = []
                     try:
                         # Tunggu elemen episode list muncul
@@ -148,29 +148,41 @@ async def scrape_kickass_anime():
                                 # URL episode
                                 ep_link = await ep_item.query_selector(".v-card--link")
                                 ep_url = await ep_link.get_attribute("href") if ep_link else None
-                                if ep_url:
-                                    ep_url = urljoin(base_url, ep_url)
                                 
                                 # Nomor episode
                                 ep_badge = await ep_item.query_selector(".episode-badge .v-chip__content")
                                 ep_number = await ep_badge.inner_text() if ep_badge else f"EP {ep_index + 1}"
                                 
-                                # Thumbnail episode
-                                ep_thumbnail = "Tidak tersedia"
-                                ep_image = await ep_item.query_selector(".v-image__image--cover")
-                                if ep_image:
-                                    ep_style = await ep_image.get_attribute("style")
-                                    if ep_style and 'url("' in ep_style:
-                                        parts = ep_style.split('url("')
-                                        if len(parts) > 1:
-                                            ep_thumb_path = parts[1].split('")')[0]
-                                            ep_thumbnail = urljoin(base_url, ep_thumb_path)
+                                # Jika episode memiliki URL, buka untuk ambil iframe
+                                ep_iframe = "Iframe tidak tersedia"
+                                if ep_url:
+                                    full_ep_url = urljoin(base_url, ep_url)
+                                    
+                                    # Buka halaman episode untuk ambil iframe
+                                    ep_page = await context.new_page()
+                                    try:
+                                        await ep_page.goto(full_ep_url, timeout=60000)
+                                        await ep_page.wait_for_selector(".player-container", timeout=20000)
+                                        
+                                        # Scrape iframe dari episode ini
+                                        ep_iframe_element = await ep_page.query_selector("iframe.player")
+                                        if ep_iframe_element:
+                                            ep_iframe = await ep_iframe_element.get_attribute("src")
+                                        
+                                        await ep_page.close()
+                                    except Exception as ep_page_error:
+                                        print(f"Gagal membuka halaman episode {ep_number}: {ep_page_error}")
+                                        if not ep_page.is_closed():
+                                            await ep_page.close()
+                                        ep_iframe = "Gagal mengambil iframe"
                                 
                                 episodes_data.append({
                                     "episode_number": ep_number,
                                     "episode_url": ep_url,
-                                    "thumbnail": ep_thumbnail
+                                    "iframe_url": ep_iframe
                                 })
+                                
+                                print(f"  - Episode {ep_number}: {ep_iframe}")
                                 
                             except Exception as ep_e:
                                 print(f"Gagal memproses episode {ep_index}: {ep_e}")
@@ -210,9 +222,9 @@ async def scrape_kickass_anime():
             print(f"HASIL SCRAPING SELESAI. Total {len(scraped_data)} data berhasil diambil.")
             print("="*50)
                 
-            with open('anime_data.json', 'w', encoding='utf-8') as f:
+            with open('anime_data_with_all_iframes.json', 'w', encoding='utf-8') as f:
                 json.dump(scraped_data, f, ensure_ascii=False, indent=4)
-            print("\nData berhasil disimpan ke anime_data.json")
+            print("\nData berhasil disimpan ke anime_data_with_all_iframes.json")
 
         except Exception as e:
             print(f"Terjadi kesalahan fatal: {type(e).__name__}: {e}")
