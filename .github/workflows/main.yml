@@ -1,53 +1,63 @@
-name: Scrape Anime
+# Nama workflow yang akan muncul di tab "Actions" di GitHub
+name: Scrape Anime Data
 
+# Pemicu (trigger) untuk menjalankan workflow ini
 on:
-  # Menjadwalkan eksekusi setiap 6 jam sekali
+  # Menjalankan secara terjadwal menggunakan cron
   schedule:
+    # Jalankan setiap 6 jam sekali (pada menit ke-0 di jam 0, 6, 12, 18 UTC)
+    # Anda bisa sesuaikan jadwalnya. '0 0 * * *' adalah setiap hari jam 00:00 UTC.
     - cron: '0 */6 * * *'
   
-  # Memungkinkan untuk menjalankan workflow secara manual dari tab Actions
+  # Memungkinkan Anda menjalankan workflow ini secara manual dari tab Actions
   workflow_dispatch:
 
+# Daftar pekerjaan (jobs) yang akan dijalankan
 jobs:
   scrape:
+    # Tipe runner (mesin virtual) yang akan digunakan
     runs-on: ubuntu-latest
-    timeout-minutes: 30
 
-    # Memberikan izin tulis agar workflow bisa melakukan push ke repositori
+    # Memberikan izin kepada GITHUB_TOKEN agar bisa menulis ke repositori (untuk git push)
     permissions:
       contents: write
 
+    # Langkah-langkah (steps) yang akan dieksekusi oleh job
     steps:
-    # Langkah 1: Checkout kode dari repositori
-    - name: Checkout Repository
-      uses: actions/checkout@v3
+      # Langkah 1: Mengunduh kode dari repositori Anda ke runner
+      - name: Check out repository code
+        uses: actions/checkout@v3
 
-    # Langkah 2: Menyiapkan lingkungan Python
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.9
+      # Langkah 2: Menyiapkan lingkungan Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    # Langkah 3: Menginstal Playwright dan browser yang dibutuhkan
-    - name: Install Dependencies
-      run: |
-        pip install playwright
-        playwright install --with-deps chromium
+      # Langkah 3: Menginstal dependensi yang dibutuhkan oleh skrip
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          # Perintah ini penting untuk menginstal browser Chromium yang dibutuhkan Playwright
+          python -m playwright install --with-deps chromium
 
-    # Langkah 4: Menjalankan skrip scraper Python
-    - name: Run Scraper
-      run: python scraper.py
+      # Langkah 4: Menjalankan skrip scraper Python Anda
+      - name: Run scraper
+        run: python scraper.py # Pastikan nama file ini sesuai dengan nama file skrip Anda
 
-    # Langkah 5: Menyimpan hasil (jika ada perubahan) ke repositori
-    - name: Commit and Push Results
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add anime_iframes.json
-        # Hanya commit dan push jika file anime_iframes.json benar-benar berubah
-        if ! git diff --staged --quiet; then
-          git commit -m "Update anime iframe data"
+      # Langkah 5: Melakukan commit dan push file hasil scrape (jika ada perubahan)
+      - name: Commit and push if changed
+        run: |
+          # Konfigurasi identitas git untuk bot actions
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Tambahkan file hasil scrape ke staging area
+          git add anime_data.json
+          
+          # Lakukan commit. "|| exit 0" mencegah workflow gagal jika tidak ada perubahan file.
+          git commit -m "Update anime data" || exit 0
+          
+          # Push perubahan ke repositori
           git push
-        else
-          echo "Tidak ada perubahan pada data."
-        fi
