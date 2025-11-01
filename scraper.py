@@ -193,6 +193,13 @@ async def scrape_kickass_anime():
                                         subdub_options = [active_text.strip()]
                                         print(f"Hanya menemukan 1 opsi: {active_text}")
                             
+                            # === PERUBAHAN PENTING: PRIORITAS CHINESE ===
+                            chinese_options = [subdub for subdub in subdub_options if 'chinese' in subdub.lower()]
+                            if chinese_options:
+                                print(f"  🎯 CHINESE DETECTED - Filter hanya Chinese: {chinese_options}")
+                                subdub_options = chinese_options
+                            # === END PERUBAHAN ===
+                            
                             # Tutup dropdown
                             await watch_page.keyboard.press("Escape")
                             await watch_page.wait_for_timeout(1000)
@@ -276,38 +283,48 @@ async def scrape_kickass_anime():
                         
                         return any(pattern in iframe_src for pattern in valid_patterns)
 
-                    # Fungsi untuk mendapatkan iframe dengan sub/dub fallback
-                    async def get_iframe_with_fallback(watch_page, episode_number):
-                        """Mendapatkan iframe dengan fallback ke sub/dub lain jika gagal"""
-                        # Dapatkan daftar sub/dub yang tersedia DARI DROPDOWN YANG BENAR
+                    # Fungsi untuk mendapatkan semua iframe untuk semua sub/dub yang tersedia
+                    async def get_all_subdub_iframes(watch_page, episode_number):
+                        """Mendapatkan semua iframe untuk semua sub/dub yang tersedia"""
+                        # Dapatkan daftar sub/dub yang tersedia
                         available_subdub = await get_available_subdub_from_dropdown(watch_page)
                         
-                        # Jika tidak ada dropdown atau hanya ada 1 pilihan, langsung ambil iframe current
-                        if not available_subdub or len(available_subdub) <= 1:
-                            print("  Tidak ada pilihan sub/dub multiple, menggunakan iframe default")
+                        # === PERUBAHAN PENTING: PRIORITAS CHINESE ===
+                        chinese_options = [subdub for subdub in available_subdub if 'chinese' in subdub.lower()]
+                        if chinese_options:
+                            print(f"  🎯 DETECTED CHINESE CONTENT - Hanya ambil Chinese: {chinese_options}")
+                            available_subdub = chinese_options  # Hanya proses Chinese saja
+                        # === END PERUBAHAN ===
+                        
+                        if not available_subdub:
+                            print("  Tidak ada pilihan sub/dub, menggunakan iframe default")
                             iframe_element = await watch_page.query_selector("iframe.player")
                             current_iframe = await iframe_element.get_attribute("src") if iframe_element else "Iframe tidak ditemukan"
-                            subdub_used = available_subdub[0] if available_subdub else "Default"
                             return {
                                 "iframe_url": current_iframe,
-                                "subdub_used": subdub_used,
-                                "status": "success"
+                                "subdub_used": "Default",
+                                "status": "success",
+                                "all_subdub_iframes": {available_subdub[0] if available_subdub else "Default": current_iframe}
                             }
                         
-                        print(f"  Mencoba {len(available_subdub)} sub/dub: {available_subdub}")
+                        print(f"  Mengambil iframe untuk {len(available_subdub)} sub/dub: {available_subdub}")
+                        
+                        all_iframes = {}
+                        current_subdub = available_subdub[0]
                         
                         # Simpan iframe original terlebih dahulu
                         iframe_element = await watch_page.query_selector("iframe.player")
                         original_iframe = await iframe_element.get_attribute("src") if iframe_element else "Iframe tidak ditemukan"
+                        all_iframes[current_subdub] = original_iframe
                         
                         # Coba setiap sub/dub yang tersedia (kecuali yang pertama)
                         for i, subdub in enumerate(available_subdub):
-                            print(f"  Mencoba sub/dub: {subdub}")
-                            
                             # Skip yang pertama karena itu yang sedang aktif
                             if i == 0:
                                 continue
                                 
+                            print(f"  Mengambil iframe untuk: {subdub}")
+                            
                             # Ganti sub/dub
                             success = await change_subdub_from_dropdown(watch_page, subdub)
                             if not success:
@@ -324,26 +341,60 @@ async def scrape_kickass_anime():
                             # Cek jika iframe valid
                             if await is_iframe_valid(iframe_src):
                                 print(f"    ✓ Iframe valid ditemukan untuk {subdub}")
-                                return {
-                                    "iframe_url": iframe_src,
-                                    "subdub_used": subdub,
-                                    "status": "success"
-                                }
+                                all_iframes[subdub] = iframe_src
                             else:
                                 print(f"    ✗ Iframe tidak valid untuk {subdub}")
+                                all_iframes[subdub] = "Iframe tidak valid"
                         
-                        # Jika semua gagal, kembali ke yang original
-                        print(f"  Semua sub/dub gagal untuk episode {episode_number}, kembali ke original")
+                        # Generate semua URL alternatif berdasarkan iframe yang berhasil
+                        all_subdub_urls = {}
+                        for subdub_name, iframe_url in all_iframes.items():
+                            if await is_iframe_valid(iframe_url):
+                                all_subdub_urls[subdub_name] = iframe_url
+                                
+                                # Hanya generate versi lain jika bukan Chinese content
+                                if "ln=" in iframe_url and not any('chinese' in subdub_name.lower() for subdub_name in all_iframes.keys()):
+                                    base_iframe = iframe_url
+                                    # Generate Japanese version
+                                    jp_url = base_iframe.replace("ln=en-US", "ln=ja-JP").replace("ln=es-ES", "ln=ja-JP")
+                                    if "Japanese" not in all_subdub_urls and "Japanese" in available_subdub:
+                                        all_subdub_urls["Japanese (SUB)"] = jp_url
+                                    
+                                    # Generate English version  
+                                    en_url = base_iframe.replace("ln=ja-JP", "ln=en-US").replace("ln=es-ES", "ln=en-US")
+                                    if "English" not in all_subdub_urls and "English" in available_subdub:
+                                        all_subdub_urls["English (DUB)"] = en_url
+                                    
+                                    # Generate Spanish version
+                                    es_url = base_iframe.replace("ln=ja-JP", "ln=es-ES").replace("ln=en-US", "ln=es-ES")
+                                    if "Español" not in all_subdub_urls and any("Español" in s for s in available_subdub):
+                                        all_subdub_urls["Español (España)"] = es_url
+                        
+                        # Kembali ke subdub original
+                        if len(available_subdub) > 1:
+                            await change_subdub_from_dropdown(watch_page, available_subdub[0])
+                        
+                        # Gunakan iframe yang paling valid sebagai primary
+                        primary_iframe = original_iframe
+                        primary_subdub = current_subdub
+                        for subdub, iframe_url in all_iframes.items():
+                            if await is_iframe_valid(iframe_url):
+                                primary_iframe = iframe_url
+                                primary_subdub = subdub
+                                break
+                        
                         return {
-                            "iframe_url": original_iframe,
-                            "subdub_used": available_subdub[0],
-                            "status": "success"
+                            "iframe_url": primary_iframe,
+                            "subdub_used": primary_subdub,
+                            "status": "success",
+                            "all_subdub_iframes": all_subdub_urls
                         }
 
-                    # Scrape iframe player untuk episode saat ini dengan fallback
-                    current_iframe_info = await get_iframe_with_fallback(watch_page, "Current")
+                    # Scrape iframe player untuk episode saat ini dengan semua sub/dub
+                    current_iframe_info = await get_all_subdub_iframes(watch_page, "Current")
                     iframe_src = current_iframe_info["iframe_url"]
                     print(f"URL Iframe episode saat ini: {iframe_src}")
+                    print(f"Semua iframe tersedia: {list(current_iframe_info.get('all_subdub_iframes', {}).keys())}")
 
                     # Scrape informasi episode saat ini
                     episode_info = {}
@@ -360,7 +411,8 @@ async def scrape_kickass_anime():
                             "judul_episode": episode_title,
                             "nomor_episode": episode_number,
                             "iframe_url": iframe_src,
-                            "subdub_used": current_iframe_info["subdub_used"]
+                            "subdub_used": current_iframe_info["subdub_used"],
+                            "all_subdub_iframes": current_iframe_info.get("all_subdub_iframes", {})
                         }
                     except Exception as e:
                         print(f"Gagal scrape info episode: {e}")
@@ -404,20 +456,21 @@ async def scrape_kickass_anime():
                                 await ep_item.click()
                                 await watch_page.wait_for_timeout(3000)
                                 
-                                # Dapatkan iframe dengan fallback sub/dub
-                                ep_iframe_info = await get_iframe_with_fallback(watch_page, ep_number)
+                                # Dapatkan semua iframe untuk semua sub/dub
+                                ep_iframe_info = await get_all_subdub_iframes(watch_page, ep_number)
                                 
                                 episodes_data.append({
                                     "episode_number": ep_number,
                                     "episode_url": ep_url,
                                     "iframe_url": ep_iframe_info["iframe_url"],
                                     "subdub_used": ep_iframe_info["subdub_used"],
-                                    "status": ep_iframe_info["status"]
+                                    "status": ep_iframe_info["status"],
+                                    "all_subdub_iframes": ep_iframe_info.get("all_subdub_iframes", {})
                                 })
                                 
                                 print(f"    Iframe: {ep_iframe_info['iframe_url']}")
                                 print(f"    Sub/Dub: {ep_iframe_info['subdub_used']}")
-                                print(f"    Status: {ep_iframe_info['status']}")
+                                print(f"    Semua iframe: {list(ep_iframe_info.get('all_subdub_iframes', {}).keys())}")
                                 
                             except Exception as ep_e:
                                 print(f"Gagal memproses episode {ep_index}: {type(ep_e).__name__}: {ep_e}")
@@ -426,13 +479,17 @@ async def scrape_kickass_anime():
                                     "episode_url": None,
                                     "iframe_url": "Gagal diambil",
                                     "subdub_used": "None",
-                                    "status": "error"
+                                    "status": "error",
+                                    "all_subdub_iframes": {}
                                 })
                                 continue
                                 
                     except Exception as e:
                         print(f"Gagal scrape daftar episode: {e}")
 
+                    # Dapatkan semua pilihan sub/dub yang tersedia
+                    available_subdub = await get_available_subdub_from_dropdown(watch_page)
+                    
                     anime_info = {
                         "judul": title.strip(),
                         "sinopsis": synopsis.strip(),
@@ -446,7 +503,7 @@ async def scrape_kickass_anime():
                         "total_episode": total_episodes,
                         "scraping_strategy": "cicil",
                         "last_updated": asyncio.get_event_loop().time(),
-                        "available_subdub": await get_available_subdub_from_dropdown(watch_page)  # Simpan pilihan sub/dub yang tersedia
+                        "available_subdub": available_subdub
                     }
                     
                     # Update atau tambah data baru
