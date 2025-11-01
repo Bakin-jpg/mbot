@@ -1,128 +1,156 @@
+import asyncio
+from playwright.async_api import async_playwright
 import json
-from playwright.sync_api import sync_playwright, TimeoutError
-import time
+from urllib.parse import urljoin
 
-# URL Target
-BASE_URL = "https://kickass-anime.ru"
-ANIME_LIST_URL = f"{BASE_URL}/anime" 
-
-def run_scraper():
+async def scrape_kickass_anime():
     """
-    Fungsi utama untuk menjalankan scraper dengan Playwright.
+    Scrape data anime lengkap dari kickass-anime.ru, termasuk URL iframe video,
+    dengan selector fleksibel yang dapat menangani tata letak desktop dan mobile.
     """
-    all_anime_data = []
-
-    with sync_playwright() as p:
-        # Meluncurkan browser chromium dalam mode headless (tanpa UI)
-        browser = p.chromium.launch(headless=True) 
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    async with async_playwright() as p:
+        # Menggunakan viewport desktop sebagai default, karena server biasanya begitu
+        browser = await p.chromium.launch(headless=True)
+        context = await browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+            viewport={'width': 1920, 'height': 1080}
         )
-        page = context.new_page()
+        page = await context.new_page()
 
         try:
-            # 1. Buka halaman daftar semua anime
-            print(f"Mengunjungi halaman daftar anime: {ANIME_LIST_URL}")
-            page.goto(ANIME_LIST_URL, wait_until='networkidle', timeout=90000)
+            base_url = "https://kickass-anime.ru/"
+            await page.goto(base_url, timeout=90000, wait_until="domcontentloaded")
+            print("Berhasil membuka halaman utama.")
 
-            # 2. Scroll ke bawah untuk memuat semua anime (karena ada lazy loading)
-            print("Melakukan scroll untuk memuat semua daftar anime...")
-            last_height = page.evaluate("document.body.scrollHeight")
-            while True:
-                page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                time.sleep(2) # Beri waktu 2 detik agar konten baru sempat dimuat
-                new_height = page.evaluate("document.body.scrollHeight")
-                if new_height == last_height:
-                    break
-                last_height = new_height
-            print("Scroll selesai.")
+            await page.wait_for_selector(".latest-update .row.mt-0 .show-item", timeout=60000)
+            print("Bagian 'Latest Update' ditemukan.")
 
-            # 3. Ambil semua link anime dari halaman daftar
-            # Selector ini menargetkan link judul di dalam setiap kartu anime
-            anime_locators = page.locator("div.show-item h2.show-title > a")
-            anime_elements = anime_locators.all()
-            
-            anime_links = []
-            for element in anime_elements:
-                href = element.get_attribute('href')
-                title = element.text_content().strip()
-                if href:
-                    full_url = BASE_URL + href if href.startswith('/') else href
-                    anime_links.append({'title': title, 'url': full_url})
-            
-            print(f"Ditemukan {len(anime_links)} anime.")
+            anime_items = await page.query_selector_all(".latest-update .row.mt-0 .show-item")
+            print(f"Menemukan {len(anime_items)} item anime terbaru.")
 
-            # --- PENTING: HAPUS `[:3]` DI BAWAH INI UNTUK SCRAPE SEMUA ANIME ---
-            # Loop melalui setiap anime (saat ini dibatasi 3 untuk tes)
-            for anime in anime_links[:3]:
-                print(f"\n--- Memproses Anime: {anime['title']} ---")
-                anime_data = {'title': anime['title'], 'episodes': []}
+            scraped_data = []
 
+            for index, item in enumerate(anime_items):
+                print(f"\n--- Memproses Item #{index + 1} ---")
+                detail_page = None
+                episode_page = None
                 try:
-                    # 4. Kunjungi halaman detail anime untuk mendapatkan daftar episode
-                    page.goto(anime['url'], wait_until='domcontentloaded', timeout=60000)
-                    
-                    # Selector ini menargetkan setiap item di daftar episode
-                    episode_locators = page.locator("a.v-list-item[href*='/ep-']")
-                    # Tunggu hingga item episode pertama muncul
-                    episode_locators.first.wait_for(timeout=15000)
-                    episode_elements = episode_locators.all()
-                    
-                    episode_links = []
-                    for element in episode_elements:
-                        href = element.get_attribute('href')
-                        if href:
-                            full_url = BASE_URL + href if href.startswith('/') else href
-                            episode_links.append(full_url)
-                    
-                    print(f"Ditemukan {len(episode_links)} episode.")
-                    # Membalik urutan agar scrape dari episode pertama (opsional)
-                    episode_links.reverse()
+                    # Ambil URL Poster dari halaman utama
+                    await item.scroll_into_view_if_needed()
+                    poster_url = "Tidak tersedia"
+                    for attempt in range(5):
+                        poster_div = await item.query_selector(".v-image__image--cover")
+                        if poster_div:
+                            poster_style = await poster_div.get_attribute("style")
+                            if poster_style and 'url("' in poster_style:
+                                parts = poster_style.split('url("')
+                                if len(parts) > 1:
+                                    poster_url_path = parts[1].split('")')[0]
+                                    poster_url = urljoin(base_url, poster_url_path)
+                                    break
+                        await page.wait_for_timeout(300)
+                    print(f"URL Poster: {poster_url}")
 
-                    # --- PENTING: HAPUS `[:2]` DI BAWAH INI UNTUK SCRAPE SEMUA EPISODE ---
-                    # 5. Kunjungi setiap halaman episode untuk mendapatkan iframe (dibatasi 2 untuk tes)
-                    for episode_url in episode_links[:2]:
-                        try:
-                            page.goto(episode_url, wait_until='domcontentloaded', timeout=60000)
+                    # Ambil URL detail
+                    detail_link_element = await item.query_selector("h2.show-title a")
+                    if not detail_link_element:
+                        print("Gagal menemukan link judul seri, melewati item ini.")
+                        continue
+                    
+                    detail_url_path = await detail_link_element.get_attribute("href")
+                    full_detail_url = urljoin(base_url, detail_url_path)
+                    
+                    # Buka halaman detail
+                    detail_page = await context.new_page()
+                    await detail_page.goto(full_detail_url, timeout=90000)
+                    await detail_page.wait_for_selector(".anime-info-card", timeout=30000)
+                    
+                    # 1. Selector Judul
+                    title_element = await detail_page.query_selector(".anime-info-card .v-card__title span")
+                    title = await title_element.inner_text() if title_element else "Judul tidak ditemukan"
+
+                    # 2. Selector Sinopsis
+                    synopsis_card_title = await detail_page.query_selector("div.v-card__title:has-text('Synopsis')")
+                    synopsis = "Sinopsis tidak ditemukan"
+                    if synopsis_card_title:
+                        parent_card = await synopsis_card_title.query_selector("xpath=..")
+                        synopsis_element = await parent_card.query_selector(".text-caption")
+                        if synopsis_element:
+                            synopsis = await synopsis_element.inner_text()
+                    
+                    # 3. Selector Genre
+                    genre_elements = await detail_page.query_selector_all(".anime-info-card .v-chip--outlined .v-chip__content")
+                    all_tags = [await el.inner_text() for el in genre_elements]
+                    irrelevant_tags = ['TV', 'PG-13', 'Airing', '2025', '2024', '23 min', '24 min', 'SUB', 'DUB', 'ONA']
+                    genres = [tag for tag in all_tags if tag not in irrelevant_tags and not tag.startswith('EP')]
+
+                    # 4. Selector METADATA yang fleksibel
+                    metadata_selector = ".anime-info-card .d-flex.mb-3, .anime-info-card .d-flex.mt-2.mb-3"
+                    metadata_container = await detail_page.query_selector(metadata_selector)
+                    metadata = []
+                    if metadata_container:
+                        metadata_elements = await metadata_container.query_selector_all(".text-subtitle-2")
+                        all_meta_texts = [await el.inner_text() for el in metadata_elements]
+                        metadata = [text.strip() for text in all_meta_texts if text and text.strip() != '•']
+                    
+                    # 5. [TAMBAHAN BARU] Extract URL iframe
+                    iframe_url = "Tidak tersedia"
+                    
+                    # Cari tombol "Watch Now" dan klik untuk membuka halaman episode
+                    watch_now_button = await detail_page.query_selector("a.pulse-button.v-btn.v-btn--block.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small.primary")
+                    if watch_now_button:
+                        # Dapatkan URL dari tombol Watch Now
+                        watch_now_href = await watch_now_button.get_attribute("href")
+                        if watch_now_href:
+                            episode_url = urljoin(base_url, watch_now_href)
                             
-                            # Selector untuk iframe video di dalam div#player
-                            iframe_locator = page.locator("div#player iframe")
+                            # Buka halaman episode
+                            episode_page = await context.new_page()
+                            await episode_page.goto(episode_url, timeout=90000)
                             
-                            # Tunggu hingga iframe muncul di halaman (maksimal 15 detik)
-                            iframe_locator.wait_for(timeout=15000)
+                            # Tunggu halaman episode dimuat
+                            await episode_page.wait_for_timeout(3000)
                             
-                            iframe_src = iframe_locator.get_attribute('src')
-                            if iframe_src:
-                                print(f"  [OK] Ditemukan iframe: {iframe_src}")
-                                anime_data['episodes'].append({
-                                    'episode_url': episode_url,
-                                    'iframe_url': iframe_src
-                                })
+                            # Cari iframe di halaman episode
+                            iframe_element = await episode_page.query_selector("iframe.player")
+                            if iframe_element:
+                                iframe_url = await iframe_element.get_attribute("src")
+                                print(f"URL iframe ditemukan: {iframe_url}")
                             else:
-                                print(f"  [WARN] Iframe ditemukan tetapi tidak memiliki src untuk {episode_url}")
-                                
-                        except TimeoutError:
-                            print(f"  [ERROR] Timeout saat mencari iframe di {episode_url}")
-                        except Exception as e:
-                            print(f"  [ERROR] Terjadi kesalahan saat memproses {episode_url}: {e}")
+                                print("URL iframe tidak ditemukan di halaman episode")
+                            
+                            await episode_page.close()
+                    
+                    anime_info = {
+                        "judul": title.strip(),
+                        "sinopsis": synopsis.strip(),
+                        "genre": genres,
+                        "metadata": metadata,
+                        "url_poster": poster_url,
+                        "url_iframe": iframe_url  # [TAMBAHAN BARU] Menambahkan URL iframe
+                    }
+                    scraped_data.append(anime_info)
+                    await detail_page.close()
 
                 except Exception as e:
-                    print(f"Gagal memproses episode untuk {anime['title']}: {e}")
+                    print(f"!!! Gagal memproses item #{index + 1}: {type(e).__name__}: {e}")
+                    if detail_page and not detail_page.is_closed():
+                        await detail_page.close()
+                    if episode_page and not episode_page.is_closed():
+                        await episode_page.close()
 
-                if anime_data['episodes']:
-                    all_anime_data.append(anime_data)
+            print("\n" + "="*50)
+            print(f"HASIL SCRAPING SELESAI. Total {len(scraped_data)} data berhasil diambil.")
+            print("="*50)
+                
+            with open('anime_data.json', 'w', encoding='utf-8') as f:
+                json.dump(scraped_data, f, ensure_ascii=False, indent=4)
+            print("\nData berhasil disimpan ke anime_data.json")
 
         except Exception as e:
-            print(f"Terjadi kesalahan fatal: {e}")
+            print(f"Terjadi kesalahan fatal: {type(e).__name__}: {e}")
         finally:
-            # Selalu tutup browser setelah selesai
-            browser.close()
+            await browser.close()
 
-    # 6. Simpan semua hasil ke file JSON
-    with open('anime_iframes.json', 'w', encoding='utf-8') as f:
-        json.dump(all_anime_data, f, indent=4, ensure_ascii=False)
-
-    print("\nProses scraping selesai. Hasil disimpan di anime_iframes.json")
-
-if __name__ == '__main__':
-    run_scraper()
+if __name__ == "__main__":
+    asyncio.run(scrape_kickass_anime())
