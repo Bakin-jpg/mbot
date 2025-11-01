@@ -1,0 +1,53 @@
+name: Scrape Anime
+
+on:
+  # Menjadwalkan eksekusi setiap 6 jam sekali
+  schedule:
+    - cron: '0 */6 * * *'
+  
+  # Memungkinkan untuk menjalankan workflow secara manual dari tab Actions
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    # Memberikan izin tulis agar workflow bisa melakukan push ke repositori
+    permissions:
+      contents: write
+
+    steps:
+    # Langkah 1: Checkout kode dari repositori
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    # Langkah 2: Menyiapkan lingkungan Python
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.9
+
+    # Langkah 3: Menginstal Playwright dan browser yang dibutuhkan
+    - name: Install Dependencies
+      run: |
+        pip install playwright
+        playwright install --with-deps chromium
+
+    # Langkah 4: Menjalankan skrip scraper Python
+    - name: Run Scraper
+      run: python scraper.py
+
+    # Langkah 5: Menyimpan hasil (jika ada perubahan) ke repositori
+    - name: Commit and Push Results
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add anime_iframes.json
+        # Hanya commit dan push jika file anime_iframes.json benar-benar berubah
+        if ! git diff --staged --quiet; then
+          git commit -m "Update anime iframe data"
+          git push
+        else
+          echo "Tidak ada perubahan pada data."
+        fi
