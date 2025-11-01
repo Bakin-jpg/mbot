@@ -6,7 +6,6 @@ on:
   # Menjalankan secara terjadwal menggunakan cron
   schedule:
     # Jalankan setiap 6 jam sekali (pada menit ke-0 di jam 0, 6, 12, 18 UTC)
-    # Anda bisa sesuaikan jadwalnya. '0 0 * * *' adalah setiap hari jam 00:00 UTC.
     - cron: '0 */6 * * *'
   
   # Memungkinkan Anda menjalankan workflow ini secara manual dari tab Actions
@@ -44,6 +43,9 @@ jobs:
 
       # Langkah 4: Menjalankan skrip scraper Python Anda
       - name: Run scraper
+        env:
+          # Tambahkan baris ini untuk memastikan log Python muncul real-time
+          PYTHONUNBUFFERED: 1
         run: python scraper.py # Pastikan nama file ini sesuai dengan nama file skrip Anda
 
       # Langkah 5: Melakukan commit dan push file hasil scrape (jika ada perubahan)
