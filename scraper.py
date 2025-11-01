@@ -30,8 +30,8 @@ async def scrape_kickass_anime():
 
             # Load existing data jika ada
             existing_data = []
-            if os.path.exists('anime_data_with_all_iframes.json'):
-                with open('anime_data_with_all_iframes.json', 'r', encoding='utf-8') as f:
+            if os.path.exists('anime_data.json'):
+                with open('anime_data.json', 'r', encoding='utf-8') as f:
                     existing_data = json.load(f)
                 print(f"Data existing ditemukan: {len(existing_data)} anime")
 
