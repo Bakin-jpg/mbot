@@ -80,10 +80,8 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 175.923137445,
-        "available_subdub": [
-            "Japanese (SUB)"
-        ]
+        "last_updated": 240.188201203,
+        "available_subdub": []
     },
     {
         "judul": "The Fated Magical Princess: Who Made Me a Princess",
@@ -196,7 +194,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 234.502739351,
+        "last_updated": 298.703262475,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -225,67 +223,67 @@
         "episode_saat_ini": {
             "judul_episode": "Hands off: Sawaranaide Kotesashi-kun",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=MmQ5OGJhNThhMjMzYTNhNjVhM2UwNWNlYjY3YjMxZDA6OTgzYzA4OGFjZTFlOWJiZmJlMTFmNTg0YzA1ZTliNTY&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=Y2JiMWJjNWRhY2E5NzNmM2RkYjU0ODU4ZWMzNzllMzQ6MmI0YjFlYzBlZDAzYzg1YzZhOWE4ZjQ2M2YzZTExMjQ&type=hls",
             "subdub_used": "Japanese (SUB)",
             "all_subdub_iframes": {
-                "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MmQ5OGJhNThhMjMzYTNhNjVhM2UwNWNlYjY3YjMxZDA6OTgzYzA4OGFjZTFlOWJiZmJlMTFmNTg0YzA1ZTliNTY&type=hls"
+                "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=Y2JiMWJjNWRhY2E5NzNmM2RkYjU0ODU4ZWMzNzllMzQ6MmI0YjFlYzBlZDAzYzg1YzZhOWE4ZjQ2M2YzZTExMjQ&type=hls"
             }
         },
         "semua_episode": [
             {
                 "episode_number": "EP 01",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=MmQ5OGJhNThhMjMzYTNhNjVhM2UwNWNlYjY3YjMxZDA6OTgzYzA4OGFjZTFlOWJiZmJlMTFmNTg0YzA1ZTliNTY&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=Y2JiMWJjNWRhY2E5NzNmM2RkYjU0ODU4ZWMzNzllMzQ6MmI0YjFlYzBlZDAzYzg1YzZhOWE4ZjQ2M2YzZTExMjQ&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MmQ5OGJhNThhMjMzYTNhNjVhM2UwNWNlYjY3YjMxZDA6OTgzYzA4OGFjZTFlOWJiZmJlMTFmNTg0YzA1ZTliNTY&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=Y2JiMWJjNWRhY2E5NzNmM2RkYjU0ODU4ZWMzNzllMzQ6MmI0YjFlYzBlZDAzYzg1YzZhOWE4ZjQ2M2YzZTExMjQ&type=hls"
                 }
             },
             {
                 "episode_number": "EP 02",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=ZWIyN2QwYWM3NDk2OTFmOTRjYzc4ZmVkMzdjMTc4Zjg6MTZjZTQ5YTE1ZjcwOWY4NjIyYzVhYjA0YTljMGE1YjQ&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=ZmE2ODM5YmRkNzM1YTFiMjFmMzM0Yjc0YmI5M2E0MGE6YmY1M2ViYWEyODI5Y2NjOWNkZDlmMTQzNzA5MjA3NTQ&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=ZWIyN2QwYWM3NDk2OTFmOTRjYzc4ZmVkMzdjMTc4Zjg6MTZjZTQ5YTE1ZjcwOWY4NjIyYzVhYjA0YTljMGE1YjQ&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=ZmE2ODM5YmRkNzM1YTFiMjFmMzM0Yjc0YmI5M2E0MGE6YmY1M2ViYWEyODI5Y2NjOWNkZDlmMTQzNzA5MjA3NTQ&type=hls"
                 }
             },
             {
                 "episode_number": "EP 03",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=ODcwNzUxZDc4NGVkYTBiYWNjMTM0NTI3NGJlNmExZTA6NzMzMjViMzFlYzlmOWZkODUxYTlmZmMxMTgyNzk2OTI&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=YWI2NWQ5ODc2ZTBmNmMxNDFhNDc5ZDFhMzdjN2QxNjA6OTIxMGNlN2FlOTAyYWUzZDEzNDkxMTVhMGI2ZjExODY&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=ODcwNzUxZDc4NGVkYTBiYWNjMTM0NTI3NGJlNmExZTA6NzMzMjViMzFlYzlmOWZkODUxYTlmZmMxMTgyNzk2OTI&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=YWI2NWQ5ODc2ZTBmNmMxNDFhNDc5ZDFhMzdjN2QxNjA6OTIxMGNlN2FlOTAyYWUzZDEzNDkxMTVhMGI2ZjExODY&type=hls"
                 }
             },
             {
                 "episode_number": "EP 04",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=ZGJkOGU1YjNmNjNhYzJiMDI4ZDdmY2IxM2Y5NjUwNTQ6ZWIwZDg4MDg5MDVlYjJkZjI2ODBkZGU2ZTY4YTI1NWY&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MWY3MzlmNDczOTA3MDkyYzIzNmZlY2I2NjVjZDAxNmU6ZTZhOWEzZTYwN2E4YWI1MWVjMzhiZDFjODA5MmM5NmI&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=ZGJkOGU1YjNmNjNhYzJiMDI4ZDdmY2IxM2Y5NjUwNTQ6ZWIwZDg4MDg5MDVlYjJkZjI2ODBkZGU2ZTY4YTI1NWY&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MWY3MzlmNDczOTA3MDkyYzIzNmZlY2I2NjVjZDAxNmU6ZTZhOWEzZTYwN2E4YWI1MWVjMzhiZDFjODA5MmM5NmI&type=hls"
                 }
             },
             {
                 "episode_number": "EP 05",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=Y2U3YTVmMDZmNjJmZjZhM2Q4N2ZjODdhNjhmODYxYmU6YjU3MGNiYmE1NGNiMzE5MzEwNDAwNzdhNjBmY2ExYjM&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MTVjMjVjODU2YWYzNDI1OTdkZmVlMGQxYTIxYjQ5MTM6YzYzY2E5MThiMWExOGIwNzk5NDJlYmYwMGVkOWJmZmE&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=Y2U3YTVmMDZmNjJmZjZhM2Q4N2ZjODdhNjhmODYxYmU6YjU3MGNiYmE1NGNiMzE5MzEwNDAwNzdhNjBmY2ExYjM&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MTVjMjVjODU2YWYzNDI1OTdkZmVlMGQxYTIxYjQ5MTM6YzYzY2E5MThiMWExOGIwNzk5NDJlYmYwMGVkOWJmZmE&type=hls"
                 }
             }
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 274.366553134,
+        "last_updated": 338.992674253,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -328,111 +326,108 @@
             {
                 "episode_number": "EP 01",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=NGQ3OWVhMjUwOWYyYjZkZGY0ZTM2MzEyMjQ3ZWUzZjU6ZTE4MjNlOGI5NTUyMWNlNGZlZjZjNjMzNjdiNTE5MmM&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MDM1ODJmNGNhYmRhZDA5NzEyODc5NDNmNWM4M2Q2MmM6ZmFiMjEwNzVmYjVjYTAzMTM1YzkyZjkzNjU2MzJjNDk&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=NGQ3OWVhMjUwOWYyYjZkZGY0ZTM2MzEyMjQ3ZWUzZjU6ZTE4MjNlOGI5NTUyMWNlNGZlZjZjNjMzNjdiNTE5MmM&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MDM1ODJmNGNhYmRhZDA5NzEyODc5NDNmNWM4M2Q2MmM6ZmFiMjEwNzVmYjVjYTAzMTM1YzkyZjkzNjU2MzJjNDk&type=hls"
                 }
             },
             {
                 "episode_number": "EP 02",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=ZjVmYzQ2YjcwNzRjZjQ5ZGJjYjQ2NDdmNTg4YjM0YjA6YzlmMWE1ODJjNzgyZTliZmQxN2I1MWQ3NDYwN2Y1Y2M&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=NDc3ZjAyNDAxNWI5MzdhNmFmZThlMDg2N2RjYzZlNTQ6YzVlYmExZTQ3NTlkZTQ3ZTM5M2FhZTE0ZjVhYTFjZTg&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=ZjVmYzQ2YjcwNzRjZjQ5ZGJjYjQ2NDdmNTg4YjM0YjA6YzlmMWE1ODJjNzgyZTliZmQxN2I1MWQ3NDYwN2Y1Y2M&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=NDc3ZjAyNDAxNWI5MzdhNmFmZThlMDg2N2RjYzZlNTQ6YzVlYmExZTQ3NTlkZTQ3ZTM5M2FhZTE0ZjVhYTFjZTg&type=hls"
                 }
             },
             {
                 "episode_number": "EP 03",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=NTI0Y2VkODQ2Y2RlMWQyMDE4M2NmNTRmNjI1YThlZTg6NTU1ZTk3NjUyZDBlODU5ZDI5OTkxOGYyODE5NzYwODk&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=OWJhMjg4NjFkYjY0YWQ0MzdjZjE1M2VmN2FjZDE5Yzk6MjdhMGNkYzE0NjViZWE3NTNlNzgzZTViMDMxNGEzMGQ&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=NTI0Y2VkODQ2Y2RlMWQyMDE4M2NmNTRmNjI1YThlZTg6NTU1ZTk3NjUyZDBlODU5ZDI5OTkxOGYyODE5NzYwODk&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=OWJhMjg4NjFkYjY0YWQ0MzdjZjE1M2VmN2FjZDE5Yzk6MjdhMGNkYzE0NjViZWE3NTNlNzgzZTViMDMxNGEzMGQ&type=hls"
                 }
             },
             {
                 "episode_number": "EP 04",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=MjdiMzY1NzQ1NTZmZWY5YzA5MTllMjFmYTNhYjMxYzk6OTg1MmJmODRjZjVhZDZiNjAxM2VjNDdjZTMwZDg3MjQ&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=Mzk5ZThmOTgyYmRmNDU1MWY0YzQxNTA1NTVkMTM3Mzg6ZjJkMGJhNTcwZDQ3YTU4NjA3NmQ5NTVhMDhiYzNhZDQ&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MjdiMzY1NzQ1NTZmZWY5YzA5MTllMjFmYTNhYjMxYzk6OTg1MmJmODRjZjVhZDZiNjAxM2VjNDdjZTMwZDg3MjQ&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=Mzk5ZThmOTgyYmRmNDU1MWY0YzQxNTA1NTVkMTM3Mzg6ZjJkMGJhNTcwZDQ3YTU4NjA3NmQ5NTVhMDhiYzNhZDQ&type=hls"
                 }
             },
             {
                 "episode_number": "EP 05",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=Y2UxNjM2YWJiMjAxMDU4ZjA0NjRmMzNmNDc5ZTk1ZjA6NTgyYTkzZjY0YjgwZThmOTI3OGQwYjEyOGYxNDc2OGQ&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=OTE4ODQ0Y2U3MTQ5YTMxODFlZjIyNGE1OWFjZTE5MzE6NzdlOWM4YjBjM2FkZThlMThlOGIzZmVhZmNmZDQyMTM&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=Y2UxNjM2YWJiMjAxMDU4ZjA0NjRmMzNmNDc5ZTk1ZjA6NTgyYTkzZjY0YjgwZThmOTI3OGQwYjEyOGYxNDc2OGQ&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=OTE4ODQ0Y2U3MTQ5YTMxODFlZjIyNGE1OWFjZTE5MzE6NzdlOWM4YjBjM2FkZThlMThlOGIzZmVhZmNmZDQyMTM&type=hls"
                 }
             },
             {
                 "episode_number": "EP 06",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=OTk3ZjVkYTM2YTFlMGIzYmFmYzFkOTgwMDQ5Y2E4NTY6ZjZlNmU0MjQ0ZGY1M2FlNDI4MDI3YmZiNjBjYWQzNzk&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=NDg3MzYwYmEzYmNmZGJiYTI1NmQ4NGQwNDg2Mzk4NmU6MDVlNDEzNmM3MzI2NmU1MzgwNmQyZmFiMDc5YzM3NDA&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=OTk3ZjVkYTM2YTFlMGIzYmFmYzFkOTgwMDQ5Y2E4NTY6ZjZlNmU0MjQ0ZGY1M2FlNDI4MDI3YmZiNjBjYWQzNzk&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=NDg3MzYwYmEzYmNmZGJiYTI1NmQ4NGQwNDg2Mzk4NmU6MDVlNDEzNmM3MzI2NmU1MzgwNmQyZmFiMDc5YzM3NDA&type=hls"
                 }
             },
             {
                 "episode_number": "EP 07",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=MTM4MmM0MTQ5OTZmMmEzZjMyZWRjZWNmYzVlMmIxYzU6Y2NjYzg0NTdjMzdhNTI5ZDFjZDgzNDM4Mzg4OGEyNDg&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MzIyM2Y3M2I3MDFjZGQ0YWZjMjliYjRhOWU3Y2RmNjk6OGQ1MDM2Mzg0NjQxNjlmYTQ3MDkyYmQxMGFlODI5MTU&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MTM4MmM0MTQ5OTZmMmEzZjMyZWRjZWNmYzVlMmIxYzU6Y2NjYzg0NTdjMzdhNTI5ZDFjZDgzNDM4Mzg4OGEyNDg&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MzIyM2Y3M2I3MDFjZGQ0YWZjMjliYjRhOWU3Y2RmNjk6OGQ1MDM2Mzg0NjQxNjlmYTQ3MDkyYmQxMGFlODI5MTU&type=hls"
                 }
             },
             {
                 "episode_number": "EP 08",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=NjAxNGJlZDM1M2YzYjc3ZDc5MDc3MTlhNmQwYTdhNTI6NTk3YmY3YjFiNmJkNzEwZjZkN2U0MDk3ODMzNTRkZjU&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=YzkxMWFiMTM4NTNlODlmMzY5ODU0ZTY1NzY3MjE2MjY6ODA1ZTcyZWJlZDlkYWM1NmJjMTdmMWQ3NDEyZDFkMjI&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=NjAxNGJlZDM1M2YzYjc3ZDc5MDc3MTlhNmQwYTdhNTI6NTk3YmY3YjFiNmJkNzEwZjZkN2U0MDk3ODMzNTRkZjU&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=YzkxMWFiMTM4NTNlODlmMzY5ODU0ZTY1NzY3MjE2MjY6ODA1ZTcyZWJlZDlkYWM1NmJjMTdmMWQ3NDEyZDFkMjI&type=hls"
                 }
             },
             {
                 "episode_number": "EP 09",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=N2Y5MjQyMDA4MTU1YjM3ODU5YTc2NjMxNmNmNDRjOTM6MDZhZDM4YmViN2Y2Y2E2YzM5YzQ0M2VmZjE3MzE0MWQ&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=OTU4NDNiZDhjYTZiYTQ4ZWZlNDYwY2ViZTgyNzNhODU6NjI2OGFiMjk5NjJkZTY4ZTYyZTI1OGIzZjg0NTlhZGY&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=N2Y5MjQyMDA4MTU1YjM3ODU5YTc2NjMxNmNmNDRjOTM6MDZhZDM4YmViN2Y2Y2E2YzM5YzQ0M2VmZjE3MzE0MWQ&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=OTU4NDNiZDhjYTZiYTQ4ZWZlNDYwY2ViZTgyNzNhODU6NjI2OGFiMjk5NjJkZTY4ZTYyZTI1OGIzZjg0NTlhZGY&type=hls"
                 }
             },
             {
                 "episode_number": "EP 10",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=ODY0OWI3N2ZhOWQ1YWVhOTg2YzRmOTljMTFiMDcxMjU6MjMzZmYzODQzYzYyMDIxY2U3MTlhMzJjZTBlNDM4ZWY&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MTNlYjM2YjI3YWVhNjJhYzNlYmRjNWM2Y2E0OTYwMDg6ZDA3ZTc2YTY3MzVkYTRhYmNiNDA3M2E5MjA4NWRiYjk&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=ODY0OWI3N2ZhOWQ1YWVhOTg2YzRmOTljMTFiMDcxMjU6MjMzZmYzODQzYzYyMDIxY2U3MTlhMzJjZTBlNDM4ZWY&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MTNlYjM2YjI3YWVhNjJhYzNlYmRjNWM2Y2E0OTYwMDg6ZDA3ZTc2YTY3MzVkYTRhYmNiNDA3M2E5MjA4NWRiYjk&type=hls"
                 }
             }
         ],
         "total_episode": 100,
         "scraping_strategy": "cicil",
-        "last_updated": 530.405205269,
-        "available_subdub": [
-            "Japanese (SUB)",
-            "English (DUB)"
-        ]
+        "last_updated": 1019.807039635,
+        "available_subdub": []
     },
     {
         "judul": "One-Punch Man Season 3",
@@ -522,7 +517,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 569.95740592,
+        "last_updated": 1063.008360031,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -684,7 +679,7 @@
         ],
         "total_episode": 17,
         "scraping_strategy": "cicil",
-        "last_updated": 932.87197797,
+        "last_updated": 1440.782369152,
         "available_subdub": [
             "Japanese (SUB)",
             "Español (España)",
@@ -734,11 +729,11 @@
             {
                 "episode_number": "EP 02",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=YjcxM2Y3M2Y4YjA0N2FhNmNkMTQzYjM0MWI0M2FlZGI6NjhhYzlmYzlmNDBlNTI0MGNiNjc1YTUzM2Q0NjRiYzY&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=YjZjYTY2NWMxNjY4MDIzZmVhYWQ1NGMyZTQ5YTZmZDk6YmVmODkzZTA2OGI4NzkzYTM0MzJkMDBlNjE3ODc4Yzg&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=YjcxM2Y3M2Y4YjA0N2FhNmNkMTQzYjM0MWI0M2FlZGI6NjhhYzlmYzlmNDBlNTI0MGNiNjc1YTUzM2Q0NjRiYzY&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=YjZjYTY2NWMxNjY4MDIzZmVhYWQ1NGMyZTQ5YTZmZDk6YmVmODkzZTA2OGI4NzkzYTM0MzJkMDBlNjE3ODc4Yzg&type=hls"
                 }
             },
             {
@@ -774,7 +769,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 972.706784598,
+        "last_updated": 1483.875387062,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -822,11 +817,11 @@
             {
                 "episode_number": "EP 02",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=YTdlOTYzNDgyMWI0YzQzOTdjZmFiOWI2MWE4NGZiMGU6NThmMDZjOGJiZjA3Njk4NmY2NzBmNGVhN2EwZjExZjc&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MmZkYzllMmQyNDc0YjZlOTNhNjA4ZGE3ZGU1NGFhN2Y6ZDczNWI0ODFlMmFkMTU4MmJlYmUzOTlmODRjNTEzMDk&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=YTdlOTYzNDgyMWI0YzQzOTdjZmFiOWI2MWE4NGZiMGU6NThmMDZjOGJiZjA3Njk4NmY2NzBmNGVhN2EwZjExZjc&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MmZkYzllMmQyNDc0YjZlOTNhNjA4ZGE3ZGU1NGFhN2Y6ZDczNWI0ODFlMmFkMTU4MmJlYmUzOTlmODRjNTEzMDk&type=hls"
                 }
             },
             {
@@ -862,7 +857,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 1012.355701344,
+        "last_updated": 1526.424936558,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -942,7 +937,7 @@
         ],
         "total_episode": 4,
         "scraping_strategy": "cicil",
-        "last_updated": 1045.771387742,
+        "last_updated": 1562.49366847,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1085,7 +1080,7 @@
         ],
         "total_episode": 12,
         "scraping_strategy": "cicil",
-        "last_updated": 1116.934897941,
+        "last_updated": 1637.728730911,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1228,7 +1223,7 @@
         ],
         "total_episode": 12,
         "scraping_strategy": "cicil",
-        "last_updated": 1188.033255834,
+        "last_updated": 1712.768194295,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1312,7 +1307,7 @@
         ],
         "total_episode": 4,
         "scraping_strategy": "cicil",
-        "last_updated": 1221.52940436,
+        "last_updated": 1748.470769515,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1406,7 +1401,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 1262.143595063,
+        "last_updated": 1793.485418787,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1473,11 +1468,11 @@
             {
                 "episode_number": "EP 04",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=YjY5NGM0NWM1OGRlNDhmNTRkOWZmNzZmM2JhNThmZmQ6OGQxYjcxMWNkYzBkOWMxMWNhZDFlZTQyMzg3NjY0YmQ&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MjkzZDk4MzdlNjM1OWU3NWYxMTg1ZTQ1ZDVmOTdiZTM6NDU3ZTQyZDIwNDQ4MmE5YmY3YWRkNTFhYTYyNzBlMTk&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=YjY5NGM0NWM1OGRlNDhmNTRkOWZmNzZmM2JhNThmZmQ6OGQxYjcxMWNkYzBkOWMxMWNhZDFlZTQyMzg3NjY0YmQ&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MjkzZDk4MzdlNjM1OWU3NWYxMTg1ZTQ1ZDVmOTdiZTM6NDU3ZTQyZDIwNDQ4MmE5YmY3YWRkNTFhYTYyNzBlMTk&type=hls"
                 }
             },
             {
@@ -1493,7 +1488,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 1301.693050076,
+        "last_updated": 1835.656637728,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1598,7 +1593,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2680.092456953,
+        "last_updated": 3293.127361205,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -1696,7 +1691,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 1637.499184595,
+        "last_updated": 2183.024073536,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)"
@@ -1798,7 +1793,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 1774.743177617,
+        "last_updated": 2325.030584222,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)"
@@ -1890,7 +1885,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 1814.327075076,
+        "last_updated": 2367.282971036,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1974,7 +1969,7 @@
         ],
         "total_episode": 4,
         "scraping_strategy": "cicil",
-        "last_updated": 1928.888802131,
+        "last_updated": 2485.860204508,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)"
@@ -2074,7 +2069,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2066.28266574,
+        "last_updated": 2628.146415039,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)"
@@ -2167,7 +2162,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2105.994322988,
+        "last_updated": 2670.502340997,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2278,7 +2273,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2304.447312923,
+        "last_updated": 2874.841316717,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -2373,10 +2368,8 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2344.168669881,
-        "available_subdub": [
-            "Japanese (SUB)"
-        ]
+        "last_updated": 2943.871530413,
+        "available_subdub": []
     },
     {
         "judul": "Tojima Wants to Be a Masked Rider",
@@ -2472,7 +2465,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2481.533841733,
+        "last_updated": 3086.913195849,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)"
@@ -2578,7 +2571,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2680.092456953,
+        "last_updated": 3293.127361205,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -2676,7 +2669,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2817.177573529,
+        "last_updated": 3435.999740945,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)"
@@ -2767,7 +2760,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2856.947982992,
+        "last_updated": 3478.119325252,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2868,7 +2861,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 2902.679690584,
+        "last_updated": 3527.599719257,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3012,7 +3005,7 @@
         ],
         "total_episode": 100,
         "scraping_strategy": "cicil",
-        "last_updated": 2975.142535447,
+        "last_updated": 3603.863566777,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3104,7 +3097,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 3014.657227014,
+        "last_updated": 3645.934671578,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3226,7 +3219,7 @@
         ],
         "total_episode": 100,
         "scraping_strategy": "cicil",
-        "last_updated": 3088.725148206,
+        "last_updated": 3723.033053425,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3280,47 +3273,47 @@
             {
                 "episode_number": "EP 02",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=YzhiMjc4YWZjMmEzNzYwODA2MDA5MjYxMWFmMmNiOTM6MTE4NWExOTQ1ODNkODhkMmJjZDhhYWRmZDczZTA0ODI&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MTI3YzQ3ZjJjNDhiZTQ5OTQwNjc3YjZkMzMwNWY5MDY6NWVkZmNhMzM1ODZhMjc2NmYwNWIzMDQ2OTM5YjA2OWM&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=YzhiMjc4YWZjMmEzNzYwODA2MDA5MjYxMWFmMmNiOTM6MTE4NWExOTQ1ODNkODhkMmJjZDhhYWRmZDczZTA0ODI&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MTI3YzQ3ZjJjNDhiZTQ5OTQwNjc3YjZkMzMwNWY5MDY6NWVkZmNhMzM1ODZhMjc2NmYwNWIzMDQ2OTM5YjA2OWM&type=hls"
                 }
             },
             {
                 "episode_number": "EP 03",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=ZjhhMmM1N2JhY2Q0MmZkNTdkNDMzNWIwMzJmZDU1MjU6ODBhMWE4MjBhODM5NGY2MTAwZTU4MWQzNjE4M2U2ZDg&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=YmNmODJiZDgzZWRkMDk3ODEyMWFkNmRhMzMzM2FjMTY6MjNmOTljN2YzNmVhMTRlNmM4MmIzODhkNmYyYzVjMTc&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=ZjhhMmM1N2JhY2Q0MmZkNTdkNDMzNWIwMzJmZDU1MjU6ODBhMWE4MjBhODM5NGY2MTAwZTU4MWQzNjE4M2U2ZDg&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=YmNmODJiZDgzZWRkMDk3ODEyMWFkNmRhMzMzM2FjMTY6MjNmOTljN2YzNmVhMTRlNmM4MmIzODhkNmYyYzVjMTc&type=hls"
                 }
             },
             {
                 "episode_number": "EP 04",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=MzNjODljZDdkNTUwN2FkMjg4NTI2OGJkNDBhNWE3MWU6ODA2NDc3MWNmOWQyZjFmMzU0Njc1Y2VhMzlhYzk3MjA&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=ZmM4OWNiZGMzMTRhMTgwOTg2MzM0YWIzMmNjNGNmNTA6YmYyOGQ3MjY1ZDI3YTk5ZGMzZTJkMzA5MWJiY2FiM2Y&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MzNjODljZDdkNTUwN2FkMjg4NTI2OGJkNDBhNWE3MWU6ODA2NDc3MWNmOWQyZjFmMzU0Njc1Y2VhMzlhYzk3MjA&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=ZmM4OWNiZGMzMTRhMTgwOTg2MzM0YWIzMmNjNGNmNTA6YmYyOGQ3MjY1ZDI3YTk5ZGMzZTJkMzA5MWJiY2FiM2Y&type=hls"
                 }
             },
             {
                 "episode_number": "EP 05",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=MjQ5N2U0Y2E1YmM5MjMxZDZhZjZjOWYxYWI4Y2QyYmE6ZTk3ZDhjMzhjMTVmNWZmNDkwYTYzM2U5NDAwYTUwOTA&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=OTM0ZDU4MDE1MzgzNmY0ZTYyNWY0NzMwMTg4ZGZjNWE6MzUzZGIzMTEyNWVjYWNhNGMwMTE4YWZjZjNjZmE1MmQ&type=hls",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=MjQ5N2U0Y2E1YmM5MjMxZDZhZjZjOWYxYWI4Y2QyYmE6ZTk3ZDhjMzhjMTVmNWZmNDkwYTYzM2U5NDAwYTUwOTA&type=hls"
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=OTM0ZDU4MDE1MzgzNmY0ZTYyNWY0NzMwMTg4ZGZjNWE6MzUzZGIzMTEyNWVjYWNhNGMwMTE4YWZjZjNjZmE1MmQ&type=hls"
                 }
             }
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 3128.503489915,
+        "last_updated": 3765.375150127,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3411,7 +3404,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 3168.100056963,
+        "last_updated": 3807.187707818,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3440,120 +3433,118 @@
         "episode_saat_ini": {
             "judul_episode": "Psychic Princess Season 2",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=NWIxNDNkMzE4NjAzOGU2ZmRjODIyYTEwNjlmYjhlNTM6OWJjOWE3ZDExM2I4YzU1YmViZGY2ZDJiOWE1NDhmYTU&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=MmQ5Nzg2MDg0ODRkYTY1MzMxNzdjNGVmMjg1YmU3MTE6MmFkMGRiOTkzMzRlNjQ1NzFkYjEwYTQxM2Y5YjhjNmE&type=hls",
             "subdub_used": "Chinese (DUB)",
             "all_subdub_iframes": {
-                "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=NWIxNDNkMzE4NjAzOGU2ZmRjODIyYTEwNjlmYjhlNTM6OWJjOWE3ZDExM2I4YzU1YmViZGY2ZDJiOWE1NDhmYTU&type=hls"
+                "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=MmQ5Nzg2MDg0ODRkYTY1MzMxNzdjNGVmMjg1YmU3MTE6MmFkMGRiOTkzMzRlNjQ1NzFkYjEwYTQxM2Y5YjhjNmE&type=hls"
             }
         },
         "semua_episode": [
             {
                 "episode_number": "EP 01",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=NWIxNDNkMzE4NjAzOGU2ZmRjODIyYTEwNjlmYjhlNTM6OWJjOWE3ZDExM2I4YzU1YmViZGY2ZDJiOWE1NDhmYTU&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MmQ5Nzg2MDg0ODRkYTY1MzMxNzdjNGVmMjg1YmU3MTE6MmFkMGRiOTkzMzRlNjQ1NzFkYjEwYTQxM2Y5YjhjNmE&type=hls",
                 "subdub_used": "Chinese (DUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=NWIxNDNkMzE4NjAzOGU2ZmRjODIyYTEwNjlmYjhlNTM6OWJjOWE3ZDExM2I4YzU1YmViZGY2ZDJiOWE1NDhmYTU&type=hls"
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=MmQ5Nzg2MDg0ODRkYTY1MzMxNzdjNGVmMjg1YmU3MTE6MmFkMGRiOTkzMzRlNjQ1NzFkYjEwYTQxM2Y5YjhjNmE&type=hls"
                 }
             },
             {
                 "episode_number": "EP 02",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=MTFlNzFiNTFhYTJiNzRlZjQ5MTc2MmUzZWNkYTdkYTA6MDQ4ODg2MDBjNGQ3ZGM2NTE2ZjYwOTA3YWMwZDFjZDM&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=ODdjMTI3YzUyZGJiZDUzNTU3YmYxMmMzZDEyNWFiMjg6ODNiYjM1YTNiNWMyNmM2MWM0ZWY1NThkNDEzZjAwZDk&type=hls",
                 "subdub_used": "Chinese (DUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=MTFlNzFiNTFhYTJiNzRlZjQ5MTc2MmUzZWNkYTdkYTA6MDQ4ODg2MDBjNGQ3ZGM2NTE2ZjYwOTA3YWMwZDFjZDM&type=hls"
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=ODdjMTI3YzUyZGJiZDUzNTU3YmYxMmMzZDEyNWFiMjg6ODNiYjM1YTNiNWMyNmM2MWM0ZWY1NThkNDEzZjAwZDk&type=hls"
                 }
             },
             {
                 "episode_number": "EP 03",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=N2I1OWQ4MzRiZjNiMmE0ZTZjY2MyMDY3NjkzMTc1OWE6MGUyOTM1OTljNGU3YjZlZWI5NWM0OTY1Yzc2YThkYzM&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MTJmYmI0N2JiNzhmYjViOTQ5YzI5Y2VjODc5M2FhNjY6NmNmMzljMzA1MjY3OGIzNDc0NDM0YTExYmJjMDViNTM&type=hls",
                 "subdub_used": "Chinese (DUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=N2I1OWQ4MzRiZjNiMmE0ZTZjY2MyMDY3NjkzMTc1OWE6MGUyOTM1OTljNGU3YjZlZWI5NWM0OTY1Yzc2YThkYzM&type=hls"
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=MTJmYmI0N2JiNzhmYjViOTQ5YzI5Y2VjODc5M2FhNjY6NmNmMzljMzA1MjY3OGIzNDc0NDM0YTExYmJjMDViNTM&type=hls"
                 }
             },
             {
                 "episode_number": "EP 04",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=Y2Q3Yzc4NWNlZjIwMDM4NjQ3ZTVjMjRiNGU1OTlhMTE6MDAwZWYxMTMzZjkxMTVjZmU2ZmZkN2ZkZjMyM2I5MTE&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=M2RmYTAzZDI4OWI5NzYzZTNlMmU3NDliNDM5ZGVhYzA6NjViMjY5Y2Q1NzYyNGY5NzYzZDhjNTQ0ZDllNWYzMWM&type=hls",
                 "subdub_used": "Chinese (DUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=Y2Q3Yzc4NWNlZjIwMDM4NjQ3ZTVjMjRiNGU1OTlhMTE6MDAwZWYxMTMzZjkxMTVjZmU2ZmZkN2ZkZjMyM2I5MTE&type=hls"
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=M2RmYTAzZDI4OWI5NzYzZTNlMmU3NDliNDM5ZGVhYzA6NjViMjY5Y2Q1NzYyNGY5NzYzZDhjNTQ0ZDllNWYzMWM&type=hls"
                 }
             },
             {
                 "episode_number": "EP 05",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=MGQzMGNmMzkwODgyZjdlNDhjNjExY2QxZDhiODI3MDI6OWMwZjMyYTFjNTM3MWFjM2Y5ZTcxNTBjNDUyNDk0MDA&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=NjVhMjMyMzg3ODFhMzI4OGIyYzg1YjExYjhlMTY5ZDc6ZWZkNjQ3YzNjZDI1OWQ2NzAyMDcyODhhN2Y3YTYxZGQ&type=hls",
                 "subdub_used": "Chinese (DUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=MGQzMGNmMzkwODgyZjdlNDhjNjExY2QxZDhiODI3MDI6OWMwZjMyYTFjNTM3MWFjM2Y5ZTcxNTBjNDUyNDk0MDA&type=hls"
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=NjVhMjMyMzg3ODFhMzI4OGIyYzg1YjExYjhlMTY5ZDc6ZWZkNjQ3YzNjZDI1OWQ2NzAyMDcyODhhN2Y3YTYxZGQ&type=hls"
                 }
             },
             {
                 "episode_number": "EP 06",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=ZmJkZTE1YmUyM2I5NjI2YzE4MGNmMWMzNDFjMjAyOGM6YTUyNjE1ZDhkMDZiOWY1YzQxMmI1MGI0YzNhYmNkYmI&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MTUxMWE0NWI2MDZiOGE0ODE4NDRmNDk0N2JiYjY2Njg6NDczMjJhMWI2MWE3NDZlOGMxNjlhMTViNDQyMGFiZDQ&type=hls",
                 "subdub_used": "Chinese (DUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=ZmJkZTE1YmUyM2I5NjI2YzE4MGNmMWMzNDFjMjAyOGM6YTUyNjE1ZDhkMDZiOWY1YzQxMmI1MGI0YzNhYmNkYmI&type=hls"
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=MTUxMWE0NWI2MDZiOGE0ODE4NDRmNDk0N2JiYjY2Njg6NDczMjJhMWI2MWE3NDZlOGMxNjlhMTViNDQyMGFiZDQ&type=hls"
                 }
             },
             {
                 "episode_number": "EP 07",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=ZTAzZjZhMzRiNDIxODczMGVhN2ZjZTYyNGM3YmJiZGE6MzQ0OGZkNzdjOGJjZWY5OTJjYjQzODlkODgxZmI0ZjA&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MmRlNDQ0MzFlNjQ4NTRjMzkzMGZkZWNkOWYyMTAxYmE6MjRiOWQ5NTUzN2FhOTZmYmIwY2NhMTBjOTQ5YjBhNzY&type=hls",
                 "subdub_used": "Chinese (DUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=ZTAzZjZhMzRiNDIxODczMGVhN2ZjZTYyNGM3YmJiZGE6MzQ0OGZkNzdjOGJjZWY5OTJjYjQzODlkODgxZmI0ZjA&type=hls"
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=MmRlNDQ0MzFlNjQ4NTRjMzkzMGZkZWNkOWYyMTAxYmE6MjRiOWQ5NTUzN2FhOTZmYmIwY2NhMTBjOTQ5YjBhNzY&type=hls"
                 }
             },
             {
                 "episode_number": "EP 08",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=Njc0MGRlNDgyZWNmNjA1MjZhODE3ZWI0OTZiYjExZTY6MGM1NzA2ZDU4Njk4NWEzN2U2YTU0OGJkOTVmMTZhZDc&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=MzI0ZTdiOTVkNWUxNjU3YmNmMWIyN2UzNWJmMDBmMmQ6ZjQyZjZhYTY2N2U0NDA1ZDk4MzZlY2U0Y2Q3NjQwN2Q&type=hls",
                 "subdub_used": "Chinese (DUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=Njc0MGRlNDgyZWNmNjA1MjZhODE3ZWI0OTZiYjExZTY6MGM1NzA2ZDU4Njk4NWEzN2U2YTU0OGJkOTVmMTZhZDc&type=hls"
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=MzI0ZTdiOTVkNWUxNjU3YmNmMWIyN2UzNWJmMDBmMmQ6ZjQyZjZhYTY2N2U0NDA1ZDk4MzZlY2U0Y2Q3NjQwN2Q&type=hls"
                 }
             },
             {
                 "episode_number": "EP 09",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=ODc0NTUzNmRhZTE0Njc0ZGI3ZTM4OGRmNjI2MDYwNTc6MTMxMTlmZDE3ZWVhMGIyNDYwZDA4N2Q3OTllYjQxMzg&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=ZTYxZjIzN2U5MjQzZjBkYWJmZTUxYWVhZWU0YzVkYzM6M2UyNmVhZTA0YzVhYmY2MDRlMTdkYWRhMWZjOTM1ZWM&type=hls",
                 "subdub_used": "Chinese (DUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=ODc0NTUzNmRhZTE0Njc0ZGI3ZTM4OGRmNjI2MDYwNTc6MTMxMTlmZDE3ZWVhMGIyNDYwZDA4N2Q3OTllYjQxMzg&type=hls"
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=ZTYxZjIzN2U5MjQzZjBkYWJmZTUxYWVhZWU0YzVkYzM6M2UyNmVhZTA0YzVhYmY2MDRlMTdkYWRhMWZjOTM1ZWM&type=hls"
                 }
             },
             {
                 "episode_number": "EP 10",
                 "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=Yjg2OGM1MzQzMWYzM2ZhNDMwOTI3NWMyMGYxMmY3NzE6MzBiMzVkMjJkN2IxZDg3Mzk2MWExNThlOGFhMGM4NDc&type=hls",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=NWY4YTk4YmYxZDViMzdjOTNiMGY5NzFhY2VjYmVjZGE6Mjg0ODkxMjBkNGQzM2M2MWQ5NWEzNTU4NzhmZTYyZmE&type=hls",
                 "subdub_used": "Chinese (DUB)",
                 "status": "success",
                 "all_subdub_iframes": {
-                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=Yjg2OGM1MzQzMWYzM2ZhNDMwOTI3NWMyMGYxMmY3NzE6MzBiMzVkMjJkN2IxZDg3Mzk2MWExNThlOGFhMGM4NDc&type=hls"
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=NWY4YTk4YmYxZDViMzdjOTNiMGY5NzFhY2VjYmVjZGE6Mjg0ODkxMjBkNGQzM2M2MWQ5NWEzNTU4NzhmZTYyZmE&type=hls"
                 }
             }
         ],
         "total_episode": 17,
         "scraping_strategy": "cicil",
-        "last_updated": 3239.280503604,
-        "available_subdub": [
-            "Chinese (DUB)"
-        ]
+        "last_updated": 3908.945625785,
+        "available_subdub": []
     },
     {
         "judul": "Beyblade X",
@@ -3692,7 +3683,7 @@
         ],
         "total_episode": 100,
         "scraping_strategy": "cicil",
-        "last_updated": 3311.698079353,
+        "last_updated": 3985.882123148,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3781,7 +3772,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 3351.211109927,
+        "last_updated": 4028.663276795,
         "available_subdub": [
             "Japanese (SUB)"
         ]
