@@ -1,5 +1,213 @@
 [
     {
+        "judul": "Dragon Raja II: The Mourner's Eyes",
+        "sinopsis": "Second season of Long Zu (Dragon Raja).",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "metadata": [
+            "ONA",
+            "•",
+            "PG-13",
+            "•",
+            "Airing",
+            "•",
+            "2025",
+            "•",
+            "24 min",
+            "•",
+            "SUB",
+            "•",
+            "DUB"
+        ],
+        "url_poster": "https://kickass-anime.ru/image/poster/dragon-raja-season-2-ba6d-hq.webp",
+        "url_detail": "https://kickass-anime.ru/dragon-raja-season-2-c04f",
+        "url_watch": "https://kickass-anime.ru/dragon-raja-season-2-c04f/ep-1-11833c",
+        "episode_saat_ini": {
+            "judul_episode": "Dragon Raja II: The Mourner's Eyes",
+            "nomor_episode": "EPISODE 01",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e72c26169c31976b3be7a1&source=vidstream&ln=ja-JP",
+            "subdub_used": "Chinese (DUB)",
+            "all_subdub_iframes": {
+                "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=68e72c26169c31976b3be7a1&source=vidstream&ln=ja-JP"
+            }
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e72c26169c31976b3be7a1&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=68e72c26169c31976b3be7a1&source=vidstream&ln=ja-JP"
+                }
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f00b9f169c31976b44243a&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=68f00b9f169c31976b44243a&source=vidstream&ln=ja-JP"
+                }
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68fa38b6169c31976b69a4a9&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=68fa38b6169c31976b69a4a9&source=vidstream&ln=ja-JP"
+                }
+            },
+            {
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=69029171169c31976baab2ea&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=69029171169c31976baab2ea&source=vidstream&ln=ja-JP"
+                }
+            },
+            {
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=690b85c5ab00ea3267616c07&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=690b85c5ab00ea3267616c07&source=vidstream&ln=ja-JP"
+                }
+            },
+            {
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=6914c357ab00ea3267b27f1c&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=6914c357ab00ea3267b27f1c&source=vidstream&ln=ja-JP"
+                }
+            },
+            {
+                "episode_number": "EP 10",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68bae986169c31976b668889&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=68bae986169c31976b668889&source=vidstream&ln=ja-JP"
+                }
+            }
+        ],
+        "total_episode": 7,
+        "scraping_strategy": "cicil",
+        "last_updated": 6027.459422406,
+        "available_subdub": [
+            "Chinese (DUB)"
+        ]
+    },
+    {
+        "judul": "Ganglion",
+        "sinopsis": "Early 2000s Tokyo. Isobe, a combatant for the evil corporation Ganglion, spends his days on the battlefield. Whether it's the \"Tokyo Cedar Pollen Operation\" or the \"Mount Fuji Demolition Plan,\" he faces off in nothing but a bodysuit, only to be crushed by the hero Hopeman time and again. As he struggles under unreasonable bosses during the dawn of compliance, his story unfolds—a workplace drama dedicated to all who work, following the bittersweet life of a salaryman soldier.",
+        "genre": [
+            "Action",
+            "Adult Cast"
+        ],
+        "metadata": [
+            "TV",
+            "•",
+            "PG-13",
+            "•",
+            "Airing",
+            "•",
+            "2025",
+            "•",
+            "3 min",
+            "•",
+            "SUB"
+        ],
+        "url_poster": "https://kickass-anime.ru/image/poster/ganglion-2a9a-hq.webp",
+        "url_detail": "https://kickass-anime.ru/ganglion-9f81",
+        "url_watch": "https://kickass-anime.ru/ganglion-9f81/ep-1-90af5a",
+        "episode_saat_ini": {
+            "judul_episode": "Ganglion",
+            "nomor_episode": "EPISODE 01",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e97fb7169c31976b77579a&source=vidstream&ln=ja-JP",
+            "subdub_used": "Default",
+            "all_subdub_iframes": {
+                "Default": "https://krussdomi.com/cat-player/player?id=68e97fb7169c31976b77579a&source=vidstream&ln=ja-JP"
+            }
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 1",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 2",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 3",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 4",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 5",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 6",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 7",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            }
+        ],
+        "total_episode": 7,
+        "scraping_strategy": "cicil",
+        "last_updated": 636.774033762,
+        "available_subdub": []
+    },
+    {
         "judul": "Sanda",
         "sinopsis": "The story starts with Sanda, a second year middle school student, getting attacked with a kitchen knife by his classmate Fuyumura. While Sanda couldn't make sense of the situation at first, he gradually came to believe that Fuyumura's actions were just mean acts stemming off from the latter having a peculiar puberty phase. But that was all actually a misunderstanding. Fuyumura is seriously questioning if Sanda is actually the descendant of a certain family...",
         "genre": [
@@ -95,7 +303,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 343.482615219,
+        "last_updated": 909.97784281,
         "available_subdub": []
     },
     {
@@ -180,7 +388,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 586.444840874,
+        "last_updated": 1152.791491667,
         "available_subdub": []
     },
     {
@@ -278,7 +486,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 859.331860547,
+        "last_updated": 1425.876467396,
         "available_subdub": []
     },
     {
@@ -396,7 +604,7 @@
         ],
         "total_episode": 20,
         "scraping_strategy": "cicil",
-        "last_updated": 1222.739857921,
+        "last_updated": 1789.160472389,
         "available_subdub": []
     },
     {
@@ -493,7 +701,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 1495.786452561,
+        "last_updated": 2062.050648904,
         "available_subdub": []
     },
     {
@@ -612,7 +820,7 @@
         ],
         "total_episode": 18,
         "scraping_strategy": "cicil",
-        "last_updated": 1858.98676335,
+        "last_updated": 2425.480122705,
         "available_subdub": []
     },
     {
@@ -707,7 +915,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 2132.061347519,
+        "last_updated": 2698.73864356,
         "available_subdub": []
     },
     {
@@ -731,10 +939,10 @@
         "episode_saat_ini": {
             "judul_episode": "So You're Raising a Warrior",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=NDk5ZWUyY2FmZjAwNWI1OThiOTZkMWM2ZDg0ZjM1ZDU6MzQ4ZjRlMjM2NTUyN2E4YTEyMjUxN2U4MTg4NWI2N2M&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=NzA4Y2MwMzA4NGU2ZGM1YzZmMGU0ZDA2OWVmYmQwMzQ6MmU2MzBlYTQ5ZmVlYmYyNzVlNzM1MjRhZTQwNmMwNzM&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=NDk5ZWUyY2FmZjAwNWI1OThiOTZkMWM2ZDg0ZjM1ZDU6MzQ4ZjRlMjM2NTUyN2E4YTEyMjUxN2U4MTg4NWI2N2M&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=NzA4Y2MwMzA4NGU2ZGM1YzZmMGU0ZDA2OWVmYmQwMzQ6MmU2MzBlYTQ5ZmVlYmYyNzVlNzM1MjRhZTQwNmMwNzM&type=hls"
             }
         },
         "semua_episode": [
@@ -781,7 +989,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2344.908084837,
+        "last_updated": 2911.566473695,
         "available_subdub": []
     },
     {
@@ -811,10 +1019,10 @@
         "episode_saat_ini": {
             "judul_episode": "Word of Honor Season 2",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=YWJjNDQ4ZGNjMTlhN2U1M2MwNTViMGZlZWY4ZWNjZjg6ZmEzZDc5NzQwMDE4ZWJkNjJjZTM4MjliNmY0MWM1MTE&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=YTY0NTM0YWRkNmE3YTgyYTQ1OGNiYTNkZDYxMDEwYTI6ODQzZTBmZjYxZjljNmYxMWE5NmZhNTE5MjNlMjNmZTA&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=YWJjNDQ4ZGNjMTlhN2U1M2MwNTViMGZlZWY4ZWNjZjg6ZmEzZDc5NzQwMDE4ZWJkNjJjZTM4MjliNmY0MWM1MTE&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=YTY0NTM0YWRkNmE3YTgyYTQ1OGNiYTNkZDYxMDEwYTI6ODQzZTBmZjYxZjljNmYxMWE5NmZhNTE5MjNlMjNmZTA&type=hls"
             }
         },
         "semua_episode": [
@@ -901,7 +1109,7 @@
         ],
         "total_episode": 27,
         "scraping_strategy": "cicil",
-        "last_updated": 2708.241337994,
+        "last_updated": 3274.805572216,
         "available_subdub": []
     },
     {
@@ -994,7 +1202,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 2981.197135039,
+        "last_updated": 3547.621191646,
         "available_subdub": []
     },
     {
@@ -1086,7 +1294,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 3254.142380227,
+        "last_updated": 3821.684928245,
         "available_subdub": []
     },
     {
@@ -1204,7 +1412,7 @@
         ],
         "total_episode": 19,
         "scraping_strategy": "cicil",
-        "last_updated": 3617.377186607,
+        "last_updated": 4184.878059452,
         "available_subdub": []
     },
     {
@@ -1300,7 +1508,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 3891.240482923,
+        "last_updated": 4457.883458074,
         "available_subdub": []
     },
     {
@@ -1395,7 +1603,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 4164.061463479,
+        "last_updated": 4730.777353231,
         "available_subdub": []
     },
     {
@@ -1496,7 +1704,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 4467.120324692,
+        "last_updated": 5034.04127069,
         "available_subdub": []
     },
     {
@@ -1590,7 +1798,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 4739.883914246,
+        "last_updated": 5306.98625046,
         "available_subdub": []
     },
     {
@@ -1683,7 +1891,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 5012.894798798,
+        "last_updated": 5579.973735681,
         "available_subdub": []
     },
     {
@@ -1710,10 +1918,10 @@
         "episode_saat_ini": {
             "judul_episode": "Reborn as a Cat",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=MzUzMGM2NzRiZTU1NmYxZmNhMWRkNjljYmU4YjJhODU6ZWMxODE5NjY2OGYxZWVjZjQ4ZmQ0NDJkNmQzZjE1N2M&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=YjMzZDY0N2EzOGE2MWFhYThhNjU3ZWZhNjc5ZGY1NmE6ZWYwMmY4ZWFjYTZhMzgwMmFmYmY4ZGFhNzQwYzc1NWE&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=MzUzMGM2NzRiZTU1NmYxZmNhMWRkNjljYmU4YjJhODU6ZWMxODE5NjY2OGYxZWVjZjQ4ZmQ0NDJkNmQzZjE1N2M&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=YjMzZDY0N2EzOGE2MWFhYThhNjU3ZWZhNjc5ZGY1NmE6ZWYwMmY4ZWFjYTZhMzgwMmFmYmY4ZGFhNzQwYzc1NWE&type=hls"
             }
         },
         "semua_episode": [
@@ -1744,7 +1952,7 @@
         ],
         "total_episode": 3,
         "scraping_strategy": "cicil",
-        "last_updated": 5165.598477453,
+        "last_updated": 5732.760205303,
         "available_subdub": []
     },
     {
@@ -1833,7 +2041,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 5408.360800371,
+        "last_updated": 5975.50968428,
         "available_subdub": []
     },
     {
@@ -1865,73 +2073,89 @@
             "judul_episode": "Dragon Raja II: The Mourner's Eyes",
             "nomor_episode": "EPISODE 01",
             "iframe_url": "https://krussdomi.com/cat-player/player?id=68e72c26169c31976b3be7a1&source=vidstream&ln=ja-JP",
-            "subdub_used": "Default",
+            "subdub_used": "Chinese (DUB)",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68e72c26169c31976b3be7a1&source=vidstream&ln=ja-JP"
+                "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=68e72c26169c31976b3be7a1&source=vidstream&ln=ja-JP"
             }
         },
         "semua_episode": [
             {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e72c26169c31976b3be7a1&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=68e72c26169c31976b3be7a1&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f00b9f169c31976b44243a&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=68f00b9f169c31976b44243a&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68fa38b6169c31976b69a4a9&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=68fa38b6169c31976b69a4a9&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=69029171169c31976baab2ea&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=69029171169c31976baab2ea&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=690b85c5ab00ea3267616c07&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=690b85c5ab00ea3267616c07&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=6914c357ab00ea3267b27f1c&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=6914c357ab00ea3267b27f1c&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 10",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68bae986169c31976b668889&source=vidstream&ln=ja-JP",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Chinese (DUB)": "https://krussdomi.com/cat-player/player?id=68bae986169c31976b668889&source=vidstream&ln=ja-JP"
+                }
             }
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 5681.329539121,
-        "available_subdub": []
+        "last_updated": 6027.459422406,
+        "available_subdub": [
+            "Chinese (DUB)"
+        ]
     },
     {
         "judul": "Wandance",
@@ -1958,65 +2182,79 @@
             "judul_episode": "Wandance",
             "nomor_episode": "EPISODE 01",
             "iframe_url": "https://krussdomi.com/cat-player/player?id=68e69427169c31976b29730b&source=vidstream&ln=ja-JP",
-            "subdub_used": "Default",
+            "subdub_used": "Japanese (SUB)",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68e69427169c31976b29730b&source=vidstream&ln=ja-JP"
+                "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e69427169c31976b29730b&source=vidstream&ln=ja-JP"
             }
         },
         "semua_episode": [
             {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e69427169c31976b29730b&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e69427169c31976b29730b&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f38e9c169c31976b9a8b3f&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68f38e9c169c31976b9a8b3f&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f903e0169c31976b4971e1&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68f903e0169c31976b4971e1&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=690239d2169c31976b9cda7c&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=690239d2169c31976b9cda7c&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=690b73b1ab00ea32675e38ee&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=690b73b1ab00ea32675e38ee&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=6914b805ab00ea3267b0a9be&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=6914b805ab00ea3267b0a9be&source=vidstream&ln=ja-JP"
+                }
             }
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 5924.103750172,
-        "available_subdub": []
+        "last_updated": 6073.254048426,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
     },
     {
         "judul": "Let's Play",
@@ -2043,73 +2281,89 @@
             "judul_episode": "Let's Play",
             "nomor_episode": "EPISODE 01",
             "iframe_url": "https://krussdomi.com/cat-player/player?id=68ddab15169c31976b2ed104&source=vidstream&ln=ja-JP",
-            "subdub_used": "Default",
+            "subdub_used": "Japanese (SUB)",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68ddab15169c31976b2ed104&source=vidstream&ln=ja-JP"
+                "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68ddab15169c31976b2ed104&source=vidstream&ln=ja-JP"
             }
         },
         "semua_episode": [
             {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68ddab15169c31976b2ed104&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68ddab15169c31976b2ed104&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e7004d169c31976b37dfb7&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e7004d169c31976b37dfb7&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f00d3a169c31976b445a98&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68f00d3a169c31976b445a98&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f905af169c31976b49aa97&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68f905af169c31976b49aa97&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=69023ea0169c31976b9da3eb&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=69023ea0169c31976b9da3eb&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=690b78fcab00ea32675f2e6d&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=690b78fcab00ea32675f2e6d&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 07",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=6914b395ab00ea3267aff753&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=6914b395ab00ea3267aff753&source=vidstream&ln=ja-JP"
+                }
             }
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 6196.820856991,
-        "available_subdub": []
+        "last_updated": 6125.116511018,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
     },
     {
         "judul": "The Dark History of the Reincarnated Villainess",
@@ -2138,65 +2392,79 @@
             "judul_episode": "The Dark History of the Reincarnated Villainess",
             "nomor_episode": "EPISODE 01",
             "iframe_url": "https://krussdomi.com/cat-player/player?id=68e69386169c31976b295906&source=vidstream&ln=ja-JP",
-            "subdub_used": "Default",
+            "subdub_used": "Japanese (SUB)",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68e69386169c31976b295906&source=vidstream&ln=ja-JP"
+                "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e69386169c31976b295906&source=vidstream&ln=ja-JP"
             }
         },
         "semua_episode": [
             {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e69386169c31976b295906&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e69386169c31976b295906&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68efdfb9169c31976b3eaaa3&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68efdfb9169c31976b3eaaa3&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f90637169c31976b49bb41&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68f90637169c31976b49bb41&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=69023c9e169c31976b9d5037&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=69023c9e169c31976b9d5037&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=690b7741ab00ea32675edfc8&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=690b7741ab00ea32675edfc8&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=6914b0fcab00ea3267af8aa0&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=6914b0fcab00ea3267af8aa0&source=vidstream&ln=ja-JP"
+                }
             }
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 6439.749688012,
-        "available_subdub": []
+        "last_updated": 6171.765709829,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
     },
     {
         "judul": "Kakuriyo: Bed and Breakfast for Spirits Season 2",
@@ -2228,27 +2496,31 @@
             "judul_episode": "Kakuriyo: Bed and Breakfast for Spirits Season 2",
             "nomor_episode": "EPISODE 01",
             "iframe_url": "https://krussdomi.com/cat-player/player?id=68ddaa48169c31976b2ebd67&source=vidstream&ln=ja-JP",
-            "subdub_used": "Default",
+            "subdub_used": "Japanese (SUB)",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68ddaa48169c31976b2ebd67&source=vidstream&ln=ja-JP"
+                "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68ddaa48169c31976b2ebd67&source=vidstream&ln=ja-JP"
             }
         },
         "semua_episode": [
             {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68ddaa48169c31976b2ebd67&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68ddaa48169c31976b2ebd67&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e693a5169c31976b295f13&source=vidstream&ln=ja-JP",
+                "subdub_used": "Default",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Default": "https://krussdomi.com/cat-player/player?id=68e693a5169c31976b295f13&source=vidstream&ln=ja-JP"
+                }
             },
             {
                 "episode_number": "EP 3",
@@ -2293,7 +2565,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 6712.596314569,
+        "last_updated": 6396.329091747,
         "available_subdub": []
     },
     {
@@ -2394,7 +2666,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 7016.325842372,
+        "last_updated": 6699.496425726,
         "available_subdub": []
     },
     {
@@ -2422,10 +2694,10 @@
         "episode_saat_ini": {
             "judul_episode": "Back as Immortal Lord",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=YmUxZTU3ODJiMGY4Y2NkOGZmMGZhYTlmYjE4MTk4NTk6MjlhYmU4YjZlYjFiYjExMDY1OTc2YzU3ZDhjNDQzN2M&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=YTQzN2UyMTIyODYwNTkzM2VjYzgwNzdkNTQ0NDEwOWI6NDU0MmI1YTQ0MDQwMTRmNzg4ZjA3M2JjMDMwNWY4MTE&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=YmUxZTU3ODJiMGY4Y2NkOGZmMGZhYTlmYjE4MTk4NTk6MjlhYmU4YjZlYjFiYjExMDY1OTc2YzU3ZDhjNDQzN2M&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=YTQzN2UyMTIyODYwNTkzM2VjYzgwNzdkNTQ0NDEwOWI6NDU0MmI1YTQ0MDQwMTRmNzg4ZjA3M2JjMDMwNWY4MTE&type=hls"
             }
         },
         "semua_episode": [
@@ -2472,7 +2744,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 7229.005189309,
+        "last_updated": 6912.219955894,
         "available_subdub": []
     },
     {
@@ -2536,7 +2808,7 @@
         ],
         "total_episode": 3,
         "scraping_strategy": "cicil",
-        "last_updated": 7381.659730359,
+        "last_updated": 7064.996259297,
         "available_subdub": []
     },
     {
@@ -2625,7 +2897,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 7624.396531728,
+        "last_updated": 7308.054485415,
         "available_subdub": []
     },
     {
@@ -2717,7 +2989,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 7897.281071864,
+        "last_updated": 7580.994041873,
         "available_subdub": []
     },
     {
@@ -2795,7 +3067,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 8110.028611118,
+        "last_updated": 7793.93253525,
         "available_subdub": []
     },
     {
@@ -2874,7 +3146,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 8322.886797399,
+        "last_updated": 8006.75656484,
         "available_subdub": []
     },
     {
@@ -2964,7 +3236,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 8565.551072193,
+        "last_updated": 8249.709633839,
         "available_subdub": []
     },
     {
@@ -2993,10 +3265,10 @@
         "episode_saat_ini": {
             "judul_episode": "Tales of Herding Gods",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=YzFmNWVlMDEzZmUwODY4ZGU3NWJmNWE5OTU4OGFiODI6NGUzZWFmMGRmMWNkYzA0N2E5ZGNkZDM4MWM5ODMyZGE&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=ODg1NWQ5YzJhZDQ3MjBhNmU1NWEwODE2YzE3NjkwY2M6OGQ3YjQzNmM1ZGU0MzM3NmIwYTA0ODUyNTE3YmRlNjg&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=YzFmNWVlMDEzZmUwODY4ZGU3NWJmNWE5OTU4OGFiODI6NGUzZWFmMGRmMWNkYzA0N2E5ZGNkZDM4MWM5ODMyZGE&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=ODg1NWQ5YzJhZDQ3MjBhNmU1NWEwODE2YzE3NjkwY2M6OGQ3YjQzNmM1ZGU0MzM3NmIwYTA0ODUyNTE3YmRlNjg&type=hls"
             }
         },
         "semua_episode": [
@@ -3083,7 +3355,7 @@
         ],
         "total_episode": 56,
         "scraping_strategy": "cicil",
-        "last_updated": 8928.890367246,
+        "last_updated": 8613.060984148,
         "available_subdub": []
     },
     {
@@ -3111,65 +3383,79 @@
             "judul_episode": "My Status as an Assassin Obviously Exceeds the Hero's",
             "nomor_episode": "EPISODE 01",
             "iframe_url": "https://krussdomi.com/cat-player/player?id=68e3f3d9169c31976be3f9de&source=vidstream&ln=ja-JP",
-            "subdub_used": "Default",
+            "subdub_used": "Japanese (SUB)",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68e3f3d9169c31976be3f9de&source=vidstream&ln=ja-JP"
+                "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e3f3d9169c31976be3f9de&source=vidstream&ln=ja-JP"
             }
         },
         "semua_episode": [
             {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e3f3d9169c31976be3f9de&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e3f3d9169c31976be3f9de&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68ed6455169c31976bfe6afa&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68ed6455169c31976bfe6afa&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f66f12169c31976b06c073&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68f66f12169c31976b06c073&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68ffad5d169c31976b406cf3&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68ffad5d169c31976b406cf3&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=6908df5dab00ea3267052885&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=6908df5dab00ea3267052885&source=vidstream&ln=ja-JP"
+                }
             },
             {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=691214bcab00ea32675a90a0&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=691214bcab00ea32675a90a0&source=vidstream&ln=ja-JP"
+                }
             }
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 9171.888239128,
-        "available_subdub": []
+        "last_updated": 8658.672565062,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
     },
     {
         "judul": "Gintama - Mr. Ginpachi's Zany Class",
@@ -6530,93 +6816,6 @@
             "Japanese (SUB)",
             "English (DUB)"
         ]
-    },
-    {
-        "judul": "Ganglion",
-        "sinopsis": "Early 2000s Tokyo. Isobe, a combatant for the evil corporation Ganglion, spends his days on the battlefield. Whether it's the \"Tokyo Cedar Pollen Operation\" or the \"Mount Fuji Demolition Plan,\" he faces off in nothing but a bodysuit, only to be crushed by the hero Hopeman time and again. As he struggles under unreasonable bosses during the dawn of compliance, his story unfolds—a workplace drama dedicated to all who work, following the bittersweet life of a salaryman soldier.",
-        "genre": [
-            "Action",
-            "Adult Cast"
-        ],
-        "metadata": [
-            "TV",
-            "•",
-            "PG-13",
-            "•",
-            "Airing",
-            "•",
-            "2025",
-            "•",
-            "3 min",
-            "•",
-            "SUB"
-        ],
-        "url_poster": "https://kickass-anime.ru/image/poster/ganglion-2a9a-hq.webp",
-        "url_detail": "https://kickass-anime.ru/ganglion-9f81",
-        "url_watch": "https://kickass-anime.ru/ganglion-9f81/ep-1-90af5a",
-        "episode_saat_ini": {
-            "judul_episode": "Ganglion",
-            "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e97fb7169c31976b77579a&source=vidstream&ln=ja-JP",
-            "subdub_used": "Default",
-            "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68e97fb7169c31976b77579a&source=vidstream&ln=ja-JP"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            }
-        ],
-        "total_episode": 6,
-        "scraping_strategy": "cicil",
-        "last_updated": 6761.694249322,
-        "available_subdub": []
     },
     {
         "judul": "Tatsuki Fujimoto 17-26",
