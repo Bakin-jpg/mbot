@@ -1,5 +1,112 @@
 [
     {
+        "judul": "Sanda",
+        "sinopsis": "The story starts with Sanda, a second year middle school student, getting attacked with a kitchen knife by his classmate Fuyumura. While Sanda couldn't make sense of the situation at first, he gradually came to believe that Fuyumura's actions were just mean acts stemming off from the latter having a peculiar puberty phase. But that was all actually a misunderstanding. Fuyumura is seriously questioning if Sanda is actually the descendant of a certain family...",
+        "genre": [
+            "Action",
+            "Mystery",
+            "School",
+            "Shounen"
+        ],
+        "metadata": [
+            "TV",
+            "•",
+            "PG-13",
+            "•",
+            "Airing",
+            "•",
+            "2025",
+            "•",
+            "24 min",
+            "•",
+            "SUB",
+            "•",
+            "DUB"
+        ],
+        "url_poster": "https://kickass-anime.ru/image/poster/sanda-cef3-hq.webp",
+        "url_detail": "https://kickass-anime.ru/sanda-a5ed",
+        "url_watch": "https://kickass-anime.ru/sanda-a5ed/ep-1-99d58c",
+        "episode_saat_ini": {
+            "judul_episode": "Sanda",
+            "nomor_episode": "EPISODE 01",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US",
+            "subdub_used": "Default",
+            "all_subdub_iframes": {
+                "Default": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US"
+            }
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 1",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 2",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 3",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 4",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 5",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 6",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 7",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 8",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            }
+        ],
+        "total_episode": 8,
+        "scraping_strategy": "cicil",
+        "last_updated": 432.7876992,
+        "available_subdub": []
+    },
+    {
         "judul": "Style of Hiroshi Nohara Lunch",
         "sinopsis": "This series follows Hiroshi Nohara's ultimate lunchtime philosophy, as he carefully selects and enjoys his midday meals within the constraints of a limited budget and break time. But it's not just about savoring food—Hiroshi delves into cooking trivia, preparation methods, and the everyday dilemmas of a salaryman. From debating whether to treat his juniors to lunch, to finding quick meals between sales meetings, and even venting about his boss, the series is packed with relatable moments for working professionals.",
         "genre": [
@@ -97,7 +204,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 376.936825192,
+        "last_updated": 735.749975507,
         "available_subdub": []
     },
     {
@@ -203,7 +310,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 679.599562905,
+        "last_updated": 1038.926734547,
         "available_subdub": []
     },
     {
@@ -321,7 +428,7 @@
         ],
         "total_episode": 21,
         "scraping_strategy": "cicil",
-        "last_updated": 1042.806744426,
+        "last_updated": 1401.994041498,
         "available_subdub": []
     },
     {
@@ -440,7 +547,7 @@
         ],
         "total_episode": 19,
         "scraping_strategy": "cicil",
-        "last_updated": 1405.657491105,
+        "last_updated": 1765.329165733,
         "available_subdub": []
     },
     {
@@ -545,7 +652,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 1708.357316886,
+        "last_updated": 2068.08104256,
         "available_subdub": []
     },
     {
@@ -648,7 +755,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 2011.041723295,
+        "last_updated": 2371.197185101,
         "available_subdub": []
     },
     {
@@ -678,10 +785,10 @@
         "episode_saat_ini": {
             "judul_episode": "Word of Honor Season 2",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=OGIyZDE4MTMzZGZjNTkxODAwYmQ3NjA1NGFmM2UxOTY6ZDUwMGYwZTk4NTViZmQzNGNjYmQ2OTg3NDg5NzFiZDc&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=NmRlMTI2OTk0MDQzZmJlYjdjNjI0ZmNjYzU2OWEzNjQ6MTAzYWRjYTFjODQ0MmM5OTQ1M2ZlMDE2MzMxMWRjODY&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=OGIyZDE4MTMzZGZjNTkxODAwYmQ3NjA1NGFmM2UxOTY6ZDUwMGYwZTk4NTViZmQzNGNjYmQ2OTg3NDg5NzFiZDc&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=NmRlMTI2OTk0MDQzZmJlYjdjNjI0ZmNjYzU2OWEzNjQ6MTAzYWRjYTFjODQ0MmM5OTQ1M2ZlMDE2MzMxMWRjODY&type=hls"
             }
         },
         "semua_episode": [
@@ -768,7 +875,7 @@
         ],
         "total_episode": 28,
         "scraping_strategy": "cicil",
-        "last_updated": 2374.194536692,
+        "last_updated": 2734.446314552,
         "available_subdub": []
     },
     {
@@ -792,10 +899,10 @@
         "episode_saat_ini": {
             "judul_episode": "So You're Raising a Warrior",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=YmRlNDM2ZWNlMDI2YWI3YTBjYzJjODEyOTQ1Y2NmYWM6Mzg1Mzc3MGIxMDFlYWRhZmY5ZTEyNGY3ODJlZjU1MTA&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=MjA2N2NmNWMzYjlkODQyYjIyY2NiNzY3ZThmYjNmNDA6MzM4MTYxMWQ4YWI2ZjAwMTg0ZGE3NWJmYzUyY2I3MzA&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=YmRlNDM2ZWNlMDI2YWI3YTBjYzJjODEyOTQ1Y2NmYWM6Mzg1Mzc3MGIxMDFlYWRhZmY5ZTEyNGY3ODJlZjU1MTA&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=MjA2N2NmNWMzYjlkODQyYjIyY2NiNzY3ZThmYjNmNDA6MzM4MTYxMWQ4YWI2ZjAwMTg0ZGE3NWJmYzUyY2I3MzA&type=hls"
             }
         },
         "semua_episode": [
@@ -850,7 +957,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 2616.944071085,
+        "last_updated": 2977.229807274,
         "available_subdub": []
     },
     {
@@ -947,7 +1054,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 2889.648732292,
+        "last_updated": 3250.047441866,
         "available_subdub": []
     },
     {
@@ -1048,7 +1155,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 3192.359986849,
+        "last_updated": 3553.93389728,
         "available_subdub": []
     },
     {
@@ -1148,7 +1255,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 3495.890195126,
+        "last_updated": 3856.820623361,
         "available_subdub": []
     },
     {
@@ -1266,7 +1373,7 @@
         ],
         "total_episode": 20,
         "scraping_strategy": "cicil",
-        "last_updated": 3858.761718946,
+        "last_updated": 4219.863679144,
         "available_subdub": []
     },
     {
@@ -1369,7 +1476,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 4161.514600708,
+        "last_updated": 4522.679545134,
         "available_subdub": []
     },
     {
@@ -1473,7 +1580,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 4464.159888839,
+        "last_updated": 4825.618345658,
         "available_subdub": []
     },
     {
@@ -1582,7 +1689,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 4797.073203143,
+        "last_updated": 5158.731101786,
         "available_subdub": []
     },
     {
@@ -1684,7 +1791,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 5099.96059707,
+        "last_updated": 5461.709514582,
         "available_subdub": []
     },
     {
@@ -1785,7 +1892,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 5402.505063206,
+        "last_updated": 5764.36562748,
         "available_subdub": []
     },
     {
@@ -1812,10 +1919,10 @@
         "episode_saat_ini": {
             "judul_episode": "Reborn as a Cat",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=MzE0ZmY5MGY4NTYwZmJlZjFlMDQ0MzA3MGVhOGM4MWQ6OWVhNjdmOWZmZmYxODljODQwMTFhNWNjYzA2NDZiNzc&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=YTViYjBmNTJhNzg3ZDQ2MmI5MWJlYTBkMTY1ZTk0YjI6MzMxM2UxNWI0ODlkZGI0MjA0ZGRhMzg4YjY2MjliZjk&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=MzE0ZmY5MGY4NTYwZmJlZjFlMDQ0MzA3MGVhOGM4MWQ6OWVhNjdmOWZmZmYxODljODQwMTFhNWNjYzA2NDZiNzc&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=YTViYjBmNTJhNzg3ZDQ2MmI5MWJlYTBkMTY1ZTk0YjI6MzMxM2UxNWI0ODlkZGI0MjA0ZGRhMzg4YjY2MjliZjk&type=hls"
             }
         },
         "semua_episode": [
@@ -1854,7 +1961,7 @@
         ],
         "total_episode": 4,
         "scraping_strategy": "cicil",
-        "last_updated": 5585.008493087,
+        "last_updated": 5946.945183283,
         "available_subdub": []
     },
     {
@@ -1957,7 +2064,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 6190.422473708,
+        "last_updated": 6552.480901149,
         "available_subdub": []
     },
     {
@@ -2060,7 +2167,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 6190.422473708,
+        "last_updated": 6552.480901149,
         "available_subdub": []
     },
     {
@@ -2165,7 +2272,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 6493.185129399,
+        "last_updated": 6855.340564563,
         "available_subdub": []
     },
     {
@@ -2258,7 +2365,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 6765.815650975,
+        "last_updated": 7129.246171913,
         "available_subdub": []
     },
     {
@@ -2330,7 +2437,7 @@
         ],
         "total_episode": 4,
         "scraping_strategy": "cicil",
-        "last_updated": 6949.249292219,
+        "last_updated": 7311.993339296,
         "available_subdub": []
     },
     {
@@ -2425,7 +2532,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 7221.863374821,
+        "last_updated": 7584.900037291,
         "available_subdub": []
     },
     {
@@ -2531,7 +2638,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 7524.854027923,
+        "last_updated": 7887.59103411,
         "available_subdub": []
     },
     {
@@ -2640,7 +2747,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 7857.867715755,
+        "last_updated": 8220.7812855,
         "available_subdub": []
     },
     {
@@ -2735,7 +2842,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 8130.543503182,
+        "last_updated": 8493.714310322,
         "available_subdub": []
     },
     {
@@ -2763,10 +2870,10 @@
         "episode_saat_ini": {
             "judul_episode": "Back as Immortal Lord",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=NjEzZjNkMTBiZmYxODIwOGU4ZWY3M2EwZTE1Zjc0Mjk6MTljZTI2ODQyMmNiZjliZDcwMTMzMDQ2Nzg5OGQ2MDM&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=OTJiMDYwOTY4NmJkMTAzNTI1MGU1OWYxNDU4ZTcxMjM6NzcxM2JhZmYwMWZjNGQ3MmMwZDE4MWUzM2UzZmM4NzI&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=NjEzZjNkMTBiZmYxODIwOGU4ZWY3M2EwZTE1Zjc0Mjk6MTljZTI2ODQyMmNiZjliZDcwMTMzMDQ2Nzg5OGQ2MDM&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=OTJiMDYwOTY4NmJkMTAzNTI1MGU1OWYxNDU4ZTcxMjM6NzcxM2JhZmYwMWZjNGQ3MmMwZDE4MWUzM2UzZmM4NzI&type=hls"
             }
         },
         "semua_episode": [
@@ -2821,7 +2928,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 8373.160613208,
+        "last_updated": 8736.378756206,
         "available_subdub": []
     },
     {
@@ -2921,7 +3028,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 8675.825552269,
+        "last_updated": 9039.294568326,
         "available_subdub": []
     },
     {
@@ -3018,7 +3125,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 8948.418285896,
+        "last_updated": 9312.244060773,
         "available_subdub": []
     },
     {
@@ -3104,7 +3211,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 9191.10790758,
+        "last_updated": 9555.115260318,
         "available_subdub": []
     },
     {
@@ -3202,7 +3309,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 9464.048200576,
+        "last_updated": 9828.000509212,
         "available_subdub": []
     },
     {
@@ -3231,10 +3338,10 @@
         "episode_saat_ini": {
             "judul_episode": "Tales of Herding Gods",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=YTU3NGFlNjk4ZTY5ZDJkYzA5NzBjNWM3ZTk2ZTVhZTg6ZDg4YmI2N2M0ZjIwZmNhZTk4YTcyOGU5M2RkZDI1YTQ&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=N2QxZmFiOTJkZTU0NGViOGUzYjA2NjYyNWJhZTYwNDU6MDlmYmE0ZDA5ODllNzU3MDBkZDlhNjkxYzU5ODA0MTI&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=YTU3NGFlNjk4ZTY5ZDJkYzA5NzBjNWM3ZTk2ZTVhZTg6ZDg4YmI2N2M0ZjIwZmNhZTk4YTcyOGU5M2RkZDI1YTQ&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=N2QxZmFiOTJkZTU0NGViOGUzYjA2NjYyNWJhZTYwNDU6MDlmYmE0ZDA5ODllNzU3MDBkZDlhNjkxYzU5ODA0MTI&type=hls"
             }
         },
         "semua_episode": [
@@ -3321,7 +3428,7 @@
         ],
         "total_episode": 57,
         "scraping_strategy": "cicil",
-        "last_updated": 9827.229585773,
+        "last_updated": 10191.324042531,
         "available_subdub": []
     },
     {
@@ -3349,10 +3456,10 @@
         "episode_saat_ini": {
             "judul_episode": "The Most Powerful Vendor",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=YTQyMTI2MTliNWEyNGUzYTg3YmRkNTcwYjg3ODFkMTI6ODkyYmJkZGM4OTRiMWE4MWNlNzRjMWI1NjEwMGY4YWE&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=MGY5NDUwNWQ0YWUxODJmOWEwMDc4M2Y3Y2QxZjFkNWY6OTE1YzIxNmFhNWI4MjVjZjdiY2M0MTE3NTQ5YTJmZmI&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=YTQyMTI2MTliNWEyNGUzYTg3YmRkNTcwYjg3ODFkMTI6ODkyYmJkZGM4OTRiMWE4MWNlNzRjMWI1NjEwMGY4YWE&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=MGY5NDUwNWQ0YWUxODJmOWEwMDc4M2Y3Y2QxZjFkNWY6OTE1YzIxNmFhNWI4MjVjZjdiY2M0MTE3NTQ5YTJmZmI&type=hls"
             }
         },
         "semua_episode": [
@@ -3439,7 +3546,7 @@
         ],
         "total_episode": 16,
         "scraping_strategy": "cicil",
-        "last_updated": 10190.112689536,
+        "last_updated": 10555.183736994,
         "available_subdub": []
     },
     {
@@ -3532,7 +3639,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 10463.787606588,
+        "last_updated": 10828.138833774,
         "available_subdub": []
     },
     {
@@ -7194,105 +7301,6 @@
         "total_episode": 7,
         "scraping_strategy": "cicil",
         "last_updated": 7282.833915739,
-        "available_subdub": []
-    },
-    {
-        "judul": "Sanda",
-        "sinopsis": "The story starts with Sanda, a second year middle school student, getting attacked with a kitchen knife by his classmate Fuyumura. While Sanda couldn't make sense of the situation at first, he gradually came to believe that Fuyumura's actions were just mean acts stemming off from the latter having a peculiar puberty phase. But that was all actually a misunderstanding. Fuyumura is seriously questioning if Sanda is actually the descendant of a certain family...",
-        "genre": [
-            "Action",
-            "Mystery",
-            "School",
-            "Shounen"
-        ],
-        "metadata": [
-            "TV",
-            "•",
-            "PG-13",
-            "•",
-            "Airing",
-            "•",
-            "2025",
-            "•",
-            "24 min",
-            "•",
-            "SUB",
-            "•",
-            "DUB"
-        ],
-        "url_poster": "https://kickass-anime.ru/image/poster/sanda-cef3-hq.webp",
-        "url_detail": "https://kickass-anime.ru/sanda-a5ed",
-        "url_watch": "https://kickass-anime.ru/sanda-a5ed/ep-1-99d58c",
-        "episode_saat_ini": {
-            "judul_episode": "Sanda",
-            "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US",
-            "subdub_used": "Default",
-            "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            }
-        ],
-        "total_episode": 7,
-        "scraping_strategy": "cicil",
-        "last_updated": 7555.659291151,
         "available_subdub": []
     },
     {
