@@ -1,5 +1,661 @@
 [
     {
+        "judul": "Let's Play",
+        "sinopsis": "Samara \"Sam\" Young is a developer in Los Angeles who's about to achieve her dreams with her first video game, Ruminate. That is, until a popular streamer gives the game a scathing review. Even worse, Sam finds out the troublesome critic is now her new neighbor! Get lost in a comedic, romantic, and all-too-real story about gaming, memes, and social anxiety. Come for the plot, stay for the doggo.",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "metadata": [
+            "TV",
+            "•",
+            "Airing",
+            "•",
+            "2025",
+            "•",
+            "23 min",
+            "•",
+            "SUB",
+            "•",
+            "DUB"
+        ],
+        "url_poster": "https://kickass-anime.ru/image/poster/lets-play-34ec-hq.webp",
+        "url_detail": "https://kickass-anime.ru/lets-play-4ecb",
+        "url_watch": "https://kickass-anime.ru/lets-play-4ecb/ep-1-0e34d2",
+        "episode_saat_ini": {
+            "judul_episode": "Let's Play",
+            "nomor_episode": "EPISODE 01",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=69273dbeab00ea32672d0971&source=vidstream&ln=en-US",
+            "subdub_used": "Default",
+            "all_subdub_iframes": {
+                "Default": "https://krussdomi.com/cat-player/player?id=69273dbeab00ea32672d0971&source=vidstream&ln=en-US"
+            }
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 1",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 2",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 3",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 4",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 5",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 6",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 7",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            }
+        ],
+        "total_episode": 7,
+        "scraping_strategy": "cicil",
+        "last_updated": 349.375910316,
+        "available_subdub": []
+    },
+    {
+        "judul": "Wandance",
+        "sinopsis": "Kaboku Kotani is starting high school, and he plans to do what he's always done: go along with his friends, keep quiet, and not draw too much attention to himself. After all, it's hard enough to get by with a stutter like his—why make things worse by standing out from the crowd? But then he sees another first-year, Hikari Wanda, dancing like no one is watching—or like she doesn't care who sees her. It makes Kaboku wonder: Could he reach that same freedom? To find his way to Wanda, he does something he never thought he could: He joins the dance club. After all, every routine begins with a single step, right? Join Kaboku and Wanda as they freestyle their way to life and love!",
+        "genre": [
+            "Performing Arts",
+            "School",
+            "Seinen",
+            "Sports"
+        ],
+        "metadata": [
+            "TV",
+            "•",
+            "Airing",
+            "•",
+            "2025",
+            "•",
+            "SUB"
+        ],
+        "url_poster": "https://kickass-anime.ru/image/poster/wondance-9444-hq.webp",
+        "url_detail": "https://kickass-anime.ru/wondance-a664",
+        "url_watch": "https://kickass-anime.ru/wondance-a664/ep-1-df787b",
+        "episode_saat_ini": {
+            "judul_episode": "Wandance",
+            "nomor_episode": "EPISODE 01",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e69427169c31976b29730b&source=vidstream&ln=ja-JP",
+            "subdub_used": "Default",
+            "all_subdub_iframes": {
+                "Default": "https://krussdomi.com/cat-player/player?id=68e69427169c31976b29730b&source=vidstream&ln=ja-JP"
+            }
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 1",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 2",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 3",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 4",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 5",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 6",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 7",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 8",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 9",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            }
+        ],
+        "total_episode": 9,
+        "scraping_strategy": "cicil",
+        "last_updated": 682.281854715,
+        "available_subdub": []
+    },
+    {
+        "judul": "Kakuriyo: Bed and Breakfast for Spirits Season 2",
+        "sinopsis": "Second season of Kakuriyo no Yadomeshi.",
+        "genre": [
+            "Adult Cast",
+            "Drama",
+            "Fantasy",
+            "Gourmet",
+            "Isekai",
+            "Mythology",
+            "Romance"
+        ],
+        "metadata": [
+            "TV",
+            "•",
+            "PG-13",
+            "•",
+            "Airing",
+            "•",
+            "2025",
+            "•",
+            "SUB"
+        ],
+        "url_poster": "https://kickass-anime.ru/image/poster/kakuriyo-no-yadomeshi-2nd-season-081a-hq.webp",
+        "url_detail": "https://kickass-anime.ru/kakuriyo-no-yadomeshi-2nd-season-063f",
+        "url_watch": "https://kickass-anime.ru/kakuriyo-no-yadomeshi-2nd-season-063f/ep-1-228a08",
+        "episode_saat_ini": {
+            "judul_episode": "Kakuriyo: Bed and Breakfast for Spirits Season 2",
+            "nomor_episode": "EPISODE 01",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=68ddaa48169c31976b2ebd67&source=vidstream&ln=ja-JP",
+            "subdub_used": "Default",
+            "all_subdub_iframes": {
+                "Default": "https://krussdomi.com/cat-player/player?id=68ddaa48169c31976b2ebd67&source=vidstream&ln=ja-JP"
+            }
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 1",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 2",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 3",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 4",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 5",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 6",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 7",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 8",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 9",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 10",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            }
+        ],
+        "total_episode": 10,
+        "scraping_strategy": "cicil",
+        "last_updated": 1044.873427097,
+        "available_subdub": []
+    },
+    {
+        "judul": "The Dark History of the Reincarnated Villainess",
+        "sinopsis": "Konoha Satou has a dark history. After all, she spent her teen years writing self-indulgent fantasy romance fics-like her Dark History. But since she's become its most despicable villainess, remembering every last detail is now a matter of life-and-death. Having avoided the first couple of death flags, Satou's suddenly left in the dark when a mysterious stranger returns from the Lily Kingdom-a character she doesn't recall writing in the original script. Although Yomi claims to be her ally, can Satou really trust a character she knows nothing about in such a dangerous world?",
+        "genre": [
+            "Comedy",
+            "Fantasy",
+            "Isekai",
+            "Reincarnation",
+            "Romance",
+            "Shoujo"
+        ],
+        "metadata": [
+            "TV",
+            "•",
+            "Airing",
+            "•",
+            "2025",
+            "•",
+            "SUB"
+        ],
+        "url_poster": "https://kickass-anime.ru/image/poster/the-dark-history-of-the-reincarnated-villainess-6c5e-hq.webp",
+        "url_detail": "https://kickass-anime.ru/the-dark-history-of-the-reincarnated-villainess-d2e3",
+        "url_watch": "https://kickass-anime.ru/the-dark-history-of-the-reincarnated-villainess-d2e3/ep-1-527b8f",
+        "episode_saat_ini": {
+            "judul_episode": "The Dark History of the Reincarnated Villainess",
+            "nomor_episode": "EPISODE 01",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e69386169c31976b295906&source=vidstream&ln=ja-JP",
+            "subdub_used": "Default",
+            "all_subdub_iframes": {
+                "Default": "https://krussdomi.com/cat-player/player?id=68e69386169c31976b295906&source=vidstream&ln=ja-JP"
+            }
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 1",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 2",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 3",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 4",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 5",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 6",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 7",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 8",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 9",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            }
+        ],
+        "total_episode": 9,
+        "scraping_strategy": "cicil",
+        "last_updated": 1377.594605651,
+        "available_subdub": []
+    },
+    {
+        "judul": "Hero Without a Class: Who Even Needs Skills?!",
+        "sinopsis": "\"Classes\" are given at the age of 10, and the presence or absence of \"skills\" greatly affects life. Arel, the son of \"Sword Princess\" Fara and \"Magic King\" Leon, has been branded as \"Classless\"... But even without a job or skills, Arel believes he can persevere through effort.",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "metadata": [
+            "TV",
+            "•",
+            "Airing",
+            "•",
+            "2025",
+            "•",
+            "SUB"
+        ],
+        "url_poster": "https://kickass-anime.ru/image/poster/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga-055e-hq.webp",
+        "url_detail": "https://kickass-anime.ru/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga-d107",
+        "url_watch": "https://kickass-anime.ru/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga-d107/ep-1-85f034",
+        "episode_saat_ini": {
+            "judul_episode": "Hero Without a Class: Who Even Needs Skills?!",
+            "nomor_episode": "EPISODE 01",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=68d3f329169c31976b41fe75&source=vidstream&ln=ja-JP",
+            "subdub_used": "Default",
+            "all_subdub_iframes": {
+                "Default": "https://krussdomi.com/cat-player/player?id=68d3f329169c31976b41fe75&source=vidstream&ln=ja-JP"
+            }
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 1",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 2",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 3",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 4",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 5",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 6",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 7",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 8",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 9",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 10",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            }
+        ],
+        "total_episode": 11,
+        "scraping_strategy": "cicil",
+        "last_updated": 1740.576100802,
+        "available_subdub": []
+    },
+    {
+        "judul": "Back as Immortal Lord",
+        "sinopsis": "The young warrior Yun Qingyan disappeared from the world three years ago, but he was actually drawn into the fairy world for three thousand years! With his extraordinary talent, he became the Yun Emperor, one of the ten great fairy emperors. However, because he was tired of the intrigues in the fairy world and missed his family, he decided to return to the human world at all costs. Upon return to the human world, his parents and sister strangely disappeared, and due to an incident whilst traveling from the fairy world to the human world, he lost his magic weapon and his cultivation became almost zero. Major forces took this opportunity to hunt him down. The fairy emperor became the target of public criticism, and his family was in danger! Yun Qingyan relied on his extraordinary fairy emperor talent to refine pills and array formations, study and practice, and overwhelm his enemies. He embarked on an adventure to revive his family, find his relatives, and rectify the mortal world.",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "metadata": [
+            "ONA",
+            "•",
+            "PG-13",
+            "•",
+            "Airing",
+            "•",
+            "2025",
+            "•",
+            "15 min"
+        ],
+        "url_poster": "https://kickass-anime.ru/image/poster/back-as-immortal-lord-2e94-hq.webp",
+        "url_detail": "https://kickass-anime.ru/back-as-immortal-lord-4c4f",
+        "url_watch": "https://kickass-anime.ru/back-as-immortal-lord-4c4f/ep-1-47b628",
+        "episode_saat_ini": {
+            "judul_episode": "Back as Immortal Lord",
+            "nomor_episode": "EPISODE 01",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=NjU0OWYwM2QyZThjNzQyY2RkNGY4NjdhMzM0NGZmYTc6YzJkNDkxMDAzMzMxNjNkZGI5OWQ0OTk0NTIzNDJmYWE&type=hls",
+            "subdub_used": "Default",
+            "all_subdub_iframes": {
+                "Default": "https://krussdomi.com/cat-player/player?id=NjU0OWYwM2QyZThjNzQyY2RkNGY4NjdhMzM0NGZmYTc6YzJkNDkxMDAzMzMxNjNkZGI5OWQ0OTk0NTIzNDJmYWE&type=hls"
+            }
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 1",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 2",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 3",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 4",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 5",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 6",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 7",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            },
+            {
+                "episode_number": "EP 8",
+                "episode_url": null,
+                "iframe_url": "Gagal diambil",
+                "subdub_used": "None",
+                "status": "error",
+                "all_subdub_iframes": {}
+            }
+        ],
+        "total_episode": 8,
+        "scraping_strategy": "cicil",
+        "last_updated": 2043.017402426,
+        "available_subdub": []
+    },
+    {
         "judul": "My Status as an Assassin Obviously Exceeds the Hero's",
         "sinopsis": "Oda Akira is the kind of guy who people forget is even there. His unassuming nature pays off, though, when his entire class is swept away to a fantasy world, and he slips easily into his new role as a silent assassin. Between his suspiciously high starting stats and too many details that don't fit, Akira is sure something is wrong. But digging into royal secrets is a dangerous game, and when Akira uncovers an evil scheme, he also makes a powerful enemy—the very king who brought him to this world! With the help of the elven spirit medium Amelia, can he find the power to set things right, and get his revenge?",
         "genre": [
@@ -107,7 +763,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 3082.308305538,
+        "last_updated": 5008.309927804,
         "available_subdub": []
     },
     {
@@ -223,7 +879,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 812.415842866,
+        "last_updated": 2738.538758827,
         "available_subdub": []
     },
     {
@@ -336,7 +992,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 1145.040245006,
+        "last_updated": 3071.135164656,
         "available_subdub": []
     },
     {
@@ -425,7 +1081,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1387.583447131,
+        "last_updated": 3313.527743792,
         "available_subdub": []
     },
     {
@@ -539,7 +1195,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 1720.23191735,
+        "last_updated": 3647.040425212,
         "available_subdub": []
     },
     {
@@ -641,7 +1297,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 2023.251608309,
+        "last_updated": 3949.751290094,
         "available_subdub": []
     },
     {
@@ -670,10 +1326,10 @@
         "episode_saat_ini": {
             "judul_episode": "Tales of Herding Gods",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=ZDUzMjNkYmM5MjlmZjE3NmU4YThiOTIxZTY5YmE5MDU6MDA3MzYzOTkzNTNlNzA4OWZmMWI5MGFhMzI4OWI1MjQ&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=MjU5NzYzNmQwZGI3Y2NiNTNkNTllNTkzYjdhNDlhMDk6M2VlMDlmOTk5MWIzMDZjYzM1MWI2MzA0NGVlODVkNWY&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=ZDUzMjNkYmM5MjlmZjE3NmU4YThiOTIxZTY5YmE5MDU6MDA3MzYzOTkzNTNlNzA4OWZmMWI5MGFhMzI4OWI1MjQ&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=MjU5NzYzNmQwZGI3Y2NiNTNkNTllNTkzYjdhNDlhMDk6M2VlMDlmOTk5MWIzMDZjYzM1MWI2MzA0NGVlODVkNWY&type=hls"
             }
         },
         "semua_episode": [
@@ -760,7 +1416,7 @@
         ],
         "total_episode": 59,
         "scraping_strategy": "cicil",
-        "last_updated": 2386.65549434,
+        "last_updated": 4312.744766844,
         "available_subdub": []
     },
     {
@@ -788,10 +1444,10 @@
         "episode_saat_ini": {
             "judul_episode": "The Most Powerful Vendor",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=YmQzZmRjNzI4ODEwM2MzYTViM2EzMWNkNjhjM2M1ZjM6MWZkMDhmYTYwNTNlZjI4OTRmYjg1Y2M1ZWQ2ZDQyZGU&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=NzU4YTUwZDdmYThhYjgzZTdhNzc5NGJkYzI4NzhlZjg6ODEyZDFlZmNkYTMyMmE1NTRiMGZmMzQ1Y2FhOTk4MDc&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=YmQzZmRjNzI4ODEwM2MzYTViM2EzMWNkNjhjM2M1ZjM6MWZkMDhmYTYwNTNlZjI4OTRmYjg1Y2M1ZWQ2ZDQyZGU&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=NzU4YTUwZDdmYThhYjgzZTdhNzc5NGJkYzI4NzhlZjg6ODEyZDFlZmNkYTMyMmE1NTRiMGZmMzQ1Y2FhOTk4MDc&type=hls"
             }
         },
         "semua_episode": [
@@ -878,7 +1534,7 @@
         ],
         "total_episode": 18,
         "scraping_strategy": "cicil",
-        "last_updated": 2749.357338024,
+        "last_updated": 4675.513253975,
         "available_subdub": []
     },
     {
@@ -989,7 +1645,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 3082.308305538,
+        "last_updated": 5008.309927804,
         "available_subdub": []
     },
     {
@@ -1104,7 +1760,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 8834.241878387,
+        "last_updated": 10755.997961032,
         "available_subdub": []
     },
     {
@@ -1214,7 +1870,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 3748.82110859,
+        "last_updated": 5673.661668325,
         "available_subdub": []
     },
     {
@@ -1330,7 +1986,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 4111.999567129,
+        "last_updated": 6036.457145824,
         "available_subdub": []
     },
     {
@@ -1438,7 +2094,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 4444.768721605,
+        "last_updated": 6368.995338724,
         "available_subdub": []
     },
     {
@@ -1546,7 +2202,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 4777.554930973,
+        "last_updated": 6701.546618757,
         "available_subdub": []
     },
     {
@@ -1649,7 +2305,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 5080.1586726,
+        "last_updated": 7004.28038757,
         "available_subdub": []
     },
     {
@@ -1678,10 +2334,10 @@
         "episode_saat_ini": {
             "judul_episode": "Spy x Sect",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=NGI2M2FjZWQ1ZGIwMThhZjczNjc4YmI2ZmI4NjhmNzg6MzJhMGExNjBjMTE2NDEzZmMxZjA2NWRiZTllNWYxZmQ&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=MTNmYWQzOWI1NmIxM2Q5MWEyNjg4ZWUxOGVhZjQyNTM6YTc0NGQ4ZmU5MDMzZGJhMGM2NDZkMDNmOTE1NGRmZmM&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=NGI2M2FjZWQ1ZGIwMThhZjczNjc4YmI2ZmI4NjhmNzg6MzJhMGExNjBjMTE2NDEzZmMxZjA2NWRiZTllNWYxZmQ&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=MTNmYWQzOWI1NmIxM2Q5MWEyNjg4ZWUxOGVhZjQyNTM6YTc0NGQ4ZmU5MDMzZGJhMGM2NDZkMDNmOTE1NGRmZmM&type=hls"
             }
         },
         "semua_episode": [
@@ -1768,7 +2424,7 @@
         ],
         "total_episode": 100,
         "scraping_strategy": "cicil",
-        "last_updated": 5443.706022639,
+        "last_updated": 7367.637553316,
         "available_subdub": []
     },
     {
@@ -1886,7 +2542,7 @@
         ],
         "total_episode": 19,
         "scraping_strategy": "cicil",
-        "last_updated": 9197.010899392,
+        "last_updated": 11118.654206525,
         "available_subdub": []
     },
     {
@@ -2008,7 +2664,7 @@
         ],
         "total_episode": 13,
         "scraping_strategy": "cicil",
-        "last_updated": 6169.543273722,
+        "last_updated": 8093.810123401,
         "available_subdub": []
     },
     {
@@ -2035,10 +2691,10 @@
         "episode_saat_ini": {
             "judul_episode": "Hands off: Sawaranaide Kotesashi-kun",
             "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=ZWY5NmJiYTEyYzU5ZDg5YzQ3Mzc2ZWIxYWM1N2NhMmQ6YzM5YTc4ODk5MGRjMGUzNmQ2MzdlOGY0MjhmYTAxODQ&type=hls",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=NjZhN2MyODI3NTgzZjI5YjlmOWE2Yzg4ZGRhMGJhZjM6NjAyMDIyZmE1YzQyNmU1YmQxNGViZjc1OTZhYWU5Y2M&type=hls",
             "subdub_used": "Default",
             "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=ZWY5NmJiYTEyYzU5ZDg5YzQ3Mzc2ZWIxYWM1N2NhMmQ6YzM5YTc4ODk5MGRjMGUzNmQ2MzdlOGY0MjhmYTAxODQ&type=hls"
+                "Default": "https://krussdomi.com/cat-player/player?id=NjZhN2MyODI3NTgzZjI5YjlmOWE2Yzg4ZGRhMGJhZjM6NjAyMDIyZmE1YzQyNmU1YmQxNGViZjc1OTZhYWU5Y2M&type=hls"
             }
         },
         "semua_episode": [
@@ -2117,7 +2773,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 6502.623533487,
+        "last_updated": 8426.576076478,
         "available_subdub": []
     },
     {
@@ -2231,7 +2887,7 @@
         ],
         "total_episode": 12,
         "scraping_strategy": "cicil",
-        "last_updated": 6865.329866059,
+        "last_updated": 8789.248942676,
         "available_subdub": []
     },
     {
@@ -2337,7 +2993,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 7198.110937143,
+        "last_updated": 9121.898615947,
         "available_subdub": []
     },
     {
@@ -2460,7 +3116,7 @@
         ],
         "total_episode": 100,
         "scraping_strategy": "cicil",
-        "last_updated": 7561.931461417,
+        "last_updated": 9485.485773032,
         "available_subdub": []
     },
     {
@@ -2558,7 +3214,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 7835.617528227,
+        "last_updated": 9757.963952184,
         "available_subdub": []
     },
     {
@@ -2666,7 +3322,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 8168.320458429,
+        "last_updated": 10090.67324915,
         "available_subdub": []
     },
     {
@@ -2776,7 +3432,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 8501.123629551,
+        "last_updated": 10423.328723173,
         "available_subdub": []
     },
     {
@@ -2891,7 +3547,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 8834.241878387,
+        "last_updated": 10755.997961032,
         "available_subdub": []
     },
     {
@@ -3009,7 +3665,7 @@
         ],
         "total_episode": 19,
         "scraping_strategy": "cicil",
-        "last_updated": 9197.010899392,
+        "last_updated": 11118.654206525,
         "available_subdub": []
     },
     {
@@ -3117,7 +3773,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 9529.688204793,
+        "last_updated": 11451.178810381,
         "available_subdub": []
     },
     {
@@ -3219,7 +3875,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 9832.565941921,
+        "last_updated": 11754.588987556,
         "available_subdub": []
     },
     {
@@ -3336,7 +3992,7 @@
         ],
         "total_episode": 42,
         "scraping_strategy": "cicil",
-        "last_updated": 10195.558625202,
+        "last_updated": 12117.396256403,
         "available_subdub": []
     },
     {
@@ -7829,101 +8485,6 @@
         "available_subdub": []
     },
     {
-        "judul": "Let's Play",
-        "sinopsis": "Samara \"Sam\" Young is a developer in Los Angeles who's about to achieve her dreams with her first video game, Ruminate. That is, until a popular streamer gives the game a scathing review. Even worse, Sam finds out the troublesome critic is now her new neighbor! Get lost in a comedic, romantic, and all-too-real story about gaming, memes, and social anxiety. Come for the plot, stay for the doggo.",
-        "genre": [
-            "Comedy",
-            "Romance"
-        ],
-        "metadata": [
-            "TV",
-            "•",
-            "Airing",
-            "•",
-            "2025",
-            "•",
-            "23 min",
-            "•",
-            "SUB",
-            "•",
-            "DUB"
-        ],
-        "url_poster": "https://kickass-anime.ru/image/poster/lets-play-34ec-hq.webp",
-        "url_detail": "https://kickass-anime.ru/lets-play-4ecb",
-        "url_watch": "https://kickass-anime.ru/lets-play-4ecb/ep-1-0e34d2",
-        "episode_saat_ini": {
-            "judul_episode": "Let's Play",
-            "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=69273dbeab00ea32672d0971&source=vidstream&ln=en-US",
-            "subdub_used": "Default",
-            "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=69273dbeab00ea32672d0971&source=vidstream&ln=en-US"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            }
-        ],
-        "total_episode": 7,
-        "scraping_strategy": "cicil",
-        "last_updated": 7536.214074966,
-        "available_subdub": []
-    },
-    {
         "judul": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
         "sinopsis": "Yuuken \"Yuu\" Enma is an average Japanese high school student preparing for an upcoming kendo tournament. On the night before the competition, however, a black carriage crashes into him. When he regains consciousness, Yuu finds himself at Night Raven College—a premier academic institution in the magical world of Twisted Wonderland. Only a chosen few with exceptional magical talent are admitted into the school, so it is a mystery how a human with no magic ability ended up here. Although Yuu desires to return home, it is easier said than done. While the school's headmaster searches for a way to send him back, Yuu is assigned manual labor around the campus. But due to the chaos at the school's entrance ceremony following his arrival, Yuu has a target painted on his back as far as Heartslabyul dorm leader Riddle Rosehearts is concerned. Yuu meets and befriends Heartslabyul freshmen Ace Trappola and Deuce Spade; yet soon after, Ace and Deuce land in a situation that results in their expulsion. As the pair seek to redeem themselves, Yuu accompanies them on their perilous mission to fix school property. However, forgiveness does not come easily from the \"Crimson Tyrant\" in charge of Heartslabyul, who may have an ulterior motive behind his strictness.",
         "genre": [
@@ -8001,535 +8562,6 @@
         "total_episode": 5,
         "scraping_strategy": "cicil",
         "last_updated": 7748.69933897,
-        "available_subdub": []
-    },
-    {
-        "judul": "Wandance",
-        "sinopsis": "Kaboku Kotani is starting high school, and he plans to do what he's always done: go along with his friends, keep quiet, and not draw too much attention to himself. After all, it's hard enough to get by with a stutter like his—why make things worse by standing out from the crowd? But then he sees another first-year, Hikari Wanda, dancing like no one is watching—or like she doesn't care who sees her. It makes Kaboku wonder: Could he reach that same freedom? To find his way to Wanda, he does something he never thought he could: He joins the dance club. After all, every routine begins with a single step, right? Join Kaboku and Wanda as they freestyle their way to life and love!",
-        "genre": [
-            "Performing Arts",
-            "School",
-            "Seinen",
-            "Sports"
-        ],
-        "metadata": [
-            "TV",
-            "•",
-            "Airing",
-            "•",
-            "2025",
-            "•",
-            "SUB"
-        ],
-        "url_poster": "https://kickass-anime.ru/image/poster/wondance-9444-hq.webp",
-        "url_detail": "https://kickass-anime.ru/wondance-a664",
-        "url_watch": "https://kickass-anime.ru/wondance-a664/ep-1-df787b",
-        "episode_saat_ini": {
-            "judul_episode": "Wandance",
-            "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e69427169c31976b29730b&source=vidstream&ln=ja-JP",
-            "subdub_used": "Default",
-            "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68e69427169c31976b29730b&source=vidstream&ln=ja-JP"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 8",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            }
-        ],
-        "total_episode": 8,
-        "scraping_strategy": "cicil",
-        "last_updated": 8051.317438363,
-        "available_subdub": []
-    },
-    {
-        "judul": "The Dark History of the Reincarnated Villainess",
-        "sinopsis": "Konoha Satou has a dark history. After all, she spent her teen years writing self-indulgent fantasy romance fics-like her Dark History. But since she's become its most despicable villainess, remembering every last detail is now a matter of life-and-death. Having avoided the first couple of death flags, Satou's suddenly left in the dark when a mysterious stranger returns from the Lily Kingdom-a character she doesn't recall writing in the original script. Although Yomi claims to be her ally, can Satou really trust a character she knows nothing about in such a dangerous world?",
-        "genre": [
-            "Comedy",
-            "Fantasy",
-            "Isekai",
-            "Reincarnation",
-            "Romance",
-            "Shoujo"
-        ],
-        "metadata": [
-            "TV",
-            "•",
-            "Airing",
-            "•",
-            "2025",
-            "•",
-            "SUB"
-        ],
-        "url_poster": "https://kickass-anime.ru/image/poster/the-dark-history-of-the-reincarnated-villainess-6c5e-hq.webp",
-        "url_detail": "https://kickass-anime.ru/the-dark-history-of-the-reincarnated-villainess-d2e3",
-        "url_watch": "https://kickass-anime.ru/the-dark-history-of-the-reincarnated-villainess-d2e3/ep-1-527b8f",
-        "episode_saat_ini": {
-            "judul_episode": "The Dark History of the Reincarnated Villainess",
-            "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e69386169c31976b295906&source=vidstream&ln=ja-JP",
-            "subdub_used": "Default",
-            "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68e69386169c31976b295906&source=vidstream&ln=ja-JP"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 8",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            }
-        ],
-        "total_episode": 8,
-        "scraping_strategy": "cicil",
-        "last_updated": 8353.992261912,
-        "available_subdub": []
-    },
-    {
-        "judul": "Kakuriyo: Bed and Breakfast for Spirits Season 2",
-        "sinopsis": "Second season of Kakuriyo no Yadomeshi.",
-        "genre": [
-            "Adult Cast",
-            "Drama",
-            "Fantasy",
-            "Gourmet",
-            "Isekai",
-            "Mythology",
-            "Romance"
-        ],
-        "metadata": [
-            "TV",
-            "•",
-            "PG-13",
-            "•",
-            "Airing",
-            "•",
-            "2025",
-            "•",
-            "SUB"
-        ],
-        "url_poster": "https://kickass-anime.ru/image/poster/kakuriyo-no-yadomeshi-2nd-season-081a-hq.webp",
-        "url_detail": "https://kickass-anime.ru/kakuriyo-no-yadomeshi-2nd-season-063f",
-        "url_watch": "https://kickass-anime.ru/kakuriyo-no-yadomeshi-2nd-season-063f/ep-1-228a08",
-        "episode_saat_ini": {
-            "judul_episode": "Kakuriyo: Bed and Breakfast for Spirits Season 2",
-            "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=68ddaa48169c31976b2ebd67&source=vidstream&ln=ja-JP",
-            "subdub_used": "Default",
-            "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68ddaa48169c31976b2ebd67&source=vidstream&ln=ja-JP"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 8",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 9",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            }
-        ],
-        "total_episode": 9,
-        "scraping_strategy": "cicil",
-        "last_updated": 8686.509149029,
-        "available_subdub": []
-    },
-    {
-        "judul": "Back as Immortal Lord",
-        "sinopsis": "The young warrior Yun Qingyan disappeared from the world three years ago, but he was actually drawn into the fairy world for three thousand years! With his extraordinary talent, he became the Yun Emperor, one of the ten great fairy emperors. However, because he was tired of the intrigues in the fairy world and missed his family, he decided to return to the human world at all costs. Upon return to the human world, his parents and sister strangely disappeared, and due to an incident whilst traveling from the fairy world to the human world, he lost his magic weapon and his cultivation became almost zero. Major forces took this opportunity to hunt him down. The fairy emperor became the target of public criticism, and his family was in danger! Yun Qingyan relied on his extraordinary fairy emperor talent to refine pills and array formations, study and practice, and overwhelm his enemies. He embarked on an adventure to revive his family, find his relatives, and rectify the mortal world.",
-        "genre": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
-        "metadata": [
-            "ONA",
-            "•",
-            "PG-13",
-            "•",
-            "Airing",
-            "•",
-            "2025",
-            "•",
-            "15 min"
-        ],
-        "url_poster": "https://kickass-anime.ru/image/poster/back-as-immortal-lord-2e94-hq.webp",
-        "url_detail": "https://kickass-anime.ru/back-as-immortal-lord-4c4f",
-        "url_watch": "https://kickass-anime.ru/back-as-immortal-lord-4c4f/ep-1-47b628",
-        "episode_saat_ini": {
-            "judul_episode": "Back as Immortal Lord",
-            "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=ODZhNTQyMDg4MWNhZDU1MGE4NGJlNjM3MDVjM2EwYTc6OTBlMDI2NjUxOTk4YmZjNmRhNTVhMmQ2YTBkODczYzk&type=hls",
-            "subdub_used": "Default",
-            "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=ODZhNTQyMDg4MWNhZDU1MGE4NGJlNjM3MDVjM2EwYTc6OTBlMDI2NjUxOTk4YmZjNmRhNTVhMmQ2YTBkODczYzk&type=hls"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            }
-        ],
-        "total_episode": 7,
-        "scraping_strategy": "cicil",
-        "last_updated": 8958.79278527,
-        "available_subdub": []
-    },
-    {
-        "judul": "Hero Without a Class: Who Even Needs Skills?!",
-        "sinopsis": "\"Classes\" are given at the age of 10, and the presence or absence of \"skills\" greatly affects life. Arel, the son of \"Sword Princess\" Fara and \"Magic King\" Leon, has been branded as \"Classless\"... But even without a job or skills, Arel believes he can persevere through effort.",
-        "genre": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy"
-        ],
-        "metadata": [
-            "TV",
-            "•",
-            "Airing",
-            "•",
-            "2025",
-            "•",
-            "SUB"
-        ],
-        "url_poster": "https://kickass-anime.ru/image/poster/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga-055e-hq.webp",
-        "url_detail": "https://kickass-anime.ru/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga-d107",
-        "url_watch": "https://kickass-anime.ru/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga-d107/ep-1-85f034",
-        "episode_saat_ini": {
-            "judul_episode": "Hero Without a Class: Who Even Needs Skills?!",
-            "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=68d3f329169c31976b41fe75&source=vidstream&ln=ja-JP",
-            "subdub_used": "Default",
-            "all_subdub_iframes": {
-                "Default": "https://krussdomi.com/cat-player/player?id=68d3f329169c31976b41fe75&source=vidstream&ln=ja-JP"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 8",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 9",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            },
-            {
-                "episode_number": "EP 10",
-                "episode_url": null,
-                "iframe_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_iframes": {}
-            }
-        ],
-        "total_episode": 10,
-        "scraping_strategy": "cicil",
-        "last_updated": 9321.688466308,
         "available_subdub": []
     },
     {
