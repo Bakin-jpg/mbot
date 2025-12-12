@@ -1,5 +1,221 @@
 [
     {
+        "judul": "Sanda",
+        "sinopsis": "The story starts with Sanda, a second year middle school student, getting attacked with a kitchen knife by his classmate Fuyumura. While Sanda couldn't make sense of the situation at first, he gradually came to believe that Fuyumura's actions were just mean acts stemming off from the latter having a peculiar puberty phase. But that was all actually a misunderstanding. Fuyumura is seriously questioning if Sanda is actually the descendant of a certain family...",
+        "genre": [
+            "Action",
+            "Mystery",
+            "School",
+            "Shounen"
+        ],
+        "metadata": [
+            "TV",
+            "•",
+            "PG-13",
+            "•",
+            "Airing",
+            "•",
+            "2025",
+            "•",
+            "24 min",
+            "•",
+            "SUB",
+            "•",
+            "DUB"
+        ],
+        "url_poster": "https://kickass-anime.ru/image/poster/sanda-cef3-hq.webp",
+        "url_detail": "https://kickass-anime.ru/sanda-a5ed",
+        "url_watch": "https://kickass-anime.ru/sanda-a5ed/ep-1-99d58c",
+        "episode_saat_ini": {
+            "judul_episode": "Sanda",
+            "nomor_episode": "EPISODE 01",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_iframes": {
+                "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US",
+                "Español (España)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=es-ES",
+                "English (DUB)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US"
+            }
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=ja-JP",
+                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=es-ES",
+                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US"
+                }
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e978ff169c31976b7658a2&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e978ff169c31976b7658a2&source=vidstream&ln=ja-JP",
+                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68e978ff169c31976b7658a2&source=vidstream&ln=es-ES",
+                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68e978ff169c31976b7658a2&source=vidstream&ln=en-US"
+                }
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f2868d169c31976b7e621a&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68f2868d169c31976b7e621a&source=vidstream&ln=ja-JP",
+                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68f2868d169c31976b7e621a&source=vidstream&ln=es-ES",
+                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68f2868d169c31976b7e621a&source=vidstream&ln=en-US"
+                }
+            },
+            {
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=68fbbf85169c31976b973957&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68fbbf85169c31976b973957&source=vidstream&ln=ja-JP",
+                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68fbbf85169c31976b973957&source=vidstream&ln=es-ES",
+                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68fbbf85169c31976b973957&source=vidstream&ln=en-US"
+                }
+            },
+            {
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=690505b7169c31976bf6ab2d&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=690505b7169c31976bf6ab2d&source=vidstream&ln=ja-JP",
+                    "Español (España)": "https://krussdomi.com/cat-player/player?id=690505b7169c31976bf6ab2d&source=vidstream&ln=es-ES",
+                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=690505b7169c31976bf6ab2d&source=vidstream&ln=en-US"
+                }
+            },
+            {
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=690e3aceab00ea3267b3bbf9&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=690e3aceab00ea3267b3bbf9&source=vidstream&ln=ja-JP",
+                    "Español (España)": "https://krussdomi.com/cat-player/player?id=690e3aceab00ea3267b3bbf9&source=vidstream&ln=es-ES",
+                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=690e3aceab00ea3267b3bbf9&source=vidstream&ln=en-US"
+                }
+            },
+            {
+                "episode_number": "EP 07",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=69177139ab00ea3267fecaaf&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=69177139ab00ea3267fecaaf&source=vidstream&ln=ja-JP",
+                    "Español (España)": "https://krussdomi.com/cat-player/player?id=69177139ab00ea3267fecaaf&source=vidstream&ln=es-ES",
+                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=69177139ab00ea3267fecaaf&source=vidstream&ln=en-US"
+                }
+            },
+            {
+                "episode_number": "EP 08",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=6920b046ab00ea32673c98c1&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=6920b046ab00ea32673c98c1&source=vidstream&ln=ja-JP",
+                    "Español (España)": "https://krussdomi.com/cat-player/player?id=6920b046ab00ea32673c98c1&source=vidstream&ln=es-ES",
+                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=6920b046ab00ea32673c98c1&source=vidstream&ln=en-US"
+                }
+            },
+            {
+                "episode_number": "EP 09",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=6929f1f4ab00ea32677d14c1&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=6929f1f4ab00ea32677d14c1&source=vidstream&ln=ja-JP",
+                    "Español (España)": "https://krussdomi.com/cat-player/player?id=6929f1f4ab00ea32677d14c1&source=vidstream&ln=es-ES",
+                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=6929f1f4ab00ea32677d14c1&source=vidstream&ln=en-US"
+                }
+            },
+            {
+                "episode_number": "EP 10",
+                "episode_url": "https://kickass-anime.ru/",
+                "iframe_url": "https://krussdomi.com/cat-player/player?id=69331f89ab00ea3267bf58a5&source=vidstream&ln=ja-JP",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_iframes": {
+                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=69331f89ab00ea3267bf58a5&source=vidstream&ln=ja-JP",
+                    "Español (España)": "https://krussdomi.com/cat-player/player?id=69331f89ab00ea3267bf58a5&source=vidstream&ln=es-ES",
+                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=69331f89ab00ea3267bf58a5&source=vidstream&ln=en-US"
+                }
+            }
+        ],
+        "total_episode": 11,
+        "scraping_strategy": "cicil",
+        "last_updated": 629.431065934,
+        "available_subdub": [
+            "Japanese (SUB)",
+            "Español (España)",
+            "English (DUB)"
+        ]
+    },
+    {
+        "judul": "May I Ask for One Final Thing?",
+        "sinopsis": "In the middle of a ball, Scarlet's fiancé, Kyle, suddenly calls off their engagement. She's falsely accused of being a bully and people unfairly call her a \"Villainess.\" The aristocrats and noble families all denounce her. For years, she had to put up with his abuse and idiocy, but she can't take anymore of it! At her wit's end, she asks for one last favor; to give him a good fist in the face. So begins Scarlet's story of revenge against Kyle and his cronies! A fantasy about an elegant yet rebellious fighter, who doesn't let anyone take advantage of her!!",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Romance"
+        ],
+        "metadata": [
+            "TV",
+            "•",
+            "PG-13",
+            "•",
+            "Airing",
+            "•",
+            "2025",
+            "•",
+            "24 min",
+            "•",
+            "SUB",
+            "•",
+            "DUB"
+        ],
+        "url_poster": "https://kickass-anime.ru/image/poster/may-i-ask-for-one-final-thing-c2af-hq.webp",
+        "url_detail": "https://kickass-anime.ru/may-i-ask-for-one-final-thing-ec45",
+        "url_watch": "https://kickass-anime.ru/may-i-ask-for-one-final-thing-ec45/ep-1-e3607b",
+        "episode_saat_ini": {
+            "judul_episode": "May I Ask for One Final Thing?",
+            "nomor_episode": "EPISODE 01",
+            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=en-US",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_iframes": {
+                "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=en-US",
+                "Español (España)": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=es-ES",
+                "English (DUB)": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=en-US"
+            }
+        },
+        "semua_episode": [],
+        "total_episode": 11,
+        "scraping_strategy": "cicil",
+        "last_updated": 695.302357771,
+        "available_subdub": [
+            "Japanese (SUB)",
+            "Español (España)",
+            "English (DUB)"
+        ]
+    },
+    {
         "judul": "So You're Raising a Warrior",
         "sinopsis": "The contrastingly cute dragon, Al, the first king-killer in the demon world, who has a full combat score but is ready to die and longs for a happy retirement, bumps into the cunning human magician Le Fei, and accidentally becomes a super dad who raises Le Fei's son Dino. Will Dino be an ordinary and happy child, or will he bravely pick up the Warrior's Holy Sword and face his own destiny...",
         "genre": [
@@ -10543,343 +10759,6 @@
         "last_updated": 6196.565818043,
         "available_subdub": [
             "Japanese (SUB)"
-        ]
-    },
-    {
-        "judul": "Sanda",
-        "sinopsis": "The story starts with Sanda, a second year middle school student, getting attacked with a kitchen knife by his classmate Fuyumura. While Sanda couldn't make sense of the situation at first, he gradually came to believe that Fuyumura's actions were just mean acts stemming off from the latter having a peculiar puberty phase. But that was all actually a misunderstanding. Fuyumura is seriously questioning if Sanda is actually the descendant of a certain family...",
-        "genre": [
-            "Action",
-            "Mystery",
-            "School",
-            "Shounen"
-        ],
-        "metadata": [
-            "TV",
-            "•",
-            "PG-13",
-            "•",
-            "Airing",
-            "•",
-            "2025",
-            "•",
-            "24 min",
-            "•",
-            "SUB",
-            "•",
-            "DUB"
-        ],
-        "url_poster": "https://kickass-anime.ru/image/poster/sanda-cef3-hq.webp",
-        "url_detail": "https://kickass-anime.ru/sanda-a5ed",
-        "url_watch": "https://kickass-anime.ru/sanda-a5ed/ep-1-99d58c",
-        "episode_saat_ini": {
-            "judul_episode": "Sanda",
-            "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_iframes": {
-                "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US",
-                "Español (España)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=es-ES",
-                "English (DUB)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68e05b62169c31976b69cbea&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 02",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e978ff169c31976b7658a2&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e978ff169c31976b7658a2&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68e978ff169c31976b7658a2&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68e978ff169c31976b7658a2&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 03",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f2868d169c31976b7e621a&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68f2868d169c31976b7e621a&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68f2868d169c31976b7e621a&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68f2868d169c31976b7e621a&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 04",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=68fbbf85169c31976b973957&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68fbbf85169c31976b973957&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68fbbf85169c31976b973957&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68fbbf85169c31976b973957&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 05",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=690505b7169c31976bf6ab2d&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=690505b7169c31976bf6ab2d&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=690505b7169c31976bf6ab2d&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=690505b7169c31976bf6ab2d&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 06",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=690e3aceab00ea3267b3bbf9&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=690e3aceab00ea3267b3bbf9&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=690e3aceab00ea3267b3bbf9&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=690e3aceab00ea3267b3bbf9&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 07",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=69177139ab00ea3267fecaaf&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=69177139ab00ea3267fecaaf&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=69177139ab00ea3267fecaaf&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=69177139ab00ea3267fecaaf&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 08",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=6920b046ab00ea32673c98c1&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=6920b046ab00ea32673c98c1&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=6920b046ab00ea32673c98c1&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=6920b046ab00ea32673c98c1&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 09",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=6929f1f4ab00ea32677d14c1&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=6929f1f4ab00ea32677d14c1&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=6929f1f4ab00ea32677d14c1&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=6929f1f4ab00ea32677d14c1&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 10",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=69331f89ab00ea3267bf58a5&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=69331f89ab00ea3267bf58a5&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=69331f89ab00ea3267bf58a5&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=69331f89ab00ea3267bf58a5&source=vidstream&ln=en-US"
-                }
-            }
-        ],
-        "total_episode": 10,
-        "scraping_strategy": "cicil",
-        "last_updated": 3977.207496086,
-        "available_subdub": [
-            "Japanese (SUB)",
-            "Español (España)",
-            "English (DUB)"
-        ]
-    },
-    {
-        "judul": "May I Ask for One Final Thing?",
-        "sinopsis": "In the middle of a ball, Scarlet's fiancé, Kyle, suddenly calls off their engagement. She's falsely accused of being a bully and people unfairly call her a \"Villainess.\" The aristocrats and noble families all denounce her. For years, she had to put up with his abuse and idiocy, but she can't take anymore of it! At her wit's end, she asks for one last favor; to give him a good fist in the face. So begins Scarlet's story of revenge against Kyle and his cronies! A fantasy about an elegant yet rebellious fighter, who doesn't let anyone take advantage of her!!",
-        "genre": [
-            "Action",
-            "Comedy",
-            "Romance"
-        ],
-        "metadata": [
-            "TV",
-            "•",
-            "PG-13",
-            "•",
-            "Airing",
-            "•",
-            "2025",
-            "•",
-            "24 min",
-            "•",
-            "SUB",
-            "•",
-            "DUB"
-        ],
-        "url_poster": "https://kickass-anime.ru/image/poster/may-i-ask-for-one-final-thing-c2af-hq.webp",
-        "url_detail": "https://kickass-anime.ru/may-i-ask-for-one-final-thing-ec45",
-        "url_watch": "https://kickass-anime.ru/may-i-ask-for-one-final-thing-ec45/ep-1-e3607b",
-        "episode_saat_ini": {
-            "judul_episode": "May I Ask for One Final Thing?",
-            "nomor_episode": "EPISODE 01",
-            "iframe_url": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=en-US",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_iframes": {
-                "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=en-US",
-                "Español (España)": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=es-ES",
-                "English (DUB)": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=en-US"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68e057cb169c31976b696ab5&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 02",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=68e057c9169c31976b696a8f&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68e057c9169c31976b696a8f&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68e057c9169c31976b696a8f&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68e057c9169c31976b696a8f&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 03",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f272f8169c31976b7b4a9e&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68f272f8169c31976b7b4a9e&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68f272f8169c31976b7b4a9e&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68f272f8169c31976b7b4a9e&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 04",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=68f272ff169c31976b7b4c66&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68f272ff169c31976b7b4c66&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68f272ff169c31976b7b4c66&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68f272ff169c31976b7b4c66&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 05",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=68fbb14c169c31976b947ac9&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=68fbb14c169c31976b947ac9&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=68fbb14c169c31976b947ac9&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=68fbb14c169c31976b947ac9&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 06",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=690e3b27ab00ea3267b3ce9d&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=690e3b27ab00ea3267b3ce9d&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=690e3b27ab00ea3267b3ce9d&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=690e3b27ab00ea3267b3ce9d&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 07",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=690e8992ab00ea3267c2893c&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=690e8992ab00ea3267c2893c&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=690e8992ab00ea3267c2893c&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=690e8992ab00ea3267c2893c&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 08",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=6921b4bbab00ea32675f114d&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=6921b4bbab00ea32675f114d&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=6921b4bbab00ea32675f114d&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=6921b4bbab00ea32675f114d&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 09",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=69210660ab00ea326749b203&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=69210660ab00ea326749b203&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=69210660ab00ea326749b203&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=69210660ab00ea326749b203&source=vidstream&ln=en-US"
-                }
-            },
-            {
-                "episode_number": "EP 10",
-                "episode_url": "https://kickass-anime.ru/",
-                "iframe_url": "https://krussdomi.com/cat-player/player?id=692a7393ab00ea326791a257&source=vidstream&ln=ja-JP",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_iframes": {
-                    "Japanese (SUB)": "https://krussdomi.com/cat-player/player?id=692a7393ab00ea326791a257&source=vidstream&ln=ja-JP",
-                    "Español (España)": "https://krussdomi.com/cat-player/player?id=692a7393ab00ea326791a257&source=vidstream&ln=es-ES",
-                    "English (DUB)": "https://krussdomi.com/cat-player/player?id=692a7393ab00ea326791a257&source=vidstream&ln=en-US"
-                }
-            }
-        ],
-        "total_episode": 11,
-        "scraping_strategy": "cicil",
-        "last_updated": 4338.982032639,
-        "available_subdub": [
-            "Japanese (SUB)",
-            "Español (España)",
-            "English (DUB)"
         ]
     },
     {
