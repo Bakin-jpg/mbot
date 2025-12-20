@@ -79,35 +79,41 @@ async def scrape_kickass_anime():
                     # Buka halaman detail
                     detail_page = await context.new_page()
                     await detail_page.goto(full_detail_url, timeout=90000)
-                    await detail_page.wait_for_selector(".anime-info-card", timeout=30000)
                     
-                    # Scrape informasi dasar
-                    title_element = await detail_page.query_selector(".anime-info-card .v-card__title span")
+                    # Tunggu beberapa saat untuk memastikan halaman dimuat
+                    await detail_page.wait_for_timeout(3000)
+                    
+                    # Scrape informasi dasar - menggunakan selector baru
+                    title_element = await detail_page.query_selector("h1.text-h6")
                     title = await title_element.inner_text() if title_element else "Judul tidak ditemukan"
 
-                    # Scrape sinopsis
-                    synopsis_card_title = await detail_page.query_selector("div.v-card__title:has-text('Synopsis')")
+                    # Scrape sinopsis - menggunakan selector baru
                     synopsis = "Sinopsis tidak ditemukan"
-                    if synopsis_card_title:
-                        parent_card = await synopsis_card_title.query_selector("xpath=..")
-                        synopsis_element = await parent_card.query_selector(".text-caption")
+                    try:
+                        synopsis_element = await detail_page.query_selector(".text-caption")
                         if synopsis_element:
                             synopsis = await synopsis_element.inner_text()
+                    except:
+                        pass
                     
-                    # Scrape genre
-                    genre_elements = await detail_page.query_selector_all(".anime-info-card .v-chip--outlined .v-chip__content")
-                    all_tags = [await el.inner_text() for el in genre_elements]
-                    irrelevant_tags = ['TV', 'PG-13', 'Airing', '2025', '2024', '23 min', '24 min', 'SUB', 'DUB', 'ONA']
-                    genres = [tag for tag in all_tags if tag not in irrelevant_tags and not tag.startswith('EP')]
+                    # Scrape genre - menggunakan selector baru
+                    genres = []
+                    try:
+                        genre_elements = await detail_page.query_selector_all(".v-chip__content")
+                        all_tags = [await el.inner_text() for el in genre_elements]
+                        irrelevant_tags = ['TV', 'PG-13', 'Airing', '2025', '2024', '23 min', '24 min', 'SUB', 'DUB', 'ONA']
+                        genres = [tag for tag in all_tags if tag not in irrelevant_tags and not tag.startswith('EP')]
+                    except:
+                        pass
 
-                    # Scrape metadata
-                    metadata_selector = ".anime-info-card .d-flex.mb-3, .anime-info-card .d-flex.mt-2.mb-3"
-                    metadata_container = await detail_page.query_selector(metadata_selector)
+                    # Scrape metadata - menggunakan selector baru
                     metadata = []
-                    if metadata_container:
-                        metadata_elements = await metadata_container.query_selector_all(".text-subtitle-2")
+                    try:
+                        metadata_elements = await detail_page.query_selector_all(".text-subtitle-2")
                         all_meta_texts = [await el.inner_text() for el in metadata_elements]
-                        metadata = [text.strip() for text in all_meta_texts if text and text.strip() != 'Ã¢â‚¬Â¢']
+                        metadata = [text.strip() for text in all_meta_texts if text and text.strip() != '•']
+                    except:
+                        pass
 
                     # Cari tombol "Watch Now" dan ambil URL watch
                     watch_button = await detail_page.query_selector('a.v-btn[href*="/ep-"]')
@@ -191,7 +197,7 @@ async def scrape_kickass_anime():
                                         option_text = await option.inner_text()
                                         if option_text and option_text.strip():
                                             # Filter hanya opsi yang berhubungan dengan bahasa/sub/dub
-                                            if any(keyword in option_text.lower() for keyword in ['japanese', 'english', 'chinese', 'espaÃ±ol', 'sub', 'dub']):
+                                            if any(keyword in option_text.lower() for keyword in ['japanese', 'english', 'chinese', 'español', 'sub', 'dub']):
                                                 subdub_options.append(option_text.strip())
                                     
                                     if subdub_options:
@@ -405,7 +411,9 @@ async def scrape_kickass_anime():
 
                     # Buka halaman watch
                     await watch_page.goto(watch_url, timeout=90000)
-                    await watch_page.wait_for_selector(".player-container", timeout=30000)
+                    
+                    # Tunggu beberapa saat untuk memastikan halaman dimuat
+                    await watch_page.wait_for_timeout(3000)
                     
                     # Scrape m3u8 player untuk episode saat ini dengan semua sub/dub
                     current_m3u8_info = await get_all_subdub_m3u8(watch_page, "Current")
@@ -417,11 +425,11 @@ async def scrape_kickass_anime():
                     episode_info = {}
                     try:
                         # Judul episode
-                        episode_title_element = await watch_page.query_selector(".v-card__title h1.text-h6")
+                        episode_title_element = await watch_page.query_selector("h1.text-h6")
                         episode_title = await episode_title_element.inner_text() if episode_title_element else "Judul episode tidak ditemukan"
                         
                         # Nomor episode
-                        episode_number_element = await watch_page.query_selector(".v-card__title .text-overline")
+                        episode_number_element = await watch_page.query_selector(".text-overline")
                         episode_number = await episode_number_element.inner_text() if episode_number_element else "Episode number tidak ditemukan"
                         
                         episode_info = {
