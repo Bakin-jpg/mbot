@@ -1,152 +1,169 @@
+
 import asyncio
 from playwright.async_api import async_playwright
 import json
 from urllib.parse import urljoin
+import random
 
 # --- KONFIGURASI ---
 BASE_URL = "https://kickass-anime.ru/"
-OUTPUT_FILE = "anime_data_lengkap.json"
+OUTPUT_FILE = "anime_hasil_final.json"
 
-async def scrape_kickass_auto():
+# User Agent PC Standar (Penting biar dikira orang beneran)
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+
+async def scrape_kickass_real():
     async with async_playwright() as p:
-        # Browser setting biar dikira user asli (PENTING buat bypass proteksi)
-        browser = await p.chromium.launch(headless=True) 
-        context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            viewport={'width': 1920, 'height': 1080},
-            locale="en-US"
+        # 1. LAUNCH BROWSER DENGAN ARGUMEN "STEALTH"
+        # Ini biar browser gak keliatan kayak robot
+        browser = await p.chromium.launch(
+            headless=True, # Ubah ke False kalau mau lihat browsernya jalan (debugging)
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--no-sandbox",
+                "--disable-setuid-sandbox",
+                "--disable-infobars",
+                "--window-position=0,0",
+                "--ignore-certifcate-errors",
+                "--ignore-certifcate-errors-spki-list",
+            ]
         )
         
-        # 1. BUKA HOMEPAGE
+        context = await browser.new_context(
+            user_agent=USER_AGENT,
+            viewport={'width': 1920, 'height': 1080},
+            locale="en-US",
+            timezone_id="Asia/Jakarta"
+        )
+        
+        # Buka Homepage
         page = await context.new_page()
         print(f"🚀 Membuka {BASE_URL} ...")
+        
         try:
-            await page.goto(BASE_URL, timeout=60000, wait_until="domcontentloaded")
-            
-            # Tunggu list anime muncul (berdasarkan inspect element lu: class "latest-update")
+            await page.goto(BASE_URL, timeout=90000, wait_until="domcontentloaded")
+            # Tunggu item muncul
             await page.wait_for_selector(".latest-update .show-item", timeout=30000)
-            print("✅ Halaman utama terbuka. Membaca daftar anime...")
         except Exception as e:
-            print(f"❌ Gagal buka homepage: {e}")
+            print(f"❌ Gagal akses homepage: {e}")
             await browser.close()
             return
 
-        # 2. AMBIL LIST URL EPISODE DARI HALAMAN DEPAN
-        # Selector ini ngambil link <a href="..."> di dalam .show-item
+        # Ambil link episode terbaru
         anime_elements = await page.query_selector_all(".latest-update .show-item a.v-card")
-        
         tasks_data = []
         for el in anime_elements:
             href = await el.get_attribute("href")
             if href:
                 full_url = urljoin(BASE_URL, href)
                 tasks_data.append(full_url)
-        
-        print(f"📦 Ditemukan {len(tasks_data)} episode terbaru untuk diproses.\n")
+
+        print(f"📦 Menemukan {len(tasks_data)} anime. Memproses 10 teratas...\n")
         
         scraped_results = []
 
-        # 3. LOOPING PROSES SETIAP EPISODE
-        # Kita batasi scrape 10 anime dulu biar gak kelamaan nungguin resultnya (bisa lu ubah)
+        # Loop setiap episode
         for index, ep_url in enumerate(tasks_data[:10]): 
-            print(f"🎬 [{index+1}/{len(tasks_data)}] Memproses: {ep_url}")
+            print(f"🎬 [{index+1}] Sedang membuka: {ep_url}")
             
-            # Buka tab baru untuk setiap episode biar bersih
             ep_page = await context.new_page()
             
-            # --- TEKNIK SNIFFING M3U8 (INI INTI NYA) ---
+            # --- SNIFFER SETUP ---
             m3u8_found = None
             
             async def handle_request(request):
                 nonlocal m3u8_found
                 url = request.url
-                # Kita cari URL yang mengandung .m3u8 DAN master/manifest
-                # Ini pattern krussdomi yang lu kasih: https://hls.krussdomi.com/.../master.m3u8
-                if ".m3u8" in url and ("master" in url or "manifest" in url):
-                    print(f"    ⚡ DAPAT LINK: {url}")
-                    m3u8_found = url
+                # Ciri link video HLS (bisa dari krussdomi atau server lain)
+                if ".m3u8" in url and ("master" in url or "manifest" in url or "playlist" in url):
+                    # Filter link iklan sampah
+                    if "delivery" not in url and "ad" not in url:
+                        print(f"    ⚡ DAPAT LINK: {url}")
+                        m3u8_found = url
 
-            # Pasang kuping di jaringan
             ep_page.on("request", handle_request)
 
             try:
+                # Buka Halaman Episode
                 await ep_page.goto(ep_url, timeout=60000, wait_until="domcontentloaded")
                 
-                # Tunggu variabel window.KAA muncul (ini data rahasia webnya)
-                # Kita ambil judul & episode dari situ biar akurat 100%
+                # --- SCRAPE METADATA (JUDUL) VIA HTML ---
+                # Kita pakai CSS Selector dari inspect element lu
+                # .v-card__title h1.text-h6
                 try:
-                    await ep_page.wait_for_function("() => window.KAA !== undefined", timeout=15000)
-                    metadata = await ep_page.evaluate("""() => {
-                        try {
-                            const d = window.KAA.data[0].episode;
-                            return {
-                                judul: d.show_slug.replace(/-/g, ' ').toUpperCase(),
-                                episode: "EP " + d.episode_string,
-                                poster: d.poster.hq,
-                                sinopsis: d.synopsis
-                            }
-                        } catch(e) { return null; }
-                    }""")
+                    await ep_page.wait_for_selector("h1.text-h6", timeout=15000)
+                    
+                    judul = await ep_page.inner_text("h1.text-h6")
+                    episode = await ep_page.inner_text(".text-overline")
+                    poster_div = await ep_page.query_selector(".v-image__image--cover")
+                    poster_style = await poster_div.get_attribute("style") if poster_div else ""
+                    # Extract url from style string
+                    poster = poster_style.split('url("')[1].split('")')[0] if 'url("' in poster_style else ""
+                    
+                except Exception:
+                    # Fallback kalau gagal load
+                    print("    ⚠️ Gagal ambil judul (Element belum render), skip metadata...")
+                    judul = "Unknown"
+                    episode = "Unknown"
+                    poster = ""
+
+                # --- CARA PAKSA PLAYER MUNCUL ---
+                # 1. Tunggu iframe player
+                try:
+                    await ep_page.wait_for_selector("iframe.player", timeout=10000)
                 except:
-                    print("    ⚠️ Metadata JS timeout, pakai fallback HTML...")
-                    metadata = None
+                    print("    ⚠️ Iframe player lama muncul, coba scroll...")
+                
+                # 2. Scroll sedikit biar trigger lazy load
+                await ep_page.mouse.wheel(0, 300)
+                await ep_page.wait_for_timeout(1000)
 
-                # Fallback kalo ambil data dari JS gagal (ambil dari HTML biasa)
-                if not metadata:
-                    title_el = await ep_page.query_selector("h1.text-h6")
-                    ep_el = await ep_page.query_selector(".text-overline")
-                    metadata = {
-                        "judul": await title_el.inner_text() if title_el else "Unknown Anime",
-                        "episode": await ep_el.inner_text() if ep_el else "Ep ?",
-                        "poster": "",
-                        "sinopsis": ""
-                    }
-
-                # Tunggu player loading & request m3u8 keluar
-                # Kita tunggu max 10 detik
-                for _ in range(20):
+                # 3. Tunggu M3U8 Muncul di Network
+                for _ in range(15): # Tunggu 7.5 detik max
                     if m3u8_found: break
                     await ep_page.wait_for_timeout(500)
                 
-                # Kalau belum dapet, coba scroll atau klik play (kadang player lazy load)
+                # 4. Kalau belum muncul, KLIK AREA PLAYER
                 if not m3u8_found:
-                    # Coba cari iframe player dan scroll ke sana
-                    player_frame = await ep_page.query_selector("iframe.player")
-                    if player_frame:
-                        await player_frame.scroll_into_view_if_needed()
-                        await ep_page.wait_for_timeout(2000)
+                    print("    👆 Link belum keluar, mencoba klik player...")
+                    # Klik di tengah-tengah iframe
+                    iframe = await ep_page.query_selector("iframe.player")
+                    if iframe:
+                        box = await iframe.bounding_box()
+                        if box:
+                            await ep_page.mouse.click(box["x"] + box["width"] / 2, box["y"] + box["height"] / 2)
+                            await ep_page.wait_for_timeout(3000) # Tunggu loading setelah klik
 
-                # Simpan data kalau sukses
+                # --- SIMPAN HASIL ---
                 if m3u8_found:
                     scraped_results.append({
-                        "judul": metadata['judul'],
-                        "episode": metadata['episode'],
+                        "judul": judul,
+                        "episode": episode,
                         "url_halaman": ep_url,
-                        "url_stream_m3u8": m3u8_found, # <--- INI LINK HLS NYA
-                        "poster": metadata['poster'],
-                        "sinopsis": metadata['sinopsis']
+                        "url_stream_m3u8": m3u8_found,
+                        "poster": poster
                     })
-                    print("    ✅ Data tersimpan.")
+                    print(f"    ✅ SUKSES: {judul} - {episode}")
                 else:
-                    print("    ❌ Gagal dapat link stream (Server timeout/mati).")
+                    print("    ❌ GAGAL: Tidak ada stream link yang tertangkap.")
 
             except Exception as e:
-                print(f"    ❌ Error: {e}")
+                print(f"    ❌ Error Page: {e}")
             
             finally:
                 await ep_page.close()
-                # Remove listener gak perlu explicit karena page di close
-        
+
         await browser.close()
 
-        # Simpan hasil akhir ke JSON
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            json.dump(scraped_results, f, indent=4, ensure_ascii=False)
-        
-        print("\n" + "="*50)
-        print(f"SELESAI. {len(scraped_results)} Anime berhasil diambil.")
-        print(f"Cek file: {OUTPUT_FILE}")
-        print("="*50)
+        # Simpan JSON
+        if scraped_results:
+            with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+                json.dump(scraped_results, f, indent=4, ensure_ascii=False)
+            print("\n" + "="*50)
+            print(f"✅ BERHASIL! {len(scraped_results)} data tersimpan di {OUTPUT_FILE}")
+            print("="*50)
+        else:
+            print("\n❌ GAGAL TOTAL: Tidak ada data yang berhasil diambil.")
 
 if __name__ == "__main__":
-    asyncio.run(scrape_kickass_auto())
+    asyncio.run(scrape_kickass_real())
