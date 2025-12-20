@@ -78,21 +78,41 @@ async def scrape_kickass_anime():
 
                     # Buka halaman detail
                     detail_page = await context.new_page()
-                    await detail_page.goto(full_detail_url, timeout=90000)
+                    await detail_page.goto(full_detail_url, timeout=90000, wait_until="domcontentloaded")
                     
-                    # Tunggu beberapa saat untuk memastikan halaman dimuat
-                    await detail_page.wait_for_timeout(3000)
+                    # Tunggu lebih lama untuk memastikan halaman dimuat
+                    await detail_page.wait_for_timeout(5000)
+                    
+                    # Ambil screenshot untuk debugging
+                    try:
+                        screenshot_path = f"debug_detail_{index + 1}.png"
+                        await detail_page.screenshot(path=screenshot_path, full_page=False)
+                        print(f"✓ Screenshot halaman detail disimpan: {screenshot_path}")
+                    except:
+                        pass
                     
                     # Scrape informasi dasar - menggunakan selector baru
                     title_element = await detail_page.query_selector("h1.text-h6")
                     title = await title_element.inner_text() if title_element else "Judul tidak ditemukan"
+                    
+                    # Jika judul tidak ditemukan, coba selector alternatif
+                    if title == "Judul tidak ditemukan":
+                        title_element = await detail_page.query_selector(".v-card__title span")
+                        title = await title_element.inner_text() if title_element else "Judul tidak ditemukan"
+                    
+                    print(f"Judul: {title}")
 
                     # Scrape sinopsis - menggunakan selector baru
                     synopsis = "Sinopsis tidak ditemukan"
                     try:
-                        synopsis_element = await detail_page.query_selector(".text-caption")
-                        if synopsis_element:
-                            synopsis = await synopsis_element.inner_text()
+                        synopsis_elements = await detail_page.query_selector_all(".text-caption")
+                        if synopsis_elements:
+                            # Cari elemen sinopsis yang paling panjang
+                            for elem in synopsis_elements:
+                                text = await elem.inner_text()
+                                if len(text) > 20:  # Asumsi sinopsis lebih panjang dari 20 karakter
+                                    synopsis = text
+                                    break
                     except:
                         pass
                     
@@ -101,7 +121,8 @@ async def scrape_kickass_anime():
                     try:
                         genre_elements = await detail_page.query_selector_all(".v-chip__content")
                         all_tags = [await el.inner_text() for el in genre_elements]
-                        irrelevant_tags = ['TV', 'PG-13', 'Airing', '2025', '2024', '23 min', '24 min', 'SUB', 'DUB', 'ONA']
+                        irrelevant_tags = ['TV', 'PG-13', 'Airing', '2025', '2024', '23 min', '24 min', 'SUB', 'DUB', 'ONA', 
+                                          'R', 'PG', 'G', 'Finished', 'Movie', 'OVA', 'Special']
                         genres = [tag for tag in all_tags if tag not in irrelevant_tags and not tag.startswith('EP')]
                     except:
                         pass
@@ -115,17 +136,114 @@ async def scrape_kickass_anime():
                     except:
                         pass
 
+                    # FUNGSI TEMUKAN TOMBOL WATCH NOW
+                    async def find_watch_button(page):
+                        """Mencari tombol Watch Now dengan berbagai cara"""
+                        
+                        selectors = [
+                            # Selector spesifik dari HTML yang Anda berikan
+                            'a.pulse-button.v-btn--block[href*="/ep-"]',
+                            'a.pulse-button[href*="/ep-"]',
+                            
+                            # Selector umum
+                            'a[href*="/ep-"]:has-text("Watch Now")',
+                            'a.v-btn[href*="/ep-"]',
+                            'button:has-text("Watch Now")',
+                            '//button[contains(text(), "Watch Now")]',
+                            '//a[contains(text(), "Watch Now")]',
+                            
+                            # Selector berdasarkan class
+                            '.v-btn.primary:has-text("Watch Now")',
+                            'a[href*="/ep-"][class*="v-btn"]',
+                            
+                            # XPath selector
+                            '//a[contains(@class, "pulse-button")]',
+                            '//*[contains(text(), "Watch Now") and @href]',
+                            
+                            # Selector lebih umum
+                            '//a[contains(@href, "/ep-")]',
+                            'a[href*="/ep-"]'
+                        ]
+                        
+                        for selector in selectors:
+                            try:
+                                print(f"  Mencari dengan selector: {selector}")
+                                if selector.startswith('//'):
+                                    element = await page.query_selector(f'xpath={selector}')
+                                else:
+                                    element = await page.query_selector(selector)
+                                
+                                if element:
+                                    is_visible = await element.is_visible()
+                                    if is_visible:
+                                        print(f"  ✓ Tombol ditemukan dengan selector: {selector}")
+                                        return element
+                            except Exception as e:
+                                continue
+                        
+                        # Jika tidak ditemukan, cari semua elemen dengan teks "Watch Now"
+                        try:
+                            all_elements = await page.query_selector_all('*')
+                            for element in all_elements:
+                                try:
+                                    text = await element.text_content()
+                                    if text and "Watch Now" in text:
+                                        is_visible = await element.is_visible()
+                                        if is_visible:
+                                            print(f"  ✓ Tombol ditemukan berdasarkan teks: Watch Now")
+                                            return element
+                                except:
+                                    continue
+                        except:
+                            pass
+                        
+                        return None
+
                     # Cari tombol "Watch Now" dan ambil URL watch
-                    watch_button = await detail_page.query_selector('a.v-btn[href*="/ep-"]')
+                    print("Mencari tombol Watch Now...")
+                    watch_button = await find_watch_button(detail_page)
+
                     watch_url = None
                     if watch_button:
-                        watch_url_path = await watch_button.get_attribute("href")
-                        watch_url = urljoin(base_url, watch_url_path)
-                        print(f"URL Watch ditemukan: {watch_url}")
+                        try:
+                            # Coba dapatkan href dari elemen
+                            watch_url_path = await watch_button.get_attribute("href")
+                            if watch_url_path:
+                                watch_url = urljoin(base_url, watch_url_path)
+                                print(f"✓ URL Watch ditemukan: {watch_url}")
+                            else:
+                                # Jika tidak ada href, mungkin ini button bukan link
+                                print("⚠️ Elemen tidak memiliki href, cari link episode di sekitar")
+                                
+                                # Cari link episode di parent atau sibling
+                                parent = await watch_button.query_selector('xpath=..')
+                                if parent:
+                                    parent_link = await parent.query_selector('a[href*="/ep-"]')
+                                    if parent_link:
+                                        watch_url_path = await parent_link.get_attribute("href")
+                                        watch_url = urljoin(base_url, watch_url_path)
+                                        print(f"✓ URL Watch ditemukan di parent: {watch_url}")
+                                
+                        except Exception as e:
+                            print(f"❌ Gagal mendapatkan URL: {e}")
+                            watch_url = None
                     else:
-                        print("Tombol Watch Now tidak ditemukan")
-                        await detail_page.close()
-                        continue
+                        print("❌ Tombol Watch Now tidak ditemukan")
+                        
+                        # Coba cari link episode langsung di halaman
+                        print("Mencari link episode langsung...")
+                        episode_links = await detail_page.query_selector_all('a[href*="/ep-"]')
+                        if episode_links:
+                            for link in episode_links:
+                                href = await link.get_attribute("href")
+                                print(f"  Link episode ditemukan: {href}")
+                            watch_url_path = await episode_links[0].get_attribute("href")
+                            watch_url = urljoin(base_url, watch_url_path)
+                            print(f"✓ Menggunakan link episode pertama: {watch_url}")
+                        else:
+                            print("❌ Tidak ada link episode ditemukan")
+                            await detail_page.close()
+                            continue
 
                     # Buka halaman watch untuk scrape m3u8/hls dan episode
                     watch_page = await context.new_page()
@@ -410,10 +528,10 @@ async def scrape_kickass_anime():
                         }
 
                     # Buka halaman watch
-                    await watch_page.goto(watch_url, timeout=90000)
+                    await watch_page.goto(watch_url, timeout=90000, wait_until="domcontentloaded")
                     
                     # Tunggu beberapa saat untuk memastikan halaman dimuat
-                    await watch_page.wait_for_timeout(3000)
+                    await watch_page.wait_for_timeout(5000)
                     
                     # Scrape m3u8 player untuk episode saat ini dengan semua sub/dub
                     current_m3u8_info = await get_all_subdub_m3u8(watch_page, "Current")
@@ -511,6 +629,7 @@ async def scrape_kickass_anime():
                                 
                     except Exception as e:
                         print(f"Gagal scrape daftar episode: {e}")
+                        total_episodes = 0
 
                     # Dapatkan semua pilihan sub/dub yang tersedia
                     available_subdub = await get_available_subdub_from_dropdown(watch_page)
