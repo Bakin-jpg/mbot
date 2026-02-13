@@ -86,7 +86,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 250.40592478,
+        "last_updated": 174.662059227,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -198,7 +198,7 @@
         ],
         "total_episode": 14,
         "scraping_strategy": "cicil",
-        "last_updated": 386.766336281,
+        "last_updated": 310.890961356,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -284,7 +284,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 477.513914145,
+        "last_updated": 401.683528187,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -378,7 +378,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 579.592740062,
+        "last_updated": 504.462945421,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -495,7 +495,7 @@
         ],
         "total_episode": 18,
         "scraping_strategy": "cicil",
-        "last_updated": 715.889114104,
+        "last_updated": 641.06131959,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -580,7 +580,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 806.73008648,
+        "last_updated": 731.788603274,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -672,7 +672,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 908.861737099,
+        "last_updated": 833.881632857,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -766,7 +766,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 1011.126303393,
+        "last_updated": 935.877975192,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -847,7 +847,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1101.954477765,
+        "last_updated": 1026.678304068,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -933,7 +933,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1192.717852185,
+        "last_updated": 1117.491363902,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1016,7 +1016,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1283.480993385,
+        "last_updated": 1208.304619971,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1102,7 +1102,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1374.17555542,
+        "last_updated": 1299.097249784,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1189,7 +1189,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1464.987756395,
+        "last_updated": 1389.927623835,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1250,17 +1250,35 @@
                 "episode_number": "EP 04",
                 "episode_url": "https://kickass-anime.ru/",
                 "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Default",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "Default": "M3U8 tidak ditemukan"
-                }
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1640.077060929,
-        "available_subdub": []
+        "last_updated": 1680.010094694,
+        "available_subdub": [
+            "Japanese (SUB)",
+            "Español (España)",
+            "English (DUB)"
+        ]
     },
     {
         "judul": "Reborn as a Cat",
@@ -1373,7 +1391,7 @@
         ],
         "total_episode": 16,
         "scraping_strategy": "cicil",
-        "last_updated": 1650.799641047,
+        "last_updated": 1816.18513611,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -1464,7 +1482,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 1753.634909602,
+        "last_updated": 1918.17138131,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1547,7 +1565,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1845.151134796,
+        "last_updated": 2008.868544834,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1624,7 +1642,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 1925.069288952,
+        "last_updated": 2088.246722754,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1715,7 +1733,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 2027.75806674,
+        "last_updated": 2191.161034827,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1743,84 +1761,63 @@
         "episode_saat_ini": {
             "judul_episode": "Shiboyugi: Playing Death Games to Put Food on the Table",
             "nomor_episode": "SERVER:",
-            "m3u8_url": "https://hls.krussdomi.com/manifest/69836993ab00ea32676c176e/69836994a520c0e68888e71a/playlist.m3u8",
-            "subdub_used": "Español (España)",
-            "all_subdub_m3u8": {
-                "Español (España)": "https://hls.krussdomi.com/manifest/69836993ab00ea32676c176e/69836994a520c0e68888e71a/playlist.m3u8"
-            }
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
         },
         "semua_episode": [
             {
                 "episode_number": "EP 01",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/69836993ab00ea32676c176e/69836994a520c0e68888e71a/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/69836993ab00ea32676c176e/69836994a520c0e68888e71a/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/69836993ab00ea32676c176e/69836994a520c0e68888e71a/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 02",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/698369ddab00ea32676c2762/698369e3a520c0e68888e752/playlist.m3u8",
+                "m3u8_url": "M3U8 tidak ditemukan",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/698369ddab00ea32676c2762/698369e3a520c0e68888e752/playlist.m3u8",
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/698369ddab00ea32676c2762/698369e3a520c0e68888e754/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/698369ddab00ea32676c2762/698369e3a520c0e68888e754/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 03",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/698369c2ab00ea32676c21c2/698369c5a520c0e68888e736/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/698369c2ab00ea32676c21c2/698369c5a520c0e68888e736/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/698369c2ab00ea32676c21c2/698369c5a520c0e68888e736/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 04",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/698369deab00ea32676c27a9/698369e6a520c0e68888e76f/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/698369deab00ea32676c27a9/698369e6a520c0e68888e76f/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/698369deab00ea32676c27a9/698369e6a520c0e68888e76f/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 05",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/69836c54ab00ea32676ca851/69836c57a520c0e68888eb81/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/69836c54ab00ea32676ca851/69836c57a520c0e68888eb81/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/69836c54ab00ea32676ca851/69836c57a520c0e68888eb81/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 06",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/698c975eab00ea32678e07dc/698c9760a520c0e68889964d/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/698c975eab00ea32678e07dc/698c9760a520c0e68889964d/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/698c975eab00ea32678e07dc/698c9760a520c0e68889964d/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 2318.808535644,
+        "last_updated": 2481.074951631,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -1906,7 +1903,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 2410.916924055,
+        "last_updated": 2571.826683812,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1990,7 +1987,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 2501.955517444,
+        "last_updated": 2662.524544501,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2073,7 +2070,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 2593.193869262,
+        "last_updated": 2753.071637283,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2158,7 +2155,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 2684.247751068,
+        "last_updated": 2843.717524386,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2186,83 +2183,63 @@
         "episode_saat_ini": {
             "judul_episode": "The Darwin Incident",
             "nomor_episode": "SERVER:",
-            "m3u8_url": "https://hls.krussdomi.com/manifest/695d80f3ab00ea3267fe6628/695d80f6a520c0e688864db6/playlist.m3u8",
-            "subdub_used": "Español (España)",
-            "all_subdub_m3u8": {
-                "Español (España)": "https://hls.krussdomi.com/manifest/695d80f3ab00ea3267fe6628/695d80f6a520c0e688864db6/playlist.m3u8"
-            }
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
         },
         "semua_episode": [
             {
                 "episode_number": "EP 01",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/695d80f3ab00ea3267fe6628/695d80f6a520c0e688864db6/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/695d80f3ab00ea3267fe6628/695d80f6a520c0e688864db6/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/695d80f3ab00ea3267fe6628/695d80f6a520c0e688864db6/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 02",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/69666da7ab00ea3267704aac/69666da9a520c0e6888718f0/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/69666da7ab00ea3267704aac/69666da9a520c0e6888718f0/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/69666da7ab00ea3267704aac/69666da9a520c0e6888718f0/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 03",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/696fbd53ab00ea3267ca88e7/696fbd56a520c0e68887a42c/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/696fbd53ab00ea3267ca88e7/696fbd56a520c0e68887a42c/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/696fbd53ab00ea3267ca88e7/696fbd56a520c0e68887a42c/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 04",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/6978ddacab00ea32670b62ee/6978ddafa520c0e6888823a3/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/6978ddacab00ea32670b62ee/6978ddafa520c0e6888823a3/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/6978ddacab00ea32670b62ee/6978ddafa520c0e6888823a3/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 05",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/6982179aab00ea326746efa8/6982179ca520c0e68888d982/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/6982179aab00ea326746efa8/6982179ca520c0e68888d982/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/6982179aab00ea326746efa8/6982179ca520c0e68888d982/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 06",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/698b50efab00ea32676d2631/698b50f2a520c0e688898af2/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/698b50efab00ea32676d2631/698b50f2a520c0e688898af2/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/698b50efab00ea32676d2631/698b50f2a520c0e688898af4/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 2975.737900249,
+        "last_updated": 3133.654193348,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -2348,7 +2325,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 3067.152279737,
+        "last_updated": 3224.237141667,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2434,7 +2411,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 3158.74398864,
+        "last_updated": 3314.948801564,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2525,7 +2502,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 3261.210972876,
+        "last_updated": 3416.809990625,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2611,7 +2588,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 3352.402325624,
+        "last_updated": 3507.492086836,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2728,7 +2705,7 @@
         ],
         "total_episode": 69,
         "scraping_strategy": "cicil",
-        "last_updated": 3489.295060364,
+        "last_updated": 3644.03613741,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -2806,7 +2783,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 3568.962124467,
+        "last_updated": 3724.248193265,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2890,7 +2867,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 3660.210252558,
+        "last_updated": 3814.963934985,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2967,7 +2944,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 3740.8645706,
+        "last_updated": 3894.242945983,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3022,22 +2999,18 @@
             {
                 "episode_number": "EP 03",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/696e410cab00ea32679d3740/696e4110a520c0e688879315/playlist.m3u8",
+                "m3u8_url": "M3U8 tidak ditemukan",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/696e410cab00ea32679d3740/696e4110a520c0e688879315/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 04",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/6977b338ab00ea3267e8064a/6977b33ca520c0e68888153d/playlist.m3u8",
+                "m3u8_url": "M3U8 tidak ditemukan",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/6977b338ab00ea3267e8064a/6977b33ca520c0e68888153d/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 05",
@@ -3058,7 +3031,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 3831.966576118,
+        "last_updated": 3984.906631092,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3087,83 +3060,63 @@
         "episode_saat_ini": {
             "judul_episode": "My Hero Academia: Vigilantes Season 2",
             "nomor_episode": "SERVER:",
-            "m3u8_url": "https://hls.krussdomi.com/manifest/695c13d5ab00ea3267d00629/695c13d9a520c0e6888642d9/playlist.m3u8",
-            "subdub_used": "Español (España)",
-            "all_subdub_m3u8": {
-                "Español (España)": "https://hls.krussdomi.com/manifest/695c13d5ab00ea3267d00629/695c13d9a520c0e6888642d9/playlist.m3u8"
-            }
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
         },
         "semua_episode": [
             {
                 "episode_number": "EP 01",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/695c13d5ab00ea3267d00629/695c13d9a520c0e6888642d9/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/695c13d5ab00ea3267d00629/695c13d9a520c0e6888642d9/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/695c13d5ab00ea3267d00629/695c13d9a520c0e6888642d9/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 02",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/696504d9ab00ea326736af0f/696504dda520c0e68886fbac/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/696504d9ab00ea326736af0f/696504dda520c0e68886fbac/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/696504d9ab00ea326736af0f/696504dda520c0e68886fbac/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 03",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/696e416dab00ea32679d4353/696e4171a520c0e68887935c/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/696e416dab00ea32679d4353/696e4171a520c0e68887935c/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/696e416dab00ea32679d4353/696e4171a520c0e68887935c/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 04",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/6980b203ab00ea32671fe85a/6980b207a520c0e68888c7da/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/6980b203ab00ea32671fe85a/6980b207a520c0e68888c7da/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/6980b203ab00ea32671fe85a/6980b207a520c0e68888c7da/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 05",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/6980b28aab00ea32671ff433/6980b28ea520c0e68888c85e/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/6980b28aab00ea32671ff433/6980b28ea520c0e68888c85e/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/6980b28aab00ea32671ff433/6980b28ea520c0e68888c85e/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 06",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/6989f113ab00ea3267499a76/6989f118a520c0e688897a75/playlist.m3u8",
-                "subdub_used": "English (DUB)",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/6989f113ab00ea3267499a76/6989f118a520c0e688897a75/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/6989f113ab00ea3267499a76/6989f118a520c0e688897a75/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 4122.732136093,
+        "last_updated": 4274.798719783,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -3247,7 +3200,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 4213.91877302,
+        "last_updated": 4365.408242483,
         "available_subdub": [
             "Japanese (SUB)"
         ]
