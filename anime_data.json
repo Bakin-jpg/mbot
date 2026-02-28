@@ -1,5 +1,110 @@
 [
     {
+        "judul": "Fire Force Season 3 Part 2",
+        "sinopsis": "Second part of Enen no Shouboutai: San no Shou.",
+        "genre": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi",
+            "Shounen",
+            "Super Power"
+        ],
+        "metadata": [
+            "TV",
+            "PG-13",
+            "Airing",
+            "2026",
+            "SUB",
+            "DUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/fire-force-season-3-part-2-ee99-hq.webp",
+        "url_detail": "https://kickass-anime.ru/fire-force-season-3-part-2-d415",
+        "url_watch": "https://kickass-anime.ru/fire-force-season-3-part-2-d415/ep-1-fedb43",
+        "episode_saat_ini": {
+            "judul_episode": "Fire Force Season 3 Part 2",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 07",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 08",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 8,
+        "scraping_strategy": "cicil",
+        "last_updated": 695.410577817,
+        "available_subdub": [
+            "Japanese (SUB)",
+            "Español (España)",
+            "English (DUB)"
+        ]
+    },
+    {
         "judul": "Beyblade X",
         "sinopsis": "Kazami Bird, aiming to become a professional, meets former champion Kurosu Ex also known as 'Kamen X' and forms a team so that they can aim for the \"top\" of the X Tower. But what awaits them is a spectacular battle that no one has ever seen before. The yet unseen 'X'. The super accelerated (Xtreme) beyblade runs through a new era!",
         "genre": [
@@ -111,7 +216,7 @@
         ],
         "total_episode": 100,
         "scraping_strategy": "cicil",
-        "last_updated": 209.119397067,
+        "last_updated": 836.160059092,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -212,7 +317,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 324.628103917,
+        "last_updated": 952.935691379,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -297,7 +402,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 417.257781832,
+        "last_updated": 1045.739632314,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -397,7 +502,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 532.931926134,
+        "last_updated": 1161.867385662,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -509,7 +614,7 @@
         ],
         "total_episode": 16,
         "scraping_strategy": "cicil",
-        "last_updated": 671.449523806,
+        "last_updated": 1301.572281104,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -606,7 +711,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 787.026524699,
+        "last_updated": 1417.998821411,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -716,7 +821,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 913.902904287,
+        "last_updated": 1546.150742319,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -818,7 +923,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 1029.292807897,
+        "last_updated": 1662.064060767,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -919,7 +1024,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 1144.680279995,
+        "last_updated": 1778.273570883,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1021,7 +1126,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 1260.232068911,
+        "last_updated": 1893.955281937,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1123,7 +1228,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 1375.809127022,
+        "last_updated": 2012.42559517,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1222,7 +1327,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 1491.011750843,
+        "last_updated": 2128.189095115,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1324,7 +1429,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 1606.425309081,
+        "last_updated": 2244.465902605,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1424,7 +1529,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 1980.542815684,
+        "last_updated": 2620.854532125,
         "available_subdub": [
             "Japanese (SUB)",
             "Español (España)",
@@ -1534,7 +1639,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 2108.721122415,
+        "last_updated": 2748.948508995,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1652,7 +1757,7 @@
         ],
         "total_episode": 20,
         "scraping_strategy": "cicil",
-        "last_updated": 2247.565735404,
+        "last_updated": 2889.752710468,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1768,7 +1873,7 @@
         ],
         "total_episode": 18,
         "scraping_strategy": "cicil",
-        "last_updated": 2387.509108536,
+        "last_updated": 3029.168673815,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -1871,7 +1976,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 2503.311232343,
+        "last_updated": 3145.705250348,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1988,7 +2093,7 @@
         ],
         "total_episode": 20,
         "scraping_strategy": "cicil",
-        "last_updated": 2642.047998305,
+        "last_updated": 3285.086490775,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -2095,7 +2200,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 2769.059420742,
+        "last_updated": 3412.581888313,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2202,7 +2307,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 2895.888105598,
+        "last_updated": 3540.666509266,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2295,7 +2400,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 2999.907293646,
+        "last_updated": 3645.24710285,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2395,7 +2500,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 3374.081232192,
+        "last_updated": 4023.221871345,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -2496,7 +2601,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 3489.735181606,
+        "last_updated": 4145.388291654,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2603,7 +2708,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 3616.61254779,
+        "last_updated": 4279.70781282,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2703,7 +2808,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 3732.89908326,
+        "last_updated": 4400.275681083,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2803,7 +2908,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 3851.501924646,
+        "last_updated": 4519.603350847,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2902,7 +3007,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 3969.618659528,
+        "last_updated": 4642.377690856,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3002,7 +3107,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 4350.938740332,
+        "last_updated": 5033.401654673,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -3105,7 +3210,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 4468.967986185,
+        "last_updated": 5155.251791659,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3205,7 +3310,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 4587.19549545,
+        "last_updated": 5275.663499881,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3307,7 +3412,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 4705.41002017,
+        "last_updated": 5395.501169698,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3409,7 +3514,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 4823.592399758,
+        "last_updated": 5515.516607115,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3432,7 +3537,7 @@
             "A-Z LIST",
             "Copyright © KickAssAnime All Rights Reserved."
         ],
-        "url_poster": "https://kaa.lt/image/poster/tales-of-herding-gods-9319-hq.webp",
+        "url_poster": "Tidak tersedia",
         "url_detail": "https://kickass-anime.ru/tales-of-herding-gods-52c7",
         "url_watch": "https://kickass-anime.ru/tales-of-herding-gods-52c7/ep-1-b36376",
         "episode_saat_ini": {
@@ -3526,7 +3631,7 @@
         ],
         "total_episode": 71,
         "scraping_strategy": "cicil",
-        "last_updated": 4966.627764646,
+        "last_updated": 5668.072534795,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -3620,7 +3725,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 5074.540947693,
+        "last_updated": 5778.149577131,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -7151,103 +7256,6 @@
         "last_updated": 4909.170728659,
         "available_subdub": [
             "Japanese (SUB)"
-        ]
-    },
-    {
-        "judul": "Fire Force Season 3 Part 2",
-        "sinopsis": "Second part of Enen no Shouboutai: San no Shou.",
-        "genre": [
-            "Action",
-            "Fantasy",
-            "Sci-Fi",
-            "Shounen",
-            "Super Power"
-        ],
-        "metadata": [
-            "TV",
-            "PG-13",
-            "Airing",
-            "2026",
-            "SUB",
-            "DUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/fire-force-season-3-part-2-ee99-hq.webp",
-        "url_detail": "https://kickass-anime.ru/fire-force-season-3-part-2-d415",
-        "url_watch": "https://kickass-anime.ru/fire-force-season-3-part-2-d415/ep-1-fedb43",
-        "episode_saat_ini": {
-            "judul_episode": "Fire Force Season 3 Part 2",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "M3U8 tidak ditemukan",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {}
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 02",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 03",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 04",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 05",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 06",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 07",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            }
-        ],
-        "total_episode": 7,
-        "scraping_strategy": "cicil",
-        "last_updated": 5247.432423035,
-        "available_subdub": [
-            "Japanese (SUB)",
-            "Español (España)",
-            "English (DUB)"
         ]
     },
     {
