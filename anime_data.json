@@ -1,5 +1,184 @@
 [
     {
+        "judul": "Summer Pockets Movie",
+        "sinopsis": "Theatrical compilation of Summer Pockets.",
+        "genre": [
+            "Romance"
+        ],
+        "metadata": [
+            "MOVIE",
+            "PG-13",
+            "Finished",
+            "2025",
+            "86 min",
+            "SUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/summer-pockets-2-758b-hq.webp",
+        "url_detail": "https://kickass-anime.ru/summer-pockets-2-662a",
+        "url_watch": "https://kickass-anime.ru/summer-pockets-2-662a/ep-1-2ed14a",
+        "episode_saat_ini": {
+            "judul_episode": "Summer Pockets Movie",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 4,
+        "scraping_strategy": "cicil",
+        "last_updated": 205.441459866,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
+    },
+    {
+        "judul": "The Gate of Mystical Realm",
+        "sinopsis": "In a world where warriors are respected, Shi Mu's fate seems destined to be different. As the adopted son of an aristocratic family, he is forced to embark on the road of a warrior to find the truth and redeem himself. From the four halls of Fengcheng to the struggle between sects, interests are entangled, and powerful enemies lurk. Every challenge makes Shi Mu more determined. In the end, Shi Mu realizes the power of his bloodline, which not only changes his own destiny, but also affects the future of many people.",
+        "genre": [],
+        "metadata": [
+            "ONA",
+            "PG-13",
+            "Airing",
+            "2025",
+            "15 min",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/xuan-jie-zhi-men-e36a-hq.webp",
+        "url_detail": "https://kickass-anime.ru/xuan-jie-zhi-men-f30a",
+        "url_watch": "https://kickass-anime.ru/xuan-jie-zhi-men-f30a/ep-1-9c8802",
+        "episode_saat_ini": {
+            "judul_episode": "The Gate of Mystical Realm",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Chinese (DUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 07",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 08",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 09",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 10",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 18,
+        "scraping_strategy": "cicil",
+        "last_updated": 344.412501376,
+        "available_subdub": [
+            "Chinese (DUB)"
+        ]
+    },
+    {
         "judul": "Champignon Witch",
         "sinopsis": "Deep within the Black Forest teeming with poisonous mushrooms, a witch named Luna lives alone. With skin that is poisonous to the touch and a breath that will kill if close enough, she is forced to stay secluded from nearby civilization. Even with these conditions, Luna still visits a nearby city to deliver medicine and buy new books to read. Despite Luna having never done harm to any of the city’s residents, many are scared to associate with her, as she is a black witch in a kingdom ruled by white witches. Only able to watch from a distance while people receive her medicine and freely converse with one another, Luna is drawn toward their lives, even if it sometimes means putting herself in danger.",
         "genre": [
@@ -112,7 +291,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 379.821679054,
+        "last_updated": 482.95641211,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -230,7 +409,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 518.058273253,
+        "last_updated": 621.731588702,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -347,7 +526,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 656.149843225,
+        "last_updated": 760.265742022,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -465,7 +644,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 793.818113433,
+        "last_updated": 898.728343591,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -578,7 +757,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 931.589618292,
+        "last_updated": 1037.008535536,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -694,7 +873,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 1385.978164957,
+        "last_updated": 1492.228502739,
         "available_subdub": [
             "Japanese (SUB)",
             "Español (España)",
@@ -812,7 +991,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 1524.024290275,
+        "last_updated": 1630.81791057,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -930,7 +1109,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 1661.576540627,
+        "last_updated": 1769.16067845,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1045,7 +1224,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 1798.975834736,
+        "last_updated": 1907.647452131,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1163,7 +1342,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 1936.618753103,
+        "last_updated": 2046.078826947,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1265,7 +1444,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 5303.958231699,
+        "last_updated": 5427.007716711,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -1381,7 +1560,7 @@
         ],
         "total_episode": 20,
         "scraping_strategy": "cicil",
-        "last_updated": 2189.557879471,
+        "last_updated": 2299.88178188,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -1498,7 +1677,7 @@
         ],
         "total_episode": 22,
         "scraping_strategy": "cicil",
-        "last_updated": 2327.66633178,
+        "last_updated": 2438.852534476,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -1614,7 +1793,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 5767.652199671,
+        "last_updated": 5889.35484441,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -1735,7 +1914,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 2919.945534952,
+        "last_updated": 3032.798975894,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1850,7 +2029,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 3057.711965298,
+        "last_updated": 3171.329868991,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1965,7 +2144,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 3196.40502985,
+        "last_updated": 3310.018710643,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2074,7 +2253,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 3322.71688225,
+        "last_updated": 3436.909048409,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2189,7 +2368,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 3460.398861671,
+        "last_updated": 3575.343561664,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2305,7 +2484,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 3598.282356058,
+        "last_updated": 3713.883365431,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2421,7 +2600,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 3736.169389626,
+        "last_updated": 3854.439580977,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2536,7 +2715,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 3873.797151365,
+        "last_updated": 3996.36746178,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2652,7 +2831,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 4338.565762364,
+        "last_updated": 4459.227442895,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -2769,7 +2948,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 4479.431225595,
+        "last_updated": 4601.246745192,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2886,7 +3065,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 4620.232026129,
+        "last_updated": 4742.653053902,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3004,7 +3183,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 4761.293757954,
+        "last_updated": 4884.44933497,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3120,7 +3299,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 4902.640175801,
+        "last_updated": 5025.302718603,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3238,7 +3417,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 5043.623069816,
+        "last_updated": 5166.391466308,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3355,7 +3534,7 @@
         ],
         "total_episode": 73,
         "scraping_strategy": "cicil",
-        "last_updated": 5186.482609338,
+        "last_updated": 5308.91686367,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -3457,7 +3636,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 5303.958231699,
+        "last_updated": 5427.007716711,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -3573,7 +3752,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 5767.652199671,
+        "last_updated": 5889.35484441,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -3684,7 +3863,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 5897.027253132,
+        "last_updated": 6019.226610021,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3736,7 +3915,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 5944.908822555,
+        "last_updated": 6068.486640115,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3852,7 +4031,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 6086.026334837,
+        "last_updated": 6209.577374301,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -8314,118 +8493,6 @@
         "total_episode": 9,
         "scraping_strategy": "cicil",
         "last_updated": 7079.559201946,
-        "available_subdub": [
-            "Chinese (DUB)"
-        ]
-    },
-    {
-        "judul": "The Gate of Mystical Realm",
-        "sinopsis": "In a world where warriors are respected, Shi Mu's fate seems destined to be different. As the adopted son of an aristocratic family, he is forced to embark on the road of a warrior to find the truth and redeem himself. From the four halls of Fengcheng to the struggle between sects, interests are entangled, and powerful enemies lurk. Every challenge makes Shi Mu more determined. In the end, Shi Mu realizes the power of his bloodline, which not only changes his own destiny, but also affects the future of many people.",
-        "genre": [],
-        "metadata": [
-            "ONA",
-            "PG-13",
-            "Airing",
-            "2025",
-            "15 min",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/xuan-jie-zhi-men-e36a-hq.webp",
-        "url_detail": "https://kickass-anime.ru/xuan-jie-zhi-men-f30a",
-        "url_watch": "https://kickass-anime.ru/xuan-jie-zhi-men-f30a/ep-1-9c8802",
-        "episode_saat_ini": {
-            "judul_episode": "The Gate of Mystical Realm",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "M3U8 tidak ditemukan",
-            "subdub_used": "Chinese (DUB)",
-            "all_subdub_m3u8": {}
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Chinese (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 02",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Chinese (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 03",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Chinese (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 04",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Chinese (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 05",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Chinese (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 06",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Chinese (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 07",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Chinese (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 08",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Chinese (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 09",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Chinese (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 10",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Chinese (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            }
-        ],
-        "total_episode": 17,
-        "scraping_strategy": "cicil",
-        "last_updated": 6465.284948107,
         "available_subdub": [
             "Chinese (DUB)"
         ]
