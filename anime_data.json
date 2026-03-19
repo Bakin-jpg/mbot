@@ -1,5 +1,94 @@
 [
     {
+        "judul": "Medalist Season 2",
+        "sinopsis": "Second season of Medalist.",
+        "genre": [
+            "Drama",
+            "Performing Arts",
+            "Seinen",
+            "Sports"
+        ],
+        "metadata": [
+            "TV",
+            "PG-13",
+            "Airing",
+            "2026",
+            "23 min",
+            "SUB",
+            "DUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/medalist-season-2-53a5-hq.webp",
+        "url_detail": "https://kickass-anime.ru/medalist-season-2-bf28",
+        "url_watch": "https://kickass-anime.ru/medalist-season-2-bf28/ep-1-74e872",
+        "episode_saat_ini": {
+            "judul_episode": "Medalist Season 2",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "English (DUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "English (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "English (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "English (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "English (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "English (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "English (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 6,
+        "scraping_strategy": "cicil",
+        "last_updated": 439.526979029,
+        "available_subdub": [
+            "English (DUB)",
+            "Español (España)",
+            "Japanese (SUB)"
+        ]
+    },
+    {
         "judul": "Dragon Raja II: The Mourner's Eyes",
         "sinopsis": "Second season of Long Zu (Dragon Raja).",
         "genre": [
@@ -111,7 +200,7 @@
         ],
         "total_episode": 23,
         "scraping_strategy": "cicil",
-        "last_updated": 268.21525453,
+        "last_updated": 579.668858159,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -230,7 +319,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 407.222251961,
+        "last_updated": 718.579541874,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -345,7 +434,7 @@
         ],
         "total_episode": 12,
         "scraping_strategy": "cicil",
-        "last_updated": 546.267891905,
+        "last_updated": 857.69995385,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -461,7 +550,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 685.013646809,
+        "last_updated": 996.72556108,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -576,7 +665,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 823.53853965,
+        "last_updated": 1135.951399626,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -648,51 +737,11 @@
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
                 "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 06",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 07",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 08",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 09",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 10",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 1279.326128044,
+        "last_updated": 1392.366420679,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -811,7 +860,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 1418.342871199,
+        "last_updated": 1531.952784491,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -926,7 +975,7 @@
         ],
         "total_episode": 12,
         "scraping_strategy": "cicil",
-        "last_updated": 1557.123645928,
+        "last_updated": 1671.567499718,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1042,7 +1091,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 1695.874267978,
+        "last_updated": 1810.387376111,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1157,7 +1206,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 1834.891067324,
+        "last_updated": 1951.132207136,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1273,7 +1322,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 2292.076782915,
+        "last_updated": 2408.897699318,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -1392,7 +1441,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 2431.114523172,
+        "last_updated": 2548.851767702,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1507,7 +1556,7 @@
         ],
         "total_episode": 12,
         "scraping_strategy": "cicil",
-        "last_updated": 2569.637059132,
+        "last_updated": 2689.346318873,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1623,7 +1672,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 2708.089670864,
+        "last_updated": 2828.796756535,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1741,7 +1790,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 2846.632845896,
+        "last_updated": 2967.809556708,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1859,7 +1908,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 2985.128721762,
+        "last_updated": 3107.446111784,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1976,7 +2025,7 @@
         ],
         "total_episode": 74,
         "scraping_strategy": "cicil",
-        "last_updated": 3125.160650558,
+        "last_updated": 3247.906810615,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -2082,11 +2131,19 @@
                 "subdub_used": "Chinese (DUB)",
                 "status": "success",
                 "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 10",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
             }
         ],
-        "total_episode": 9,
+        "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 3252.890608076,
+        "last_updated": 3387.294210692,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -2146,7 +2203,7 @@
         ],
         "total_episode": 3,
         "scraping_strategy": "cicil",
-        "last_updated": 3311.21617289,
+        "last_updated": 3445.939919249,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2262,7 +2319,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 3449.860172421,
+        "last_updated": 3585.209671001,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2380,7 +2437,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 3588.285373092,
+        "last_updated": 3724.496156787,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2497,7 +2554,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 3726.912592171,
+        "last_updated": 3869.578650039,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2611,7 +2668,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 3868.373474171,
+        "last_updated": 4018.641885005,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2730,7 +2787,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 4011.889872774,
+        "last_updated": 4168.706318456,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2847,7 +2904,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 4480.519277311,
+        "last_updated": 4651.835143674,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -2966,7 +3023,7 @@
         ],
         "total_episode": 47,
         "scraping_strategy": "cicil",
-        "last_updated": 4624.222881132,
+        "last_updated": 4801.74327017,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -3083,7 +3140,7 @@
         ],
         "total_episode": 100,
         "scraping_strategy": "cicil",
-        "last_updated": 4769.171682927,
+        "last_updated": 4955.327501588,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -3104,7 +3161,7 @@
             "A-Z LIST",
             "Copyright © KickAssAnime All Rights Reserved."
         ],
-        "url_poster": "https://kaa.lt/image/poster/rooster-fighter-1036-hq.webp",
+        "url_poster": "Tidak tersedia",
         "url_detail": "https://kickass-anime.ru/rooster-fighter-2213",
         "url_watch": "https://kickass-anime.ru/rooster-fighter-2213/ep-1-1fe3d5",
         "episode_saat_ini": {
@@ -3126,7 +3183,7 @@
         ],
         "total_episode": 1,
         "scraping_strategy": "cicil",
-        "last_updated": 4864.983862626,
+        "last_updated": 5056.446836676,
         "available_subdub": [
             "Japanese (SUB)",
             "Español (España)",
@@ -3245,7 +3302,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 5008.89771663,
+        "last_updated": 5203.293426199,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3360,7 +3417,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 5348.751269632,
+        "last_updated": 5555.185291237,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)"
@@ -3481,7 +3538,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 5492.080912521,
+        "last_updated": 5704.280163599,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3586,7 +3643,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 5622.948918753,
+        "last_updated": 5839.714575623,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3701,7 +3758,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 5765.617065439,
+        "last_updated": 5986.742676112,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -3823,7 +3880,7 @@
         ],
         "total_episode": 11,
         "scraping_strategy": "cicil",
-        "last_updated": 6232.629294194,
+        "last_updated": 6469.278176803,
         "available_subdub": [
             "Japanese (SUB)",
             "Español (España)",
@@ -3942,7 +3999,7 @@
         ],
         "total_episode": 10,
         "scraping_strategy": "cicil",
-        "last_updated": 6375.419394896,
+        "last_updated": 6617.177770052,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -5202,71 +5259,6 @@
         "scraping_strategy": "cicil",
         "last_updated": 5583.578205518,
         "available_subdub": [
-            "Japanese (SUB)"
-        ]
-    },
-    {
-        "judul": "Medalist Season 2",
-        "sinopsis": "Second season of Medalist.",
-        "genre": [
-            "Drama",
-            "Performing Arts",
-            "Seinen",
-            "Sports"
-        ],
-        "metadata": [
-            "TV",
-            "PG-13",
-            "Airing",
-            "2026",
-            "23 min",
-            "SUB",
-            "DUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/medalist-season-2-53a5-hq.webp",
-        "url_detail": "https://kickass-anime.ru/medalist-season-2-bf28",
-        "url_watch": "https://kickass-anime.ru/medalist-season-2-bf28/ep-1-74e872",
-        "episode_saat_ini": {
-            "judul_episode": "Medalist Season 2",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "M3U8 tidak ditemukan",
-            "subdub_used": "English (DUB)",
-            "all_subdub_m3u8": {}
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "English (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 02",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "English (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 03",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "English (DUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            }
-        ],
-        "total_episode": 3,
-        "scraping_strategy": "cicil",
-        "last_updated": 5760.278437271,
-        "available_subdub": [
-            "English (DUB)",
-            "Español (España)",
             "Japanese (SUB)"
         ]
     },
