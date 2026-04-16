@@ -1,5 +1,63 @@
 [
     {
+        "judul": "Killed Again, Mr. Detective.",
+        "sinopsis": "Sakuya Otsuki is the son of a legendary detective, working to follow in his father's footsteps with his assistant, Lilithea. However, something's different about this high-school sleuth. Wherever he goes, he always manages to get himself entangled in his cases—as a murder victim! When Sakuya is tasked to infiltrate a luxury cruise ship, he finds himself killed once again. But every time he reopens his eyes, Lilithea is there by his side, ready to help him get to the bottom of the mystery...",
+        "genre": [
+            "Mystery",
+            "Romance"
+        ],
+        "metadata": [
+            "TV",
+            "Airing",
+            "2026",
+            "SUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/killed-again-mr-detective-4bd4-hq.webp",
+        "url_detail": "https://kickass-anime.ru/killed-again-mr-detective-6a2b",
+        "url_watch": "https://kickass-anime.ru/killed-again-mr-detective-6a2b/ep-1-bf6998",
+        "episode_saat_ini": {
+            "judul_episode": "Killed Again, Mr. Detective.",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 3,
+        "scraping_strategy": "cicil",
+        "last_updated": 242.590320131,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
+    },
+    {
         "judul": "Dr. Stone: Science Future Part 3",
         "sinopsis": "Third part of Dr. Stone: Science Future.",
         "genre": [
@@ -24,43 +82,332 @@
         "episode_saat_ini": {
             "judul_episode": "Dr. Stone: Science Future Part 3",
             "nomor_episode": "SERVER:",
-            "m3u8_url": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf058/playlist.m3u8",
+            "m3u8_url": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05a/playlist.m3u8",
             "subdub_used": "Español (España)",
             "all_subdub_m3u8": {
-                "Español (España)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf058/playlist.m3u8",
-                "English (DUB)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf058/playlist.m3u8"
+                "Español (España)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05a/playlist.m3u8",
+                "English (DUB)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05a/playlist.m3u8"
             }
         },
         "semua_episode": [
             {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05a/playlist.m3u8",
+                "subdub_used": "Español (España)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05a/playlist.m3u8",
+                    "English (DUB)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05a/playlist.m3u8"
+                }
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69d7c86aab00ea326714ceef/69d7c86fa520c0e6888c3e9d/playlist.m3u8",
+                "subdub_used": "Español (España)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69d7c86aab00ea326714ceef/69d7c86fa520c0e6888c3e9d/playlist.m3u8",
+                    "English (DUB)": "https://hls.krussdomi.com/manifest/69d7c86aab00ea326714ceef/69d7c86fa520c0e6888c3e9d/playlist.m3u8"
+                }
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69e11c77ab00ea3267a1d48f/69e11c7ba520c0e6888cbb79/playlist.m3u8",
+                "subdub_used": "Español (España)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69e11c77ab00ea3267a1d48f/69e11c7ba520c0e6888cbb79/playlist.m3u8",
+                    "English (DUB)": "https://hls.krussdomi.com/manifest/69e11c77ab00ea3267a1d48f/69e11c7ba520c0e6888cbb79/playlist.m3u8"
+                }
+            }
+        ],
+        "total_episode": 3,
+        "scraping_strategy": "cicil",
+        "last_updated": 415.329915963,
+        "available_subdub": [
+            "Japanese (SUB)",
+            "Español (España)",
+            "English (DUB)"
+        ]
+    },
+    {
+        "judul": "Haibara's Teenage New Game+",
+        "sinopsis": "We all have embarrassing memories or deep regrets from high school, right? Socially anxious college senior Natsuki Haibara sure does. When he thinks back on that time of his life, all he has are fleeting fantasies of a happy adolescence that could have been. Imagine his bewilderment and surprise, then, when he inexplicably finds himself seven years in the past—one month before his first year of high school! Can Haibara avoid his previous mistakes, make his way to the top of the school social pyramid, and end up with the girl of his dreams? Or will he be forced to relive three years of solitude as the most hated guy in school? He'll need all the help he can get in order to succeed, from a workout regimen to online how-to guides, a childhood friend, and plenty of sheer willpower. Watch as Haibara takes a second shot at his teenage years!",
+        "genre": [
+            "Comedy",
+            "Romance",
+            "School",
+            "Time Travel"
+        ],
+        "metadata": [
+            "TV",
+            "Airing",
+            "2026",
+            "SUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/haibara-kun-no-tsuyokute-seishun-new-game-ed43-hq.webp",
+        "url_detail": "https://kickass-anime.ru/haibara-kun-no-tsuyokute-seishun-new-game-6e8c",
+        "url_watch": "https://kickass-anime.ru/haibara-kun-no-tsuyokute-seishun-new-game-6e8c/ep-1-57e16b",
+        "episode_saat_ini": {
+            "judul_episode": "Haibara's Teenage New Game+",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 3,
         "scraping_strategy": "cicil",
-        "last_updated": 232.572268152,
-        "available_subdub": []
+        "last_updated": 472.82650704,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
+    },
+    {
+        "judul": "A Hundred Scenes of Awajima",
+        "sinopsis": "This omnibus adolescent drama is about a group of young girls who all attend a \"girls-only musical school,\" recounting the formative years they shared, at times shifting between different characters' viewpoints and time. Awajima Musical School Training Camp, dubbed the \"boarding house,\" is where young girls gather from all over Japan to perform on stage. Tabata Wakana aspires to be a musical star; housemaster Takehara Kinue attends to carry on her best friend's wishes; beautiful Okabe Emi is a scholarship student who is always at the center of attention; and Ibuki Katsurako, who became a teacher at the school though originally from a family of actresses. The unique environment of the musical school is simultaneously a respite space for these aspiring girls and also a harsh battleground that pits young students against each other. It is a place where perseverance can lead to blossoming talents, but also to a cruel reality at times. The clear depiction and psychological portrayal allow the subtle inner workings of each character to come through.",
+        "genre": [
+            "Drama",
+            "School"
+        ],
+        "metadata": [
+            "TV",
+            "Airing",
+            "2026",
+            "SUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/awajima-hyakkei-3e56-hq.webp",
+        "url_detail": "https://kickass-anime.ru/awajima-hyakkei-fa4e",
+        "url_watch": "https://kickass-anime.ru/awajima-hyakkei-fa4e/ep-1-d0084f",
+        "episode_saat_ini": {
+            "judul_episode": "A Hundred Scenes of Awajima",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 2,
+        "scraping_strategy": "cicil",
+        "last_updated": 518.951979341,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
+    },
+    {
+        "judul": "Petals of Reincarnation",
+        "sinopsis": "There exists an object known as the \"Branch of Reincarnation\" that can grant people the talents of the past lives, so long as they slit their own throat with it. Touya Senji is a teenage boy struggling with low self-esteem after growing up in the shadow of his gifted older brother. He comes to the decision that academic studies are his last resort in the search for talent, but fails to find satisfaction despite constantly placing in the top 100 for national mock exams. In a twist of fate, Touya encounters one of his classmates, Haito Luo Buffett, a \"Returner\" who has resurrected the talents of her past life using the Branch of Reincarnation, as she fights against a serial killer.",
+        "genre": [
+            "Action",
+            "Mystery",
+            "Reincarnation",
+            "Supernatural"
+        ],
+        "metadata": [
+            "TV",
+            "Airing",
+            "2026",
+            "SUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/reincarnation-no-kaben-20aa-hq.webp",
+        "url_detail": "https://kickass-anime.ru/reincarnation-no-kaben-5b56",
+        "url_watch": "https://kickass-anime.ru/reincarnation-no-kaben-5b56/ep-1-ef8d41",
+        "episode_saat_ini": {
+            "judul_episode": "Petals of Reincarnation",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://bl.krussdomi.com/playlist/69e11865ab00ea3267a10172/master.m3u8",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Japanese (SUB)": "https://bl.krussdomi.com/playlist/69e11865ab00ea3267a10172/master.m3u8"
+                }
+            }
+        ],
+        "total_episode": 3,
+        "scraping_strategy": "cicil",
+        "last_updated": 576.57089124,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
+    },
+    {
+        "judul": "Even a Replica Can Fall in Love",
+        "sinopsis": "On days when Sunao is sick, or not feeling like going to school, she is called to take her place. She was born to this world when Sunao wished to have a substitute. No one knows that she exists, but she tries to do her best for Sunao whenever she is called. One day she talks with Sanada, one of her classmates. They become friends, but soon he notices that she is different from the original Sunao...he was the first one who did. She tells him to talk with her only when she has her hair half-up. Sanada does like she told him, and they enjoy their time together. As they become closer, she realizes that she has special feelings toward Sanada. But she doesn't know what will happen to her...if she, a replica, falls in love.",
+        "genre": [
+            "Drama",
+            "Romance",
+            "School",
+            "Supernatural"
+        ],
+        "metadata": [
+            "TV",
+            "Airing",
+            "2026",
+            "SUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/replica-datte-koi-wo-suru-be08-hq.webp",
+        "url_detail": "https://kickass-anime.ru/replica-datte-koi-wo-suru-60ad",
+        "url_watch": "https://kickass-anime.ru/replica-datte-koi-wo-suru-60ad/ep-1-da457a",
+        "episode_saat_ini": {
+            "judul_episode": "Even a Replica Can Fall in Love",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 2,
+        "scraping_strategy": "cicil",
+        "last_updated": 622.627745752,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
+    },
+    {
+        "judul": "Kujima: Why Sing, When You Can Warble?",
+        "sinopsis": "In the autumn of his first year of middle school, Arata Kouda meets Kujima, a strange creature that sort-of looks like a bird. Since Kujima is hungry, Arata brings it home with him... But because of his older brother who failed his entrance exams, Kujima gets carried away by the situation and ends up freeloading at the Kouda residence. He says it's just until he makes it through winter, and the warmth of spring comes, but...",
+        "genre": [
+            "Comedy",
+            "Shounen",
+            "Supernatural"
+        ],
+        "metadata": [
+            "TV",
+            "Airing",
+            "2026",
+            "24 min",
+            "SUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/kujima-utaeba-ie-hororo-da9e-hq.webp",
+        "url_detail": "https://kickass-anime.ru/kujima-utaeba-ie-hororo-ee01",
+        "url_watch": "https://kickass-anime.ru/kujima-utaeba-ie-hororo-ee01/ep-1-d0d3af",
+        "episode_saat_ini": {
+            "judul_episode": "Kujima: Why Sing, When You Can Warble?",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 2,
+        "scraping_strategy": "cicil",
+        "last_updated": 668.740373775,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
     },
     {
         "judul": "The Warrior Princess and the Barbaric King",
@@ -110,7 +457,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 278.760280943,
+        "last_updated": 714.73570834,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -179,57 +526,57 @@
                 "episode_number": "EP 05",
                 "episode_url": "https://kickass-anime.ru/",
                 "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Default",
+                "subdub_used": "Chinese (DUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "Default": "M3U8 tidak ditemukan"
-                }
-            },
-            {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 8",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 07",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 9",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 08",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 09",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 10",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 25,
         "scraping_strategy": "cicil",
-        "last_updated": 558.66705532,
-        "available_subdub": []
+        "last_updated": 853.53233932,
+        "available_subdub": [
+            "Chinese (DUB)"
+        ]
     },
     {
         "judul": "Aliens Among Immortals",
@@ -270,82 +617,86 @@
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 07",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 8",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 08",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 9",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_m3u8": {}
+                "episode_number": "EP 09",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://bl.krussdomi.com/playlist/69b8d3f6ab00ea326776f7fc/master.m3u8",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Chinese (DUB)": "https://bl.krussdomi.com/playlist/69b8d3f6ab00ea326776f7fc/master.m3u8"
+                }
             },
             {
                 "episode_number": "EP 10",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 18,
         "scraping_strategy": "cicil",
-        "last_updated": 3109.347400331,
-        "available_subdub": []
+        "last_updated": 2783.754276241,
+        "available_subdub": [
+            "Chinese (DUB)"
+        ]
     },
     {
         "judul": "Go For It, Nakamura!",
@@ -415,7 +766,7 @@
         ],
         "total_episode": 4,
         "scraping_strategy": "cicil",
-        "last_updated": 1145.170987932,
+        "last_updated": 1207.911603435,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -477,7 +828,7 @@
         ],
         "total_episode": 3,
         "scraping_strategy": "cicil",
-        "last_updated": 1203.24968316,
+        "last_updated": 1265.478965028,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -530,7 +881,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 1249.776659239,
+        "last_updated": 1311.779784887,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -589,7 +940,7 @@
         ],
         "total_episode": 3,
         "scraping_strategy": "cicil",
-        "last_updated": 1307.895318491,
+        "last_updated": 1369.389289495,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -653,7 +1004,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 1441.146877334,
+        "last_updated": 1501.777559087,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -715,7 +1066,7 @@
         ],
         "total_episode": 3,
         "scraping_strategy": "cicil",
-        "last_updated": 1499.638311997,
+        "last_updated": 1559.242551981,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -812,7 +1163,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 1755.888523355,
+        "last_updated": 1812.536357365,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -844,11 +1195,9 @@
         "episode_saat_ini": {
             "judul_episode": "Rent-a-Girlfriend Season 5",
             "nomor_episode": "SERVER:",
-            "m3u8_url": "https://hls.krussdomi.com/manifest/69d67d88ab00ea3267e0e28c/master.m3u8",
+            "m3u8_url": "M3U8 tidak ditemukan",
             "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {
-                "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69d67d88ab00ea3267e0e28c/master.m3u8"
-            }
+            "all_subdub_m3u8": {}
         },
         "semua_episode": [
             {
@@ -870,7 +1219,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 1802.552738216,
+        "last_updated": 1858.695388066,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -940,25 +1289,25 @@
                 "episode_number": "EP 05",
                 "episode_url": "https://kickass-anime.ru/",
                 "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Default",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "Default": "M3U8 tidak ditemukan"
-                }
+                "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1961.900693073,
-        "available_subdub": []
+        "last_updated": 1950.68367503,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
     },
     {
         "judul": "Walking the Way All Alone",
@@ -1011,7 +1360,7 @@
         ],
         "total_episode": 3,
         "scraping_strategy": "cicil",
-        "last_updated": 2020.34590633,
+        "last_updated": 2008.442471434,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -1062,7 +1411,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 2066.792420658,
+        "last_updated": 2054.653984518,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1117,7 +1466,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 2112.866470058,
+        "last_updated": 2100.731527536,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1232,7 +1581,7 @@
         ],
         "total_episode": 48,
         "scraping_strategy": "cicil",
-        "last_updated": 2252.488132823,
+        "last_updated": 2240.385162066,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1284,7 +1633,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 2298.837078429,
+        "last_updated": 2286.767315494,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1327,17 +1676,15 @@
             {
                 "episode_number": "EP 02",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/69de5922ab00ea3267339342/69de5926a520c0e6888ca34a/playlist.m3u8",
+                "m3u8_url": "M3U8 tidak ditemukan",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69de5922ab00ea3267339342/69de5926a520c0e6888ca34a/playlist.m3u8"
-                }
+                "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 2344.978604091,
+        "last_updated": 2332.905288821,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1380,7 +1727,7 @@
         ],
         "total_episode": 1,
         "scraping_strategy": "cicil",
-        "last_updated": 2380.395818768,
+        "last_updated": 2367.542286132,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1436,7 +1783,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 2426.912849515,
+        "last_updated": 2413.884787545,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1487,7 +1834,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 2473.189571869,
+        "last_updated": 2459.908209344,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1533,17 +1880,17 @@
                 "episode_number": "EP 02",
                 "episode_url": "https://kickass-anime.ru/",
                 "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Default",
+                "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "Default": "M3U8 tidak ditemukan"
-                }
+                "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 2569.805320279,
-        "available_subdub": []
+        "last_updated": 2506.036065009,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
     },
     {
         "judul": "Tales of Herding Gods",
@@ -1642,25 +1989,25 @@
                 "episode_number": "EP 09",
                 "episode_url": "https://kickass-anime.ru/",
                 "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Default",
+                "subdub_used": "Chinese (DUB)",
                 "status": "success",
-                "all_subdub_m3u8": {
-                    "Default": "M3U8 tidak ditemukan"
-                }
+                "all_subdub_m3u8": {}
             },
             {
                 "episode_number": "EP 10",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 78,
         "scraping_strategy": "cicil",
-        "last_updated": 2776.911658518,
-        "available_subdub": []
+        "last_updated": 2645.453989319,
+        "available_subdub": [
+            "Chinese (DUB)"
+        ]
     },
     {
         "judul": "Aliens Among Immortals",
@@ -1701,82 +2048,86 @@
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 2",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 07",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 8",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_number": "EP 08",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             },
             {
-                "episode_number": "EP 9",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_m3u8": {}
+                "episode_number": "EP 09",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://bl.krussdomi.com/playlist/69b8d3f6ab00ea326776f7fc/master.m3u8",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Chinese (DUB)": "https://bl.krussdomi.com/playlist/69b8d3f6ab00ea326776f7fc/master.m3u8"
+                }
             },
             {
                 "episode_number": "EP 10",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Chinese (DUB)",
+                "status": "success",
                 "all_subdub_m3u8": {}
             }
         ],
         "total_episode": 18,
         "scraping_strategy": "cicil",
-        "last_updated": 3109.347400331,
-        "available_subdub": []
+        "last_updated": 2783.754276241,
+        "available_subdub": [
+            "Chinese (DUB)"
+        ]
     },
     {
         "judul": "Batman Ninja vs. Yakuza League",
@@ -1803,26 +2154,31 @@
         "episode_saat_ini": {
             "judul_episode": "Batman Ninja vs. Yakuza League",
             "nomor_episode": "SERVER:",
-            "m3u8_url": "M3U8 tidak ditemukan",
-            "subdub_used": "Default",
+            "m3u8_url": "https://hls.krussdomi.com/manifest/69dd87f9ab00ea32671672e7/69dd8852a520c0e6888c9970/playlist.m3u8",
+            "subdub_used": "Japanese (SUB)",
             "all_subdub_m3u8": {
-                "Default": "M3U8 tidak ditemukan"
+                "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69dd87f9ab00ea32671672e7/69dd8852a520c0e6888c9970/playlist.m3u8"
             }
         },
         "semua_episode": [
             {
-                "episode_number": "EP 1",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_m3u8": {}
+                "episode_number": "Movie",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69dd87f9ab00ea32671672e7/69dd8852a520c0e6888c9970/playlist.m3u8",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69dd87f9ab00ea32671672e7/69dd8852a520c0e6888c9970/playlist.m3u8"
+                }
             }
         ],
         "total_episode": 1,
         "scraping_strategy": "cicil",
-        "last_updated": 3211.738618937,
-        "available_subdub": []
+        "last_updated": 2853.348780836,
+        "available_subdub": [
+            "English (DUB)",
+            "Japanese (SUB)"
+        ]
     },
     {
         "judul": "Medalist Season 2",
@@ -1850,23 +2206,23 @@
         "episode_saat_ini": {
             "judul_episode": "Medalist Season 2",
             "nomor_episode": "SERVER:",
-            "m3u8_url": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c1/playlist.m3u8",
+            "m3u8_url": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c5/playlist.m3u8",
             "subdub_used": "Español (España)",
             "all_subdub_m3u8": {
-                "Español (España)": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c1/playlist.m3u8",
-                "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c1/playlist.m3u8"
+                "Español (España)": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c5/playlist.m3u8",
+                "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c5/playlist.m3u8"
             }
         },
         "semua_episode": [
             {
                 "episode_number": "EP 01",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c1/playlist.m3u8",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c5/playlist.m3u8",
                 "subdub_used": "Español (España)",
                 "status": "success",
                 "all_subdub_m3u8": {
-                    "Español (España)": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c1/playlist.m3u8",
-                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c1/playlist.m3u8"
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c5/playlist.m3u8",
+                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69758a8eab00ea3267980322/69758a90a520c0e68887f3c5/playlist.m3u8"
                 }
             },
             {
@@ -1881,58 +2237,81 @@
                 }
             },
             {
-                "episode_number": "EP 3",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_m3u8": {}
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/6987de35ab00ea326705b403/6987de37a520c0e68889286d/playlist.m3u8",
+                "subdub_used": "Español (España)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Español (España)": "https://hls.krussdomi.com/manifest/6987de35ab00ea326705b403/6987de37a520c0e68889286d/playlist.m3u8",
+                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/6987de35ab00ea326705b403/6987de37a520c0e68889286d/playlist.m3u8"
+                }
             },
             {
-                "episode_number": "EP 4",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_m3u8": {}
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69bb15b0ab00ea3267ae19f3/69bb15b4a520c0e6888b501f/playlist.m3u8",
+                "subdub_used": "Español (España)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69bb15b0ab00ea3267ae19f3/69bb15b4a520c0e6888b501f/playlist.m3u8",
+                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69bb15b0ab00ea3267ae19f3/69bb15b4a520c0e6888b501f/playlist.m3u8"
+                }
             },
             {
-                "episode_number": "EP 5",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_m3u8": {}
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69bb15a9ab00ea3267ae183c/69bb15aaa520c0e6888b4ff4/playlist.m3u8",
+                "subdub_used": "Español (España)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69bb15a9ab00ea3267ae183c/69bb15aaa520c0e6888b4ff4/playlist.m3u8",
+                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69bb15a9ab00ea3267ae183c/69bb15aaa520c0e6888b4ff4/playlist.m3u8"
+                }
             },
             {
-                "episode_number": "EP 6",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_m3u8": {}
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69bb15afab00ea3267ae19d6/69bb15b3a520c0e6888b5008/playlist.m3u8",
+                "subdub_used": "Español (España)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69bb15afab00ea3267ae19d6/69bb15b3a520c0e6888b5008/playlist.m3u8",
+                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69bb15afab00ea3267ae19d6/69bb15b3a520c0e6888b5008/playlist.m3u8"
+                }
             },
             {
-                "episode_number": "EP 7",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_m3u8": {}
+                "episode_number": "EP 07",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69dd86b7ab00ea32671646ad/69dd86baa520c0e6888c9777/playlist.m3u8",
+                "subdub_used": "English (DUB)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "English (DUB)": "https://hls.krussdomi.com/manifest/69dd86b7ab00ea32671646ad/69dd86baa520c0e6888c9777/playlist.m3u8",
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69dd86b7ab00ea32671646ad/master.m3u8",
+                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69dd86b7ab00ea32671646ad/master.m3u8"
+                }
             },
             {
-                "episode_number": "EP 8",
-                "episode_url": null,
-                "m3u8_url": "Gagal diambil",
-                "subdub_used": "None",
-                "status": "error",
-                "all_subdub_m3u8": {}
+                "episode_number": "EP 08",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69dd86b6ab00ea3267164652/69dd86b8a520c0e6888c9763/playlist.m3u8",
+                "subdub_used": "Español (España)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69dd86b6ab00ea3267164652/69dd86b8a520c0e6888c9763/playlist.m3u8",
+                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69dd86b6ab00ea3267164652/69dd86b8a520c0e6888c9763/playlist.m3u8"
+                }
             }
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 3552.46223349,
-        "available_subdub": []
+        "last_updated": 3226.767107254,
+        "available_subdub": [
+            "English (DUB)",
+            "Español (España)",
+            "Japanese (SUB)"
+        ]
     },
     {
         "judul": "Liar Game",
@@ -1983,7 +2362,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 3599.16249879,
+        "last_updated": 3273.002160701,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2075,7 +2454,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 3703.333400921,
+        "last_updated": 3377.229369489,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2128,7 +2507,7 @@
         ],
         "total_episode": 2,
         "scraping_strategy": "cicil",
-        "last_updated": 3749.627750495,
+        "last_updated": 3423.391116756,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -5378,108 +5757,6 @@
         ]
     },
     {
-        "judul": "Killed Again, Mr. Detective.",
-        "sinopsis": "Sakuya Otsuki is the son of a legendary detective, working to follow in his father's footsteps with his assistant, Lilithea. However, something's different about this high-school sleuth. Wherever he goes, he always manages to get himself entangled in his cases—as a murder victim! When Sakuya is tasked to infiltrate a luxury cruise ship, he finds himself killed once again. But every time he reopens his eyes, Lilithea is there by his side, ready to help him get to the bottom of the mystery...",
-        "genre": [
-            "Mystery",
-            "Romance"
-        ],
-        "metadata": [
-            "TV",
-            "Airing",
-            "2026",
-            "SUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/killed-again-mr-detective-4bd4-hq.webp",
-        "url_detail": "https://kickass-anime.ru/killed-again-mr-detective-6a2b",
-        "url_watch": "https://kickass-anime.ru/killed-again-mr-detective-6a2b/ep-1-bf6998",
-        "episode_saat_ini": {
-            "judul_episode": "Killed Again, Mr. Detective.",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "M3U8 tidak ditemukan",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {}
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 02",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            }
-        ],
-        "total_episode": 2,
-        "scraping_strategy": "cicil",
-        "last_updated": 3052.827609167,
-        "available_subdub": [
-            "Japanese (SUB)"
-        ]
-    },
-    {
-        "judul": "Haibara's Teenage New Game+",
-        "sinopsis": "We all have embarrassing memories or deep regrets from high school, right? Socially anxious college senior Natsuki Haibara sure does. When he thinks back on that time of his life, all he has are fleeting fantasies of a happy adolescence that could have been. Imagine his bewilderment and surprise, then, when he inexplicably finds himself seven years in the past—one month before his first year of high school! Can Haibara avoid his previous mistakes, make his way to the top of the school social pyramid, and end up with the girl of his dreams? Or will he be forced to relive three years of solitude as the most hated guy in school? He'll need all the help he can get in order to succeed, from a workout regimen to online how-to guides, a childhood friend, and plenty of sheer willpower. Watch as Haibara takes a second shot at his teenage years!",
-        "genre": [
-            "Comedy",
-            "Romance",
-            "School",
-            "Time Travel"
-        ],
-        "metadata": [
-            "TV",
-            "Airing",
-            "2026",
-            "SUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/haibara-kun-no-tsuyokute-seishun-new-game-ed43-hq.webp",
-        "url_detail": "https://kickass-anime.ru/haibara-kun-no-tsuyokute-seishun-new-game-6e8c",
-        "url_watch": "https://kickass-anime.ru/haibara-kun-no-tsuyokute-seishun-new-game-6e8c/ep-1-57e16b",
-        "episode_saat_ini": {
-            "judul_episode": "Haibara's Teenage New Game+",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "M3U8 tidak ditemukan",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {}
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 02",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            }
-        ],
-        "total_episode": 2,
-        "scraping_strategy": "cicil",
-        "last_updated": 3098.240413103,
-        "available_subdub": [
-            "Japanese (SUB)"
-        ]
-    },
-    {
         "judul": "Marika's Love Meter Malfunction (Uncensored)",
         "sinopsis": "Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!",
         "genre": [
@@ -5569,100 +5846,6 @@
         "total_episode": 2,
         "scraping_strategy": "cicil",
         "last_updated": 3178.614888538,
-        "available_subdub": [
-            "Japanese (SUB)"
-        ]
-    },
-    {
-        "judul": "A Hundred Scenes of Awajima",
-        "sinopsis": "This omnibus adolescent drama is about a group of young girls who all attend a \"girls-only musical school,\" recounting the formative years they shared, at times shifting between different characters' viewpoints and time. Awajima Musical School Training Camp, dubbed the \"boarding house,\" is where young girls gather from all over Japan to perform on stage. Tabata Wakana aspires to be a musical star; housemaster Takehara Kinue attends to carry on her best friend's wishes; beautiful Okabe Emi is a scholarship student who is always at the center of attention; and Ibuki Katsurako, who became a teacher at the school though originally from a family of actresses. The unique environment of the musical school is simultaneously a respite space for these aspiring girls and also a harsh battleground that pits young students against each other. It is a place where perseverance can lead to blossoming talents, but also to a cruel reality at times. The clear depiction and psychological portrayal allow the subtle inner workings of each character to come through.",
-        "genre": [
-            "Drama",
-            "School"
-        ],
-        "metadata": [
-            "TV",
-            "Airing",
-            "2026",
-            "SUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/awajima-hyakkei-3e56-hq.webp",
-        "url_detail": "https://kickass-anime.ru/awajima-hyakkei-fa4e",
-        "url_watch": "https://kickass-anime.ru/awajima-hyakkei-fa4e/ep-1-d0084f",
-        "episode_saat_ini": {
-            "judul_episode": "A Hundred Scenes of Awajima",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "M3U8 tidak ditemukan",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {}
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            }
-        ],
-        "total_episode": 1,
-        "scraping_strategy": "cicil",
-        "last_updated": 2706.878972414,
-        "available_subdub": [
-            "Japanese (SUB)"
-        ]
-    },
-    {
-        "judul": "Petals of Reincarnation",
-        "sinopsis": "There exists an object known as the \"Branch of Reincarnation\" that can grant people the talents of the past lives, so long as they slit their own throat with it. Touya Senji is a teenage boy struggling with low self-esteem after growing up in the shadow of his gifted older brother. He comes to the decision that academic studies are his last resort in the search for talent, but fails to find satisfaction despite constantly placing in the top 100 for national mock exams. In a twist of fate, Touya encounters one of his classmates, Haito Luo Buffett, a \"Returner\" who has resurrected the talents of her past life using the Branch of Reincarnation, as she fights against a serial killer.",
-        "genre": [
-            "Action",
-            "Mystery",
-            "Reincarnation",
-            "Supernatural"
-        ],
-        "metadata": [
-            "TV",
-            "Airing",
-            "2026",
-            "SUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/reincarnation-no-kaben-20aa-hq.webp",
-        "url_detail": "https://kickass-anime.ru/reincarnation-no-kaben-5b56",
-        "url_watch": "https://kickass-anime.ru/reincarnation-no-kaben-5b56/ep-1-ef8d41",
-        "episode_saat_ini": {
-            "judul_episode": "Petals of Reincarnation",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "M3U8 tidak ditemukan",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {}
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 02",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            }
-        ],
-        "total_episode": 2,
-        "scraping_strategy": "cicil",
-        "last_updated": 2752.598118445,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -5785,50 +5968,6 @@
             "Español (España)",
             "Korean (DUB)",
             "English (DUB)"
-        ]
-    },
-    {
-        "judul": "Kujima: Why Sing, When You Can Warble?",
-        "sinopsis": "In the autumn of his first year of middle school, Arata Kouda meets Kujima, a strange creature that sort-of looks like a bird. Since Kujima is hungry, Arata brings it home with him... But because of his older brother who failed his entrance exams, Kujima gets carried away by the situation and ends up freeloading at the Kouda residence. He says it's just until he makes it through winter, and the warmth of spring comes, but...",
-        "genre": [
-            "Comedy",
-            "Shounen",
-            "Supernatural"
-        ],
-        "metadata": [
-            "TV",
-            "Airing",
-            "2026",
-            "24 min",
-            "SUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/kujima-utaeba-ie-hororo-da9e-hq.webp",
-        "url_detail": "https://kickass-anime.ru/kujima-utaeba-ie-hororo-ee01",
-        "url_watch": "https://kickass-anime.ru/kujima-utaeba-ie-hororo-ee01/ep-1-d0d3af",
-        "episode_saat_ini": {
-            "judul_episode": "Kujima: Why Sing, When You Can Warble?",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "M3U8 tidak ditemukan",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {}
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            }
-        ],
-        "total_episode": 1,
-        "scraping_strategy": "cicil",
-        "last_updated": 2811.130802925,
-        "available_subdub": [
-            "Japanese (SUB)"
         ]
     },
     {
@@ -5980,50 +6119,6 @@
             "Japanese (SUB)",
             "English (DUB)",
             "Español (España)"
-        ]
-    },
-    {
-        "judul": "Even a Replica Can Fall in Love",
-        "sinopsis": "On days when Sunao is sick, or not feeling like going to school, she is called to take her place. She was born to this world when Sunao wished to have a substitute. No one knows that she exists, but she tries to do her best for Sunao whenever she is called. One day she talks with Sanada, one of her classmates. They become friends, but soon he notices that she is different from the original Sunao...he was the first one who did. She tells him to talk with her only when she has her hair half-up. Sanada does like she told him, and they enjoy their time together. As they become closer, she realizes that she has special feelings toward Sanada. But she doesn't know what will happen to her...if she, a replica, falls in love.",
-        "genre": [
-            "Drama",
-            "Romance",
-            "School",
-            "Supernatural"
-        ],
-        "metadata": [
-            "TV",
-            "Airing",
-            "2026",
-            "SUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/replica-datte-koi-wo-suru-be08-hq.webp",
-        "url_detail": "https://kickass-anime.ru/replica-datte-koi-wo-suru-60ad",
-        "url_watch": "https://kickass-anime.ru/replica-datte-koi-wo-suru-60ad/ep-1-da457a",
-        "episode_saat_ini": {
-            "judul_episode": "Even a Replica Can Fall in Love",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "M3U8 tidak ditemukan",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {}
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            }
-        ],
-        "total_episode": 1,
-        "scraping_strategy": "cicil",
-        "last_updated": 2818.006968291,
-        "available_subdub": [
-            "Japanese (SUB)"
         ]
     },
     {
