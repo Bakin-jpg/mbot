@@ -1,5 +1,309 @@
 [
     {
+        "judul": "Dr. Stone: Science Future Part 3",
+        "sinopsis": "Third part of Dr. Stone: Science Future.",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi",
+            "Shounen"
+        ],
+        "metadata": [
+            "TV",
+            "PG-13",
+            "Airing",
+            "2026",
+            "SUB",
+            "DUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/dr-stone-science-future-part-3-2d05-hq.webp",
+        "url_detail": "https://kickass-anime.ru/dr-stone-science-future-part-3-2eeb",
+        "url_watch": "https://kickass-anime.ru/dr-stone-science-future-part-3-2eeb/ep-1-e02d20",
+        "episode_saat_ini": {
+            "judul_episode": "Dr. Stone: Science Future Part 3",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf058/playlist.m3u8",
+            "subdub_used": "Español (España)",
+            "all_subdub_m3u8": {
+                "Español (España)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf058/playlist.m3u8",
+                "English (DUB)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf058/playlist.m3u8"
+            }
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05e/playlist.m3u8",
+                "subdub_used": "Español (España)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05e/playlist.m3u8",
+                    "English (DUB)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf058/playlist.m3u8"
+                }
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69d7c86aab00ea326714ceef/69d7c86fa520c0e6888c3e9f/playlist.m3u8",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69d7c86aab00ea326714ceef/69d7c86fa520c0e6888c3e9f/playlist.m3u8",
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69d7c86aab00ea326714ceef/69d7c86fa520c0e6888c3e9d/playlist.m3u8",
+                    "English (DUB)": "https://hls.krussdomi.com/manifest/69d7c86aab00ea326714ceef/69d7c86fa520c0e6888c3e9b/playlist.m3u8"
+                }
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69e11c77ab00ea3267a1d48f/69e11c7ba520c0e6888cbb73/playlist.m3u8",
+                "subdub_used": "Español (España)",
+                "status": "success",
+                "all_subdub_m3u8": {
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69e11c77ab00ea3267a1d48f/69e11c7ba520c0e6888cbb73/playlist.m3u8",
+                    "English (DUB)": "https://hls.krussdomi.com/manifest/69e11c77ab00ea3267a1d48f/69e11c7ba520c0e6888cbb73/playlist.m3u8"
+                }
+            },
+            {
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 06",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 6,
+        "scraping_strategy": "cicil",
+        "last_updated": 562.093223546,
+        "available_subdub": [
+            "Japanese (SUB)",
+            "Español (España)",
+            "English (DUB)"
+        ]
+    },
+    {
+        "judul": "Kujima: Why Sing, When You Can Warble?",
+        "sinopsis": "In the autumn of his first year of middle school, Arata Kouda meets Kujima, a strange creature that sort-of looks like a bird. Since Kujima is hungry, Arata brings it home with him... But because of his older brother who failed his entrance exams, Kujima gets carried away by the situation and ends up freeloading at the Kouda residence. He says it's just until he makes it through winter, and the warmth of spring comes, but...",
+        "genre": [
+            "Comedy",
+            "Shounen",
+            "Supernatural"
+        ],
+        "metadata": [
+            "TV",
+            "Airing",
+            "2026",
+            "24 min",
+            "SUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/kujima-utaeba-ie-hororo-da9e-hq.webp",
+        "url_detail": "https://kickass-anime.ru/kujima-utaeba-ie-hororo-ee01",
+        "url_watch": "https://kickass-anime.ru/kujima-utaeba-ie-hororo-ee01/ep-1-d0d3af",
+        "episode_saat_ini": {
+            "judul_episode": "Kujima: Why Sing, When You Can Warble?",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 5,
+        "scraping_strategy": "cicil",
+        "last_updated": 642.62768504,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
+    },
+    {
+        "judul": "The Warrior Princess and the Barbaric King",
+        "sinopsis": "\"Just kill me!\" These are the words of Serafina de Lavillant, the strongest female knight in the West. After being defeated in a war with the East, she has become a prisoner of the barbarians! What awaits the captive Serafina is a life of revenge, torture, and humiliation... or so she thought! What she is offered instead is a marriage to the barbarian king?! An intriguing tale of otherworldly marriage is about to begin!",
+        "genre": [
+            "Comedy",
+            "Fantasy",
+            "Romance",
+            "Shounen"
+        ],
+        "metadata": [
+            "TV",
+            "Airing",
+            "2026",
+            "24 min",
+            "SUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/himekishi-wa-barbaroi-no-yome-42ab-hq.webp",
+        "url_detail": "https://kickass-anime.ru/himekishi-wa-barbaroi-no-yome-058a",
+        "url_watch": "https://kickass-anime.ru/himekishi-wa-barbaroi-no-yome-058a/ep-1-9decb6",
+        "episode_saat_ini": {
+            "judul_episode": "The Warrior Princess and the Barbaric King",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 03",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 04",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 05",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 5,
+        "scraping_strategy": "cicil",
+        "last_updated": 721.78993042,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
+    },
+    {
+        "judul": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
+        "sinopsis": "New anime for Iya na Kao sare nagara Opantsu Misete Moraitai.",
+        "genre": [
+            "Ecchi"
+        ],
+        "metadata": [
+            "ONA",
+            "PG-13",
+            "Airing",
+            "2026",
+            "SUB",
+            "A-Z LIST",
+            "Copyright © KickAssAnime All Rights Reserved."
+        ],
+        "url_poster": "https://kaa.lt/image/poster/iya-na-kao-sare-nagara-opantsu-misete-moraitai-returns-39f3-hq.webp",
+        "url_detail": "https://kickass-anime.ru/iya-na-kao-sare-nagara-opantsu-misete-moraitai-returns-509a",
+        "url_watch": "https://kickass-anime.ru/iya-na-kao-sare-nagara-opantsu-misete-moraitai-returns-509a/ep-1-b1f464",
+        "episode_saat_ini": {
+            "judul_episode": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
+            "nomor_episode": "SERVER:",
+            "m3u8_url": "M3U8 tidak ditemukan",
+            "subdub_used": "Japanese (SUB)",
+            "all_subdub_m3u8": {}
+        },
+        "semua_episode": [
+            {
+                "episode_number": "EP 01",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            },
+            {
+                "episode_number": "EP 02",
+                "episode_url": "https://kickass-anime.ru/",
+                "m3u8_url": "M3U8 tidak ditemukan",
+                "subdub_used": "Japanese (SUB)",
+                "status": "success",
+                "all_subdub_m3u8": {}
+            }
+        ],
+        "total_episode": 2,
+        "scraping_strategy": "cicil",
+        "last_updated": 767.143468397,
+        "available_subdub": [
+            "Japanese (SUB)"
+        ]
+    },
+    {
         "judul": "Reborn as a Cat",
         "sinopsis": "Ji Miaomiao, a young woman just starting her career, is betrayed by a friend and left with a mountain of debt. While fleeing from ruthless debt collectors, she accidentally falls from a building. On the brink of death, a mysterious figure transforms her into a cat. By a twist of fate, she ends up being adopted—by none other than her own boss, Lu Chengze. Thus begins her strange and magical 100-day life... as a cat.",
         "genre": [
@@ -110,7 +414,7 @@
         ],
         "total_episode": 28,
         "scraping_strategy": "cicil",
-        "last_updated": 223.925630674,
+        "last_updated": 903.007467332,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -228,7 +532,7 @@
         ],
         "total_episode": 24,
         "scraping_strategy": "cicil",
-        "last_updated": 2790.330571231,
+        "last_updated": 3454.584366083,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -319,7 +623,7 @@
         ],
         "total_episode": 7,
         "scraping_strategy": "cicil",
-        "last_updated": 693.048289393,
+        "last_updated": 1368.919240305,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -405,7 +709,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 784.299368061,
+        "last_updated": 1459.512490786,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -482,7 +786,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 864.342556525,
+        "last_updated": 1538.60956032,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -586,7 +890,7 @@
         ],
         "total_episode": 8,
         "scraping_strategy": "cicil",
-        "last_updated": 1235.483331798,
+        "last_updated": 1908.154710104,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -668,7 +972,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 1486.930341706,
+        "last_updated": 2158.396795905,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -754,7 +1058,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1578.22251237,
+        "last_updated": 2249.019508209,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -837,7 +1141,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1669.615680496,
+        "last_updated": 2340.815088002,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -917,7 +1221,7 @@
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 1760.791633752,
+        "last_updated": 2431.870672517,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -1026,7 +1330,7 @@
         ],
         "total_episode": 9,
         "scraping_strategy": "cicil",
-        "last_updated": 1886.224564812,
+        "last_updated": 2557.167327395,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1105,7 +1409,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 1966.224617406,
+        "last_updated": 2637.162122702,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1180,7 +1484,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2047.177203083,
+        "last_updated": 2716.961938606,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1256,7 +1560,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2127.107420728,
+        "last_updated": 2796.425567653,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1332,7 +1636,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2207.045478647,
+        "last_updated": 2876.237509501,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1399,7 +1703,7 @@
         ],
         "total_episode": 4,
         "scraping_strategy": "cicil",
-        "last_updated": 2275.672475018,
+        "last_updated": 2944.017178764,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1474,7 +1778,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2355.522149033,
+        "last_updated": 3023.070428366,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1549,7 +1853,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2435.469482771,
+        "last_updated": 3102.077685147,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1626,7 +1930,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2515.500424146,
+        "last_updated": 3181.249362868,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -1743,7 +2047,7 @@
         ],
         "total_episode": 81,
         "scraping_strategy": "cicil",
-        "last_updated": 2653.280443114,
+        "last_updated": 3317.870539795,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -1861,7 +2165,7 @@
         ],
         "total_episode": 24,
         "scraping_strategy": "cicil",
-        "last_updated": 2790.330571231,
+        "last_updated": 3454.584366083,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -1939,7 +2243,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 2870.210141247,
+        "last_updated": 3533.7617121,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2055,7 +2359,7 @@
         ],
         "total_episode": 13,
         "scraping_strategy": "cicil",
-        "last_updated": 3007.018191988,
+        "last_updated": 3669.473499696,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2132,7 +2436,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 3086.901437315,
+        "last_updated": 3748.453471667,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2192,31 +2496,42 @@
             {
                 "episode_number": "EP 04",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69e63ea8ab00ea32677ea988/69e63eaea520c0e6888cf594/playlist.m3u8",
+                "subdub_used": "English (DUB)",
                 "status": "success",
-                "all_subdub_m3u8": {}
+                "all_subdub_m3u8": {
+                    "English (DUB)": "https://hls.krussdomi.com/manifest/69e63ea8ab00ea32677ea988/69e63eaea520c0e6888cf594/playlist.m3u8",
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69e63ea8ab00ea32677ea988/69e63eaea520c0e6888cf594/playlist.m3u8"
+                }
             },
             {
                 "episode_number": "EP 05",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69ef7185ab00ea3267be03b4/master.m3u8",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {}
+                "all_subdub_m3u8": {
+                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69ef7185ab00ea3267be03b4/master.m3u8",
+                    "English (DUB)": "https://hls.krussdomi.com/manifest/69ef7185ab00ea3267be03b4/69ef7189a520c0e6888d49da/playlist.m3u8",
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69ef7185ab00ea3267be03b4/69ef7189a520c0e6888d49da/playlist.m3u8"
+                }
             },
             {
                 "episode_number": "EP 06",
                 "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
+                "m3u8_url": "https://hls.krussdomi.com/manifest/69f8b2bcab00ea326765d198/master.m3u8",
                 "subdub_used": "Japanese (SUB)",
                 "status": "success",
-                "all_subdub_m3u8": {}
+                "all_subdub_m3u8": {
+                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69f8b2bcab00ea326765d198/master.m3u8",
+                    "English (DUB)": "https://hls.krussdomi.com/manifest/69f8b2bcab00ea326765d198/69f8b2c0a520c0e6888e0fc3/playlist.m3u8",
+                    "Español (España)": "https://hls.krussdomi.com/manifest/69f8b2bcab00ea326765d198/69f8b2c0a520c0e6888e0fc3/playlist.m3u8"
+                }
             }
         ],
         "total_episode": 6,
         "scraping_strategy": "cicil",
-        "last_updated": 3378.994723936,
+        "last_updated": 4038.627564804,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)",
@@ -2294,7 +2609,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 3458.875478239,
+        "last_updated": 4118.374345852,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2368,7 +2683,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 3642.882774712,
+        "last_updated": 4301.518445395,
         "available_subdub": [
             "English (DUB)",
             "Japanese (SUB)"
@@ -2486,7 +2801,7 @@
         ],
         "total_episode": 54,
         "scraping_strategy": "cicil",
-        "last_updated": 3780.67646675,
+        "last_updated": 4437.816433876,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -2603,7 +2918,7 @@
         ],
         "total_episode": 100,
         "scraping_strategy": "cicil",
-        "last_updated": 3919.313286873,
+        "last_updated": 4574.969461734,
         "available_subdub": [
             "Chinese (DUB)"
         ]
@@ -2676,7 +2991,7 @@
         ],
         "total_episode": 5,
         "scraping_strategy": "cicil",
-        "last_updated": 3999.697265221,
+        "last_updated": 4654.249727884,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2742,7 +3057,7 @@
         ],
         "total_episode": 4,
         "scraping_strategy": "cicil",
-        "last_updated": 4068.588905101,
+        "last_updated": 4722.115438396,
         "available_subdub": [
             "Japanese (SUB)"
         ]
@@ -2930,7 +3245,7 @@
         ],
         "total_episode": 100,
         "scraping_strategy": "cicil",
-        "last_updated": 4404.157300159,
+        "last_updated": 5054.826057562,
         "available_subdub": [
             "Japanese (SUB)",
             "English (DUB)"
@@ -7316,293 +7631,6 @@
             "Español (España)",
             "Korean (DUB)",
             "English (DUB)"
-        ]
-    },
-    {
-        "judul": "Dr. Stone: Science Future Part 3",
-        "sinopsis": "Third part of Dr. Stone: Science Future.",
-        "genre": [
-            "Adventure",
-            "Comedy",
-            "Sci-Fi",
-            "Shounen"
-        ],
-        "metadata": [
-            "TV",
-            "PG-13",
-            "Airing",
-            "2026",
-            "SUB",
-            "DUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/dr-stone-science-future-part-3-2d05-hq.webp",
-        "url_detail": "https://kickass-anime.ru/dr-stone-science-future-part-3-2eeb",
-        "url_watch": "https://kickass-anime.ru/dr-stone-science-future-part-3-2eeb/ep-1-e02d20",
-        "episode_saat_ini": {
-            "judul_episode": "Dr. Stone: Science Future Part 3",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05c/playlist.m3u8",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {
-                "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05c/playlist.m3u8",
-                "Español (España)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/master.m3u8",
-                "English (DUB)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/master.m3u8"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05a/playlist.m3u8",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {
-                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05a/playlist.m3u8",
-                    "Español (España)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05c/playlist.m3u8",
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/69cea9c8ab00ea32677d0156/69cea9cca520c0e6888bf05c/playlist.m3u8"
-                }
-            },
-            {
-                "episode_number": "EP 02",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/69d7c86aab00ea326714ceef/69d7c86fa520c0e6888c3e9b/playlist.m3u8",
-                "subdub_used": "Español (España)",
-                "status": "success",
-                "all_subdub_m3u8": {
-                    "Español (España)": "https://hls.krussdomi.com/manifest/69d7c86aab00ea326714ceef/69d7c86fa520c0e6888c3e9b/playlist.m3u8",
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/69d7c86aab00ea326714ceef/69d7c86fa520c0e6888c3e9b/playlist.m3u8"
-                }
-            },
-            {
-                "episode_number": "EP 03",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/69e11c77ab00ea3267a1d48f/69e11c7ba520c0e6888cbb73/playlist.m3u8",
-                "subdub_used": "Español (España)",
-                "status": "success",
-                "all_subdub_m3u8": {
-                    "Español (España)": "https://hls.krussdomi.com/manifest/69e11c77ab00ea3267a1d48f/69e11c7ba520c0e6888cbb73/playlist.m3u8",
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/69e11c77ab00ea3267a1d48f/69e11c7ba520c0e6888cbb73/playlist.m3u8"
-                }
-            },
-            {
-                "episode_number": "EP 04",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/69ea312eab00ea32675c4820/69ea3132a520c0e6888d1481/playlist.m3u8",
-                "subdub_used": "Español (España)",
-                "status": "success",
-                "all_subdub_m3u8": {
-                    "Español (España)": "https://hls.krussdomi.com/manifest/69ea312eab00ea32675c4820/69ea3132a520c0e6888d1481/playlist.m3u8",
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/69ea312eab00ea32675c4820/69ea3132a520c0e6888d1481/playlist.m3u8"
-                }
-            },
-            {
-                "episode_number": "EP 05",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/69f37856ab00ea3267c5d912/69f3785aa520c0e6888d6b99/playlist.m3u8",
-                "subdub_used": "Español (España)",
-                "status": "success",
-                "all_subdub_m3u8": {
-                    "Español (España)": "https://hls.krussdomi.com/manifest/69f37856ab00ea3267c5d912/69f3785aa520c0e6888d6b99/playlist.m3u8",
-                    "English (DUB)": "https://hls.krussdomi.com/manifest/69f37856ab00ea3267c5d912/69f3785aa520c0e6888d6b99/playlist.m3u8"
-                }
-            }
-        ],
-        "total_episode": 5,
-        "scraping_strategy": "cicil",
-        "last_updated": 3272.242199438,
-        "available_subdub": [
-            "Japanese (SUB)",
-            "Español (España)",
-            "English (DUB)"
-        ]
-    },
-    {
-        "judul": "Kujima: Why Sing, When You Can Warble?",
-        "sinopsis": "In the autumn of his first year of middle school, Arata Kouda meets Kujima, a strange creature that sort-of looks like a bird. Since Kujima is hungry, Arata brings it home with him... But because of his older brother who failed his entrance exams, Kujima gets carried away by the situation and ends up freeloading at the Kouda residence. He says it's just until he makes it through winter, and the warmth of spring comes, but...",
-        "genre": [
-            "Comedy",
-            "Shounen",
-            "Supernatural"
-        ],
-        "metadata": [
-            "TV",
-            "Airing",
-            "2026",
-            "24 min",
-            "SUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/kujima-utaeba-ie-hororo-da9e-hq.webp",
-        "url_detail": "https://kickass-anime.ru/kujima-utaeba-ie-hororo-ee01",
-        "url_watch": "https://kickass-anime.ru/kujima-utaeba-ie-hororo-ee01/ep-1-d0d3af",
-        "episode_saat_ini": {
-            "judul_episode": "Kujima: Why Sing, When You Can Warble?",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "M3U8 tidak ditemukan",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {}
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 02",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 03",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 04",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://hls.krussdomi.com/manifest/69f37878ab00ea3267c5e45c/master.m3u8",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {
-                    "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69f37878ab00ea3267c5e45c/master.m3u8"
-                }
-            }
-        ],
-        "total_episode": 4,
-        "scraping_strategy": "cicil",
-        "last_updated": 3339.917849709,
-        "available_subdub": [
-            "Japanese (SUB)"
-        ]
-    },
-    {
-        "judul": "The Warrior Princess and the Barbaric King",
-        "sinopsis": "\"Just kill me!\" These are the words of Serafina de Lavillant, the strongest female knight in the West. After being defeated in a war with the East, she has become a prisoner of the barbarians! What awaits the captive Serafina is a life of revenge, torture, and humiliation... or so she thought! What she is offered instead is a marriage to the barbarian king?! An intriguing tale of otherworldly marriage is about to begin!",
-        "genre": [
-            "Comedy",
-            "Fantasy",
-            "Romance",
-            "Shounen"
-        ],
-        "metadata": [
-            "TV",
-            "Airing",
-            "2026",
-            "24 min",
-            "SUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/himekishi-wa-barbaroi-no-yome-42ab-hq.webp",
-        "url_detail": "https://kickass-anime.ru/himekishi-wa-barbaroi-no-yome-058a",
-        "url_watch": "https://kickass-anime.ru/himekishi-wa-barbaroi-no-yome-058a/ep-1-9decb6",
-        "episode_saat_ini": {
-            "judul_episode": "The Warrior Princess and the Barbaric King",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "https://hls.krussdomi.com/manifest/69d7c7ceab00ea326714af2d/master.m3u8",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {
-                "Japanese (SUB)": "https://hls.krussdomi.com/manifest/69d7c7ceab00ea326714af2d/master.m3u8"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 02",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 03",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            },
-            {
-                "episode_number": "EP 04",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "M3U8 tidak ditemukan",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {}
-            }
-        ],
-        "total_episode": 4,
-        "scraping_strategy": "cicil",
-        "last_updated": 3407.698546057,
-        "available_subdub": [
-            "Japanese (SUB)"
-        ]
-    },
-    {
-        "judul": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
-        "sinopsis": "New anime for Iya na Kao sare nagara Opantsu Misete Moraitai.",
-        "genre": [
-            "Ecchi"
-        ],
-        "metadata": [
-            "ONA",
-            "PG-13",
-            "Airing",
-            "2026",
-            "SUB",
-            "A-Z LIST",
-            "Copyright © KickAssAnime All Rights Reserved."
-        ],
-        "url_poster": "https://kaa.lt/image/poster/iya-na-kao-sare-nagara-opantsu-misete-moraitai-returns-39f3-hq.webp",
-        "url_detail": "https://kickass-anime.ru/iya-na-kao-sare-nagara-opantsu-misete-moraitai-returns-509a",
-        "url_watch": "https://kickass-anime.ru/iya-na-kao-sare-nagara-opantsu-misete-moraitai-returns-509a/ep-1-b1f464",
-        "episode_saat_ini": {
-            "judul_episode": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
-            "nomor_episode": "SERVER:",
-            "m3u8_url": "https://bl.krussdomi.com/playlist/69f35b83ab00ea3267bd7ebd/master.m3u8",
-            "subdub_used": "Japanese (SUB)",
-            "all_subdub_m3u8": {
-                "Japanese (SUB)": "https://bl.krussdomi.com/playlist/69f35b83ab00ea3267bd7ebd/master.m3u8"
-            }
-        },
-        "semua_episode": [
-            {
-                "episode_number": "EP 01",
-                "episode_url": "https://kickass-anime.ru/",
-                "m3u8_url": "https://bl.krussdomi.com/playlist/69f35b83ab00ea3267bd7ebd/69f35b88ab00ea3267bd7fd0/playlist.m3u8",
-                "subdub_used": "Japanese (SUB)",
-                "status": "success",
-                "all_subdub_m3u8": {
-                    "Japanese (SUB)": "https://bl.krussdomi.com/playlist/69f35b83ab00ea3267bd7ebd/69f35b88ab00ea3267bd7fd0/playlist.m3u8"
-                }
-            }
-        ],
-        "total_episode": 1,
-        "scraping_strategy": "cicil",
-        "last_updated": 3441.538794757,
-        "available_subdub": [
-            "Japanese (SUB)"
         ]
     },
     {
